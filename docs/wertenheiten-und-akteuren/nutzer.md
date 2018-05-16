@@ -1,4 +1,5 @@
 ---
+title: Nutzer
 tags:
   - Akteur
   - dpa
@@ -46,9 +47,13 @@ Stichworte: Markenbildung, Branding für dpa·ID, Bezug zur dpa durch die Farbe 
 
 ## Ausprägung
 
-- Nutzer ohne Bild
-- Nutzer mit Bild
-- Liste als select Autocomplete
+### Nutzer ohne Bild
+
+![](./nutzer/nutzer-mit-kuerzel-auspraegung.png)
+
+### Nutzer mit Bild
+
+![](./nutzer/nutzer-mit-bild-auspraegung.png)
 
 ## Kontext
 
