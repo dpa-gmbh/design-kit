@@ -34,6 +34,16 @@ Der Nutzer ist in unterschiedlichen Rollen auf dem Marktplatz. Er ist als Person
 
 Nutzer ohne Bild im Kontext eines Dialogs
 
+## Begründung für die Gestaltung
+
+### Runde Form
+Vorbild sind Twitter und Material Design. Insbesondere in Abgrenzung zu der eckigen Form von Tools, die auch als Farbe / Buchstabenkürzel vorliegen können
+
+### Punkt
+Der Punkt signalisiert den Nutzer selbst, dass er sich mit der dpa ID angemeldet hat. Es ist nicht irgendein Nutzer, sondern ein Nutzer der dpa.
+
+Stichworte: Markenbildung, Branding für dpa·ID, Bezug zur dpa durch die Farbe grün
+
 ## Ausprägung
 
 - Nutzer ohne Bild
