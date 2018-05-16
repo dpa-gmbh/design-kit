@@ -54,12 +54,19 @@ Nutzer ohne Bild im Kontext eines Dialogs
 
 ## OOUX-Draft
 
+- *Nutzer* 
+- Bild 
+- Kürzel 
+- Name 
+- Rolle/Titel
+- Organisation
+- Gehört zu einem oder mehreren Teams 
+- E-Mail / Passwort
+
 ## Code
 
 <User></User>
     <User></User>
-<User :is-dpa="true"></User>
-    <User :is-dpa="true"></User>
 <User :notifications="5"></User>
     <User :notifications="5"></User>
 <User abbr="jw"></User>
