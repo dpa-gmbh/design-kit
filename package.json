@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mlnmln/test.git",
+  "author": "Milan Matull <milan@factorial.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^1.1.0",
+    "vuepress": "^0.8.4"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "gh-pages -d docs/.vuepress/dist"
+  }
+}
