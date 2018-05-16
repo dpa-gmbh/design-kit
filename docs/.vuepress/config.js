@@ -27,7 +27,7 @@ module.exports = {
           "./wertenheiten-und-akteuren/team",
           "./wertenheiten-und-akteuren/tool",
           "./wertenheiten-und-akteuren/material",
-          "./wertenheiten-und-akteuren/material-typ"
+          "./wertenheiten-und-akteuren/medienformat"
         ]
       },
       {
