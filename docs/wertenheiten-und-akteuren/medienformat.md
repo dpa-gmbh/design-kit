@@ -1,33 +1,36 @@
-# Materialtyp / materialtype
+# Medienformat / materialtype
 
 tags:
 * Klassifizierung
 * dpa
 	
 Synonym:
-* Medienformat
+* Materialtyp
 * Medientyp
 * 
 ---
-# Materialtyp
-Materialtyp klassifiziert *Material*
+# Medienformat
+Medienformat klassifiziert *Inhalt*
 
 ## Beschreibung
-Materialtypen klassifizieren Material in *Text*, *Bild*, *Grafik*, *Video*, *Audio*, *Embed*
+Medienformat klassifiziert einen Inhalte als *Text*, *Bild*, *Grafik*, *Video*, *Audio* oder *Embed*
 
-Materialtyp hat ein erkennbares Erscheinungsbild und einen Namen. Materialtyp ist anschlussfähig für unterschiedliche tools mit unterschiedlicher Content-Dichte (Agenda, Schalttafel)
-  
-Materialtypen erleichtern Orientierung in der Menge an Material. Materialtypen fungieren auch als Filter.
+Medienformat  ist eine allgemein bekannte Klassifizierung von Inhalten, die nicht dpa-spezifisch ist.
+
+Medienformate erleichtern Orientierung in der Menge an Inhalten. Medienformate fungieren auch als Filter. Medienformate erleichtern die Konsumierbarkeit von Inhalt für Publikation oder Information.
 
 ## Iterationsrichtung
 * Unterscheidbar
 * Größe im Kontext
 * 
 
+## Begründung für Gestaltung
+Hat ein erkennbares Erscheinungsbild und einen Namen. Medienformat ist anschlussfähig für unterschiedliche Tools mit unterschiedlicher Content-Dichte (Agenda, Schalttafel)
+
 ## Ausprägung
 * in Listenansichten
 * in Filtern
-* als Navigationselement (conetxtual navigation)
+* als Navigationselement (contextual navigation)
 * in Notification
 
 
@@ -39,9 +42,5 @@ Materialtypen erleichtern Orientierung in der Menge an Material. Materialtypen f
 * …
 
 ## OOUX-Draft
-*Materialyp*
-Icon
+*Medienformat*
 Name
-Meta: text
-Meta: Bild
-Meta:
