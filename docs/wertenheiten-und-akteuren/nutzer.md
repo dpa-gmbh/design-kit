@@ -52,10 +52,15 @@ Stichworte: Markenbildung, Branding für dpa·ID, Bezug zur dpa durch die Farbe 
 
 ## Kontext
 
-- bei  Login
-- ich selbst eingeloggt
+### bei login
+
+![](./nutzer/nutzer-mit-bild.png)
+
+### ich selbst eingeloggt
+
+![](./nutzer/logged-in-with-notification.png)
+
 - in Kommunikation
-- im Ausweis
 
 ## Iterationssrichtung
 
@@ -79,6 +84,8 @@ Stichworte: Markenbildung, Branding für dpa·ID, Bezug zur dpa durch die Farbe 
     <User :notifications="5"></User>
 <User abbr="jw"></User>
     <User abbr="jw"></User>
+
+<!-- {{ $withBase('/user.png') }} -->
 <!-- <User :src="$withBase('/user.png')"></User> -->
 ## Sketches
 [sketches](/)
