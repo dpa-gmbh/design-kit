@@ -1,15 +1,20 @@
+---
+tags:
+  - Akteur
+  - dpa
+
+synonyms:
+  - Kundin
+  - User
+  - Akteur
+---
+
+<List :items="$page.frontmatter.tags" title="Tags"></List>
+<List :items="$page.frontmatter.synonyms" title="Synonyme"></List>
+
 # Nutzer / User
 
 Der Nutzer ist eine Person, die  dpa- und Fremdtools nutzt. Der Nutzer ist Marktplatz-Teilnehmer.
-
-#### tags:
-- Akteur
-- dpa
-
-#### Synonym:
-- Kundin
-- User
-- Akteur
 
 ## Beschreibung
 
