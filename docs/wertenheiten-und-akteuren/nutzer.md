@@ -5,7 +5,7 @@ Der Nutzer ist eine Person, die  dpa- und Fremdtools nutzt. Der Nutzer ist Markt
 #### tags:
 - Akteur
 - dpa
-	
+
 #### Synonym:
 - Kundin
 - User
@@ -54,11 +54,16 @@ Nutzer ohne Bild im Kontext eines Dialogs
 
 ## OOUX-Draft
 
+## Code
 
-
-
-## Kode
-[code](/)
-
+<User></User>
+    <User></User>
+<User :is-dpa="true"></User>
+    <User :is-dpa="true"></User>
+<User :notifications="5"></User>
+    <User :notifications="5"></User>
+<User abbr="jw"></User>
+    <User abbr="jw"></User>
+<!-- <User :src="$withBase('/user.png')"></User> -->
 ## Sketches
 [sketches](/)

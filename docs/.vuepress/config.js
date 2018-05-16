@@ -1,5 +1,5 @@
 module.exports = {
-  base: "/connect-design-kit/",
+  base: "/design-kit/",
   themeConfig: {
     nav: false,
     sidebar: [
