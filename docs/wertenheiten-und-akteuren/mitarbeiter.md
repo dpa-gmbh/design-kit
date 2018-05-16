@@ -9,7 +9,7 @@ Synonym:
 
 ---
 # Mitarbeiter
-Der Mitarbeiter ist eine Person, der für die dpa arbeitet
+Der Mitarbeiter ist eine Person, die für die dpa arbeitet.
 
 ## Beschreibung
 Der Mitarbeiter ist eine Person, die für die dpa arbeitet und als solche identifizierbar ist. Der Mitarbeiter hat verschiedene Rollen, er ist Nutzer der dpa-*Tools* und anderer Tools, hat als solcher eine dpa-ID und ist marktplatzteilnehmer. Er ist aber auch Absender von Newslettern oder Kontaktperson für vertriebliche Angelegenheiten. Er ist Adressat und Absender von Nachrichten für *Nutzer*.
