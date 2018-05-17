@@ -1,7 +1,7 @@
 {
   "lerna": "2.2.0",
   "packages": [
-    "docs/components/*"
+    "packages/*"
   ],
   "version": "independent"
 }
