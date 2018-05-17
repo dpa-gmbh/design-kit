@@ -58,6 +58,8 @@ Nutzer mit Bild
 
 ## Kontext
 
+
+
 <div class="cdk-Preview">
 
 ![](./nutzer/nutzer-mit-bild.png)
@@ -71,11 +73,11 @@ in Kommunikation
 
 </div>
 
-## Iterationssrichtung
-
+::: tip Iterationssrichtung
 - Unterscheidung Nutzer nicht dpa / Nutzer dpa-Mitarbeiter
 - Nutzer im Zusammenspiel mit Team
 - wenn kein Bild da ist, wie wird Nutzer unterscheidbar dargestellt werden
+:::
 
 ## Ressourcen
 
