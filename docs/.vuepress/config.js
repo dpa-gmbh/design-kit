@@ -28,7 +28,6 @@ module.exports = {
             {
                 title: "Grundlagen",
                 children: [
-                    "./grundlagen/",
                     "./grundlagen/farben",
                     "./grundlagen/schriftart"
                 ]
