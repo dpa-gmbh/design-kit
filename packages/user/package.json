@@ -1,0 +1,6 @@
+{
+  "name": "@dpa-connect/user",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT"
+}
