@@ -45,7 +45,6 @@ module.exports = {
             {
                 title: "Werteinheiten und Akteure",
                 children: [
-                    "./werteinheiten-und-akteure/",
                     "./werteinheiten-und-akteure/nutzer",
                     "./werteinheiten-und-akteure/mitarbeiter",
                     "./werteinheiten-und-akteure/team",
