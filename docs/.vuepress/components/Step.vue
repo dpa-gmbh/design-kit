@@ -21,7 +21,7 @@ export default {
   height: 1.4em;
   border-radius: .7em;
   color: #FFF;
-  background-color: #f06e6f;
+  background-color: #FF4F5B;
   position: relative;
   margin-top: -0.1em;
   margin-right: 0.5em;
@@ -29,6 +29,5 @@ export default {
   line-height: 1.4em;
   text-align: center;
   display: inline-block;
-  float: left;
 }
 </style>
