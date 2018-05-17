@@ -58,8 +58,6 @@ Nutzer mit Bild
 
 ## Kontext
 
-
-
 <div class="cdk-Preview">
 
 ![](./nutzer/nutzer-mit-bild.png)
@@ -111,9 +109,6 @@ Der Nutzer kann einfach als Web Komponente in bestehende Andwendungen eingebunde
     <cdk-user abbr="weg"></cdk-user>
 <cdk-user src="https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50"></cdk-user>
     <cdk-user src="https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50"></cdk-user>
-
-## Sketches
-[sketches](/)
 
 
 
