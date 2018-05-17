@@ -49,7 +49,10 @@ module.exports = {
             },
             {
                 title: "Interaktionen",
-                children: ["./interaktionen/anmelden-mit-dpa-id"]
+                children: [
+                    "./interaktionen/anmelden-mit-dpa-id",
+                    "./interaktionen/wiederholt-relevantes-finden",
+                ]
             },
             {
                 title: "Appendix",
