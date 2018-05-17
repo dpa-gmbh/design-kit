@@ -39,12 +39,11 @@ Das System leitet den Nutzer zum Login Screen für die dpa·ID weiter.
 1. Der Nutzer ist am System angemeldet
 Direkte Weiterleitung zurück zu App
 
-![](./anmelden/anmelden-schritt-1.png)
-
 2. Der Nutzer dem dpa ID System bekannt
 Der Screen wird vollflächig angezeigt. Auf dem Screen wird das Tool für den sich der Nutzer anmeldet angezeigt. Außerdem ist der Nutzer selbst angegeben. Der Nutzer muss lediglich das Passwort-Feld angeben.
 
 3. Der Nutzer ist nicht bekannt
+![](./anmelden/anmelden-schritt-2.png)
 Der Nutzer kann Nutzername oder Passwort angeben.
 
 **Hinweise**
