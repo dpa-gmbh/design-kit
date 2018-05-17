@@ -96,6 +96,14 @@ in Kommunikation
 
 Der Nutzer kann einfach als Web Komponente in bestehende Andwendungen eingebunden werden.
 
+
+### Einbindung als Web-Component
+
+- [Demo](https://dpa-connect.github.io/web-components-example/)
+- [Code](https://github.com/dpa-connect/web-components-example/blob/master/index.html)
+
+---
+
     <script src="https://unpkg.com/vue"></script>
     <script src="https://unpkg.com/@dpa-connect/user@0.5.0/dist/cdk-user.min.js"></script>
 
