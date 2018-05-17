@@ -97,7 +97,6 @@ Der Nutzer kann einfach als Web Komponente in bestehende Andwendungen eingebunde
     <script src="https://unpkg.com/vue"></script>
     <script src="https://unpkg.com/@dpa-connect/user@0.4.0/dist/cdk-user.min.js"></script>
 
-
 <cdk-user></cdk-user>
     <cdk-user></cdk-user>
 <cdk-user is-dpa="true"></cdk-user>
