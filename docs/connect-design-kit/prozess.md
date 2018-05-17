@@ -1,6 +1,6 @@
 # Prozess
 
-Die vorliegende Version wurde im connect Design Kit Sprint innerhalbe von 5 Tagen erarbeitet.
+Die vorliegende Version wurde im connect Design Kit Sprint innerhalb von 5 Tagen erarbeitet.
 
 ## Team
 
