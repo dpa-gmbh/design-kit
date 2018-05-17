@@ -16,15 +16,11 @@ module.exports = {
     ],
     themeConfig: {
         nav: [
-          { text: 'Home', link: '/' },
+          {
+            text: 'Home', link: '/'
+          },
         ],
         sidebar: [
-            {
-                title: "Über das Design Kit",
-                children: [
-                    "./connect-design-kit/glossar"
-                ]
-            },
             {
                 title: "Grundlagen",
                 children: [
@@ -53,7 +49,14 @@ module.exports = {
             {
                 title: "Interaktionen",
                 children: ["./interaktionen/anmelden-mit-dpa-id"]
-            }
+            },
+            {
+                title: "Appendix",
+                children: [
+                    "./connect-design-kit/glossar",
+                    "./connect-design-kit/prozess"
+                ]
+            },
         ]
     }
 };
