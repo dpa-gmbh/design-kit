@@ -22,8 +22,6 @@ module.exports = {
             {
                 title: "Über das Design Kit",
                 children: [
-                    "./connect-design-kit/",
-                    "./connect-design-kit/was-wie-wieso",
                     "./connect-design-kit/glossar"
                 ]
             },
