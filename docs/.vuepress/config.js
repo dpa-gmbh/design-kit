@@ -39,12 +39,12 @@ module.exports = {
                 title: "Werteinheiten und Akteure",
                 children: [
                     "./werteinheiten-und-akteure/filter",
+                    "./werteinheiten-und-akteure/inhalt",
                     "./werteinheiten-und-akteure/nutzer",
+                    "./werteinheiten-und-akteure/medienformat",
                     "./werteinheiten-und-akteure/mitarbeiter",
                     "./werteinheiten-und-akteure/team",
-                    "./werteinheiten-und-akteure/tool",
-                    "./werteinheiten-und-akteure/material",
-                    "./werteinheiten-und-akteure/medienformat"
+                    "./werteinheiten-und-akteure/tool"
                 ]
             },
             {
