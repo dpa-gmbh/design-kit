@@ -15,7 +15,9 @@ module.exports = {
         ],
     ],
     themeConfig: {
-        nav: false,
+        nav: [
+          { text: 'Home', link: '/' },
+        ],
         sidebar: [
             {
                 title: "Über das Design Kit",
