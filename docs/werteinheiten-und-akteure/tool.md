@@ -2,17 +2,17 @@
 title: Tool
 term: Tool
 tags:
-- Marktplatz
-- dpa
-- Anbieter
+  - Marktplatz
+  - dpa
+  - Anbieter
 
 synonyms:
-- Anwendung
-- Applikation
-- Service
-- digitale Ausspielfläche
-- Marktplatz
-- digitales Produkt
+  - Anwendung
+  - Applikation
+  - Service
+  - digitale Ausspielfläche
+  - Marktplatz
+  - digitales Produkt
 ---
 
 <TagList :items="$page.frontmatter.tags" title="Tags" />
