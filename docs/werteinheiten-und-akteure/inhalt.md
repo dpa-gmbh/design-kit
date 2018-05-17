@@ -18,10 +18,10 @@ synonyms:
 Inhalt ist eine journalistische  *Werteinheit*  der dpa oder anderer Anbieter.
 
 ## Gestaltung
-![](inhalt/inhalt.png)
+![](./inhalt/inhalt.png)
 
 ## Skizze
-![](inhalt/inhalt-skizze.png)
+![](./inhalt/inhalt-skizze.png)
 
 ## Beschreibung
 Inhalt ist eine journalistische Werteinheiten der dpa oder anderer Anbieter. Ein Inhalt wird zur Publikation oder zu Informationszwecken angeboten.

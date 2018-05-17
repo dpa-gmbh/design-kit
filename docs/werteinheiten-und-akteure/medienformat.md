@@ -22,11 +22,11 @@ Medienformate erleichtern Orientierung in der Menge an Inhalten. Medienformate f
 
 ## Gestaltung
 
-![](medienformat/medienformat.png)
+![](./medienformat/medienformat.png)
 
 ## Skizze
 
-![](medienformat/medienformat-skizze.png)
+![](./medienformat/medienformat-skizze.png)
 
 ## Begründung für Gestaltung
 Hat ein erkennbares Erscheinungsbild und einen Namen. Medienformat ist anschlussfähig für unterschiedliche Tools mit unterschiedlicher Content-Dichte (Agenda, Schalttafel)
