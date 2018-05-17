@@ -1,15 +1,16 @@
-# Medienformat / materialtype
-
-tags:
-* Klassifizierung
-* dpa
-	
-Synonym:
-* Materialtyp
-* Medientyp
-* 
 ---
+title: Medienformat
+terms: materialtype
+tags:
+  - Klassifizierung
+  - dpa
+synonyms:
+  - Materialtyp
+  - Medientyp
+---
+
 # Medienformat
+
 Medienformat klassifiziert *Inhalt*
 
 ## Beschreibung
@@ -19,13 +20,20 @@ Medienformat  ist eine allgemein bekannte Klassifizierung von Inhalten, die nich
 
 Medienformate erleichtern Orientierung in der Menge an Inhalten. Medienformate fungieren auch als Filter. Medienformate erleichtern die Konsumierbarkeit von Inhalt für Publikation oder Information.
 
-## Iterationsrichtung
-* Unterscheidbar
-* Größe im Kontext
-* 
+## Gestaltung
+
+![](medienformat/medienformat.png)
+
+## Skizze
+
+![](medienformat/medienformat-skizze.png)
 
 ## Begründung für Gestaltung
 Hat ein erkennbares Erscheinungsbild und einen Namen. Medienformat ist anschlussfähig für unterschiedliche Tools mit unterschiedlicher Content-Dichte (Agenda, Schalttafel)
+
+## Iterationsrichtung
+* Unterscheidbar
+* Größe im Kontext
 
 ## Ausprägung
 * in Listenansichten

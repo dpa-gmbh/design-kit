@@ -14,9 +14,7 @@ images:
 ---
 
 <TagList :items="$page.frontmatter.tags" title="Tags" />
-
 # Nutzer
-
 <SynonymList :items="$page.frontmatter.synonyms" title="Synonyme"></SynonymList>
 
 Der Nutzer ist eine Person, die  dpa- und Fremdtools nutzt. Der Nutzer ist Marktplatz-Teilnehmer.
@@ -30,14 +28,11 @@ ist eventuell Teil eines Teams. Der Nutzer hat ein Bild oder eine Repräsentanz 
 
 Der Nutzer ist in unterschiedlichen Rollen auf dem Marktplatz. Er ist als Person identifizierbar, damit er mit anderen identifizierbaren Personen, also Nutzern in Beziehung treten kann (Kommunizieren, Teilen, Kollaborieren) oder er kann mit Werteinheiten in Beziehung treten (kaufen, zum Kauf anbieten, Planen)
 
-## Skizzen
+## Gestaltung
 ![An image](./nutzer/nutzer.png)
 
-## Gestaltung
-
-![Nutzer ohne Bild im Kontext eines Dialogs](./nutzer/D2B97838-39BA-403B-A5C6-F485E8226362.png)
-
-Nutzer ohne Bild im Kontext eines Dialogs
+## Skizze
+![An image](./nutzer/nutzer-skizze.png)
 
 ## Begründung für die Gestaltung
 

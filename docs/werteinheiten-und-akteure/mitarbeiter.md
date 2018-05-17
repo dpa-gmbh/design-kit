@@ -1,12 +1,11 @@
-
-# Mitarbeiter / Employee
+---
+title: Mitarbeiter
+term: Employee
 tags:
-* Akteur
-* dpa
-	
-Synonym:
-* Akteur
-
+  - Akteur
+  - dpa
+synonyms:
+  - Akteur
 ---
 # Mitarbeiter
 Der Mitarbeiter ist eine Person, die für die dpa arbeitet.
@@ -46,7 +45,7 @@ Kürzel
 Name
 Rolle/Titel
 Organisation
-Gehört zu einem oder mehreren Teams 
+Gehört zu einem oder mehreren Teams
 E-Mail												Passwort
 Telefonnummer
 Twitter-Account

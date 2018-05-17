@@ -1,20 +1,20 @@
-
-# Team / Team
-
-tags:
-* Akteur
-* dpa
-	
-Synonym:
-* Unternehmen
-* Team in einem Unternehmen
-* dpa-Ressort
-* Quelle
-* Akteur
-
 ---
+title: Team
+term: Team
+tags:
+  - Akteur
+  - dpa
+synonyms:
+  - Unternehmen
+  - Team in einem Unternehmen
+  - dpa-Ressort
+  - Quelle
+  - Akteur
+---
+<TagList :items="$page.frontmatter.tags" title="Tags" />
 # Team
-Ein Team ist eine Gruppe von Nutzern.  
+<SynonymList :items="$page.frontmatter.synonyms" title="Synonyme"></SynonymList>
+Ein Team ist eine Gruppe von Nutzern.
 
 ## Beschreibung
 Ein Team ist eine  Gruppe von Nutzern, die Marktplatzteilnehmer sind.
@@ -26,7 +26,7 @@ Teams sind Anbieter/Quelle von *Material* oder *Aufträgen* auf dem Marktplatz. 
 ## Iterationsrichtung
 * Unterscheidbarkeit von Teams auch visuelle Merkmale (Logo, Icons, Namen?)
 * Nutzer im Zusammenspiel mit Team
-* 
+*
 
 ## Ausprägung
 * Team als Name

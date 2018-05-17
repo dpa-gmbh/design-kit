@@ -16,21 +16,14 @@ module.exports = {
     ],
     themeConfig: {
         nav: [
-          { text: 'Home', link: '/' },
+          {
+            text: 'Home', link: '/'
+          },
         ],
         sidebar: [
             {
-                title: "Über das Design Kit",
-                children: [
-                    "./connect-design-kit/",
-                    "./connect-design-kit/was-wie-wieso",
-                    "./connect-design-kit/glossar"
-                ]
-            },
-            {
                 title: "Grundlagen",
                 children: [
-                    "./grundlagen/",
                     "./grundlagen/farben",
                     "./grundlagen/schriftart"
                 ]
@@ -45,18 +38,26 @@ module.exports = {
             {
                 title: "Werteinheiten und Akteure",
                 children: [
+                    "./werteinheiten-und-akteure/filter",
+                    "./werteinheiten-und-akteure/inhalt",
                     "./werteinheiten-und-akteure/nutzer",
+                    "./werteinheiten-und-akteure/medienformat",
                     "./werteinheiten-und-akteure/mitarbeiter",
                     "./werteinheiten-und-akteure/team",
-                    "./werteinheiten-und-akteure/tool",
-                    "./werteinheiten-und-akteure/material",
-                    "./werteinheiten-und-akteure/medienformat"
+                    "./werteinheiten-und-akteure/tool"
                 ]
             },
             {
                 title: "Interaktionen",
                 children: ["./interaktionen/anmelden-mit-dpa-id"]
-            }
+            },
+            {
+                title: "Appendix",
+                children: [
+                    "./connect-design-kit/glossar",
+                    "./connect-design-kit/prozess"
+                ]
+            },
         ]
     }
 };
