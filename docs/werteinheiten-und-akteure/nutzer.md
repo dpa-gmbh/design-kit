@@ -92,15 +92,18 @@ Stichworte: Markenbildung, Branding für dpa·ID, Bezug zur dpa durch die Farbe 
 
 ## Code
 
-<User></User>
-    <User></User>
-<User :notifications="5"></User>
-    <User :notifications="5"></User>
-<User abbr="jw"></User>
-    <User abbr="jw"></User>
+    <script src="https://unpkg.com/vue"></script>
+    <script src="https://unpkg.com/@dpa-connect/user@0.4.0/dist/cdk-user.min.js"></script>
 
-<!-- {{ $withBase('/user.png') }} -->
-<!-- <User :src="$withBase('/user.png')"></User> -->
+<cdk-user></cdk-user>
+    <cdk-user></cdk-user>
+<cdk-user is-dpa="true"></cdk-user>
+    <cdk-user is-dpa="true"></cdk-user>
+<cdk-user :notifications="5"></cdk-user>
+    <cdk-user :notifications="5"></cdk-user>
+<cdk-user abbr="jw"></cdk-user>
+    <cdk-user abbr="jw"></cdk-user>
+
 ## Sketches
 [sketches](/)
 
