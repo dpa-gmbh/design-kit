@@ -26,15 +26,15 @@ module.exports = {
                 ]
             },
             {
-                title: "Wertenheiten und akteuren",
+                title: "Werteinheiten und Akteure",
                 children: [
-                    "./wertenheiten-und-akteuren/",
-                    "./wertenheiten-und-akteuren/nutzer",
-                    "./wertenheiten-und-akteuren/mitarbeiter",
-                    "./wertenheiten-und-akteuren/team",
-                    "./wertenheiten-und-akteuren/tool",
-                    "./wertenheiten-und-akteuren/material",
-                    "./wertenheiten-und-akteuren/medienformat"
+                    "./werteinheiten-und-akteure/",
+                    "./werteinheiten-und-akteure/nutzer",
+                    "./werteinheiten-und-akteure/mitarbeiter",
+                    "./werteinheiten-und-akteure/team",
+                    "./werteinheiten-und-akteure/tool",
+                    "./werteinheiten-und-akteure/material",
+                    "./werteinheiten-und-akteure/medienformat"
                 ]
             },
             {
