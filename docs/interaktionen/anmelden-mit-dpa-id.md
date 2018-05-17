@@ -18,7 +18,7 @@ Der Nutzer möchte sich anmelden, um die Tool überhaupt zu nutzen oder innerhal
 
 ## Flow
 
-### Schritt 1
+### <Step number="1" /> Schritt 1
 **Was passiert**
 Nutzer gibt URL von der App ein
 
