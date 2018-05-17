@@ -1,0 +1,16 @@
+<title>user demo</title>
+<script src="https://unpkg.com/vue"></script>
+<script src="./user.umd.js"></script>
+<link rel="stylesheet" href="./user.css">
+
+<div id="app">
+  <demo></demo>
+</div>
+
+<script>
+new Vue({
+  components: {
+    demo: user
+  }
+}).$mount('#app')
+</script>
