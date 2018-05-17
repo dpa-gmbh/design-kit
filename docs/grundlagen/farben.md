@@ -12,8 +12,8 @@
 
 <Pantone name="dpa writer" color="#444444"></Pantone>
 
-<Pantone name="smoothy grey" color="#bababa"></Pantone>
+<Pantone name="medium grey" color="#bababa"></Pantone>
 
-<Pantone name="White chill" color="#f1f1f1"></Pantone>
+<Pantone name="off white" color="#f1f1f1"></Pantone>
 
 
