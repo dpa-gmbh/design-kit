@@ -1,7 +1,9 @@
 {
   "name": "@dpa-connect/user",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "main": "dist/user.umd.min.js",
+  "styles": "dist/user.css",
   "scripts": {
     "serve": "vue-cli-service serve --open",
     "build:lib": "vue-cli-service build --target lib --name user",
