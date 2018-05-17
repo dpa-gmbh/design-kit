@@ -12,9 +12,7 @@ synonyms:
 ---
 
 <TagList :items="$page.frontmatter.tags" title="Tags" />
-
 # Nutzer
-
 <SynonymList :items="$page.frontmatter.synonyms" title="Synonyme"></SynonymList>
 
 Der Nutzer ist eine Person, die  dpa- und Fremdtools nutzt. Der Nutzer ist Marktplatz-Teilnehmer.

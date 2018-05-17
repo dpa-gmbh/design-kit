@@ -19,7 +19,11 @@ export default {
 /** @define cdk-List */
 
 .cdk-TagList {
-  
+
+}
+
+.content:not(.custom) .cdk-TagList + h1 {
+  padding-top: 2.6rem;
 }
 
 .cdk-TagList ul {
