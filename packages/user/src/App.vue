@@ -15,25 +15,11 @@
     <div v-if="notifications" class="cdk-User-notifications">
       {{ notifications }}
     </div>
-<!--
-    <div class="cdk-User-data">
-      {{ firstName }}
-      {{ lastName }}
-    </div>
- -->
   </div>
 </template>
 <script>
 export default {
   props: {
-    firstName: {
-      type: String,
-      default: '',
-    },
-    lastName: {
-      type: String,
-      default: '',
-    },
     src: {
       type: String,
       default: '',
@@ -79,14 +65,20 @@ export default {
 }
 
 .cdk-User-image {
+  align-items: center;
   background-color: #444444;
   border-radius: 100%;
-  margin-left: 16px;
   color: #f1f1f1;
   display: flex;
-  align-items: center;
-  justify-content: center;
   font-size: 12px;
+  justify-content: center;
+  margin-left: 16px;
+  overflow: hidden;
+}
+
+.cdk-User-image > img {
+  display: block;
+  width: 100%;
 }
 
 .cdk-User-notifications {

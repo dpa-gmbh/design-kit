@@ -93,7 +93,7 @@ Stichworte: Markenbildung, Branding für dpa·ID, Bezug zur dpa durch die Farbe 
 Der Nutzer kann einfach als Web Komponente in bestehende Andwendungen eingebunden werden.
 
     <script src="https://unpkg.com/vue"></script>
-    <script src="https://unpkg.com/@dpa-connect/user@0.4.0/dist/cdk-user.min.js"></script>
+    <script src="https://unpkg.com/@dpa-connect/user@0.5.0/dist/cdk-user.min.js"></script>
 
 <cdk-user></cdk-user>
     <cdk-user></cdk-user>
@@ -103,6 +103,8 @@ Der Nutzer kann einfach als Web Komponente in bestehende Andwendungen eingebunde
     <cdk-user :notifications="5"></cdk-user>
 <cdk-user abbr="weg"></cdk-user>
     <cdk-user abbr="weg"></cdk-user>
+<cdk-user src="https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50"></cdk-user>
+    <cdk-user src="https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50"></cdk-user>
 
 ## Sketches
 [sketches](/)

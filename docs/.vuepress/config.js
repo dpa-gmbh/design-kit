@@ -10,7 +10,7 @@ module.exports = {
         [
             'script',
             {
-                src: 'https://unpkg.com/@dpa-connect/user@0.4.0/dist/cdk-user.min.js'
+                src: 'https://unpkg.com/@dpa-connect/user@0.5.0/dist/cdk-user.min.js'
             }
         ],
     ],
