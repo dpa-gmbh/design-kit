@@ -19,7 +19,7 @@ export default {
 /** @define cdk-List */
 
 .cdk-TagList {
-  
+
 }
 
 .cdk-TagList ul {
@@ -41,4 +41,17 @@ export default {
 .cdk-TagList-item:last-child::after {
   content: none;
 }
+
+/** @define cdk-Preview */
+
+.cdk-Preview {
+  overflow: hidden
+}
+
+.cdk-Preview img {
+  margin-right: 16px;
+  display: inline-block;
+  width: 25%;
+}
+
 </style>

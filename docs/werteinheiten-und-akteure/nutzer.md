@@ -9,6 +9,8 @@ synonyms:
   - Kundin
   - User
   - Akteur
+images:
+  - '/assets/img/nutzer/nutzer-mit-kuerzel-auspraegung.png'
 ---
 
 <TagList :items="$page.frontmatter.tags" title="Tags" />
@@ -49,25 +51,30 @@ Stichworte: Markenbildung, Branding für dpa·ID, Bezug zur dpa durch die Farbe 
 
 ## Ausprägung
 
-### Nutzer ohne Bild
+<div class="cdk-Preview">
 
 ![](./nutzer/nutzer-mit-kuerzel-auspraegung.png)
-
-### Nutzer mit Bild
+Nutzer ohne Bild
 
 ![](./nutzer/nutzer-mit-bild-auspraegung.png)
+Nutzer mit Bild
+
+</div>
 
 ## Kontext
 
-### bei login
+<div class="cdk-Preview">
 
 ![](./nutzer/nutzer-mit-bild.png)
-
-### ich selbst eingeloggt
+bei login
 
 ![](./nutzer/logged-in-with-notification.png)
+ich selbst eingeloggt
 
-- in Kommunikation
+![](./nutzer/slack.png)
+in Kommunikation
+
+</div>
 
 ## Iterationssrichtung
 
