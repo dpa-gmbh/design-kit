@@ -1,5 +1,6 @@
 ---
 title: Nutzer
+term: User
 tags:
   - Akteur
   - dpa
@@ -10,10 +11,11 @@ synonyms:
   - Akteur
 ---
 
-<List :items="$page.frontmatter.tags" title="Tags"></List>
-<List :items="$page.frontmatter.synonyms" title="Synonyme"></List>
+<TagList :items="$page.frontmatter.tags" title="Tags" />
 
-# Nutzer / User
+# Nutzer
+
+<SynonymList :items="$page.frontmatter.synonyms" title="Synonyme"></SynonymList>
 
 Der Nutzer ist eine Person, die  dpa- und Fremdtools nutzt. Der Nutzer ist Marktplatz-Teilnehmer.
 
@@ -79,13 +81,13 @@ Stichworte: Markenbildung, Branding für dpa·ID, Bezug zur dpa durch die Farbe 
 
 ## OOUX-Draft
 
-- *Nutzer* 
-- Bild 
-- Kürzel 
-- Name 
+- *Nutzer*
+- Bild
+- Kürzel
+- Name
 - Rolle/Titel
 - Organisation
-- Gehört zu einem oder mehreren Teams 
+- Gehört zu einem oder mehreren Teams
 - E-Mail / Passwort
 
 ## Code
