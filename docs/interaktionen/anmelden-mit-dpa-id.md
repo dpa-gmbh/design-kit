@@ -5,16 +5,16 @@ Wiederholtes Anmelden an einem Tool
 ## Beschreibung
 
 ### Ziel
-Der Anbieter eines Tools möchte ein Tool schützen und daher prüfen, dass ob ein Nutzer berechtigt ist, das Tool zu nutzen.
+Der Anbieter eines Tools möchte den Zugang zu seinem Tool kontrollieren und daher prüfen, ob ein Nutzer berechtigt ist, das Tool zu nutzen.
 Der Anbieter möchte persönliche Einstellungen erlauben.
 
 ### Bedürfnis
-Der Nutzer möchte sich anmelden, um die Tool überhaupt zu nutzen oder innerhalb einer Tool ein persönliches Nutzererlebnis zu haben.
+Der Nutzer möchte sich anmelden, um das Tool zu nutzen und/oder innerhalb eines Tool ein persönliches Nutzererlebnis haben.
 
 ### Situation
 - Der Nutzer hat das Tool bereits genutzt.
-- Der Nutzer möchte Funktionen von dem Tool auf einem anderen Rechner nutzen
-- Der Nutzer möchte aus bestimmte Daten zugreifen
+- Der Nutzer möchte Funktionen des Tools auf einem anderen Rechner nutzen.
+- Der Nutzer möchte auf bestimmte Daten zugreifen.
 
 ## Flow
 
@@ -25,10 +25,10 @@ Der Nutzer möchte sich anmelden, um die Tool überhaupt zu nutzen oder innerhal
 Nutzer gibt URL von der App ein
 
 #### Was sieht er
-Login mit dpa Button
+Login mit dpa·ID Button
 
 #### Hinweise
-Der Button sollte immer gleichberechtigt
+Der dpa·ID Button sollte immer vorgaben-getreu eingebunden werden und prominent dargestellt werden. Andere Login-Möglichkeiten kann es zusätzlich auch geben.
 
 ### <Step number="2" /> Schritt 2
 
@@ -38,10 +38,10 @@ Das System leitet den Nutzer zum Login Screen für die dpa·ID weiter.
 #### Was sieht er
 
 ##### <Step number="2a" /> Der Nutzer ist am System angemeldet
-Direkte Weiterleitung zurück zu App
+Direkte Weiterleitung zurück in die App
 
 ##### <Step number="2b" /> Der Nutzer dem dpa ID System bekannt
-Der Screen wird vollflächig angezeigt. Auf dem Screen wird das Tool für den sich der Nutzer anmeldet angezeigt. Außerdem ist der Nutzer selbst angegeben. Der Nutzer muss lediglich das Passwort-Feld angeben.
+Der Screen wird vollflächig angezeigt. Auf dem Screen wird das Tool, für den sich der Nutzer anmeldet, angezeigt. Außerdem ist der Nutzer selbst angegeben. Der Nutzer muss lediglich das Passwort-Feld ausfüllen.
 
 ##### <Step number="2c" /> Der Nutzer ist nicht bekannt
 Der Nutzer kann Nutzername oder Passwort angeben.
@@ -58,6 +58,6 @@ Der Nutzer hat anmelden geklickt
 Das Tool mit Inhalten und Funktionen. Eine Bestätigung, dass die Anmeldung mit der dpa·ID funktioniert hat. Sein eigenes Profilbild oder Kürzel.
 
 #### Hinweise
-Das Profilbild soll oben rechts positioniert werden. Die Bestätigung, dass die Anmeldung erfolgreich war erfolgt als Animation am Profilbild.
+Das Profilbild soll oben rechts positioniert werden. Die Bestätigung, dass die Anmeldung erfolgreich war, erfolgt als Animation am Profilbild.
 
 [Code-Skizze für Animation in Code-Pen](https://codepen.io/anon/pen/deqGVP)
