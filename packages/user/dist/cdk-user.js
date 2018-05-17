@@ -692,12 +692,12 @@ function normalizeComponent (
   }
 }
 
-// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./src/App.vue?vue&type=template&id=78166b48
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"cdk-User",class:{ 'is-dpa': _vm.isDpa },style:({ width: ((_vm.size + 16) + "px"), height: (_vm.size + "px") })},[_c('div',{staticClass:"cdk-User-dot"}),_vm._v(" "),_c('div',{staticClass:"cdk-User-image",style:({ width: (_vm.size + "px"), height: (_vm.size + "px") })},[(_vm.src)?_c('img',{attrs:{"src":_vm.src,"alt":""}}):[_vm._v(_vm._s(_vm.abbr))]],2),_vm._v(" "),(_vm.notifications)?_c('div',{staticClass:"cdk-User-notifications"},[_vm._v("\n      "+_vm._s(_vm.notifications)+"\n    ")]):_vm._e()])}
+// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./src/App.vue?vue&type=template&id=204b93bd
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"cdk-User",class:{ 'is-dpa': _vm.isDpa },style:({ width: ((_vm.size + 16) + "px"), height: (_vm.size + "px") })},[_c('div',{staticClass:"cdk-User-dot"}),_vm._v(" "),_c('div',{staticClass:"cdk-User-image",style:({ width: (_vm.size + "px"), height: (_vm.size + "px") })},[(_vm.src)?_c('img',{attrs:{"src":_vm.src,"alt":""}}):[_vm._v(_vm._s(_vm.abbr))]],2),_vm._v(" "),(_vm.notifications)?_c('div',{staticClass:"cdk-User-notifications"},[_vm._v("\n    "+_vm._s(_vm.notifications)+"\n  ")]):_vm._e()])}
 var staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./src/App.vue?vue&type=template&id=78166b48
+// CONCATENATED MODULE: ./src/App.vue?vue&type=template&id=204b93bd
 
 // CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--11-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/vue-loader/lib??vue-loader-options!./src/App.vue?vue&type=script&lang=js
 //
@@ -719,22 +719,8 @@ var staticRenderFns = []
 //
 //
 //
-//
-//
-//
-//
-//
-//
 /* harmony default export */ var Appvue_type_script_lang_js = ({
   props: {
-    firstName: {
-      type: String,
-      default: ''
-    },
-    lastName: {
-      type: String,
-      default: ''
-    },
     src: {
       type: String,
       default: ''
@@ -826,7 +812,7 @@ exports = module.exports = __webpack_require__("I1BE")(false);
 
 
 // module
-exports.push([module.i, ".cdk-User{position:relative}.cdk-User-dot{position:absolute;border-radius:100%;background-color:#2294fe;width:8px;height:8px;top:50%;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.cdk-User.is-dpa .cdk-User-dot{background-color:#a3f2a5}.cdk-User-image{background-color:#444;margin-left:16px}.cdk-User-image,.cdk-User-notifications{border-radius:100%;color:#f1f1f1;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;font-size:12px}.cdk-User-notifications{position:absolute;top:0;right:0;width:16px;height:16px;background-color:#ff4f5b}", ""]);
+exports.push([module.i, ".cdk-User{position:relative}.cdk-User-dot{position:absolute;border-radius:100%;background-color:#2294fe;width:8px;height:8px;top:50%;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.cdk-User.is-dpa .cdk-User-dot{background-color:#a3f2a5}.cdk-User-image{-webkit-box-align:center;-ms-flex-align:center;align-items:center;background-color:#444;border-radius:100%;color:#f1f1f1;display:-webkit-box;display:-ms-flexbox;display:flex;font-size:12px;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;margin-left:16px;overflow:hidden}.cdk-User-image>img{display:block;width:100%}.cdk-User-notifications{position:absolute;top:0;right:0;width:16px;height:16px;color:#f1f1f1;background-color:#ff4f5b;border-radius:100%;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;font-size:12px}", ""]);
 
 // exports
 
