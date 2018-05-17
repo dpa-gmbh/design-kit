@@ -32,7 +32,8 @@ module.exports = {
                 title: "Komponenten",
                 children: [
                     "./komponenten/form",
-                    "./komponenten/buttons"
+                    "./komponenten/buttons",
+                    "./komponenten/beispiel"
                 ]
             },
             {
