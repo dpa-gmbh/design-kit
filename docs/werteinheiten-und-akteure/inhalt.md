@@ -1,21 +1,30 @@
-# Inhalt /material
-
-tags:
-* Werteinheit
-* dpa
-* Marktplatz
-	
-Synonym:
-* Medienobjekt
-* Material
-* Content
-* media object
 ---
+title: Inhalt
+term: content
+tags:
+  - Werteinheit
+  - dpa
+  - Marktplatz
+synonyms:
+  - Medienobjekt
+  - Material
+  - Content
+  - media object
+---
+<TagList :items="$page.frontmatter.tags" title="Tags" />
 # Inhalt
-Inhalt ist eine journalistische  *Werteinheit*  der dpa oder anderer Anbieter. 
+<SynonymList :items="$page.frontmatter.synonyms" title="Synonyme"></SynonymList>
+
+Inhalt ist eine journalistische  *Werteinheit*  der dpa oder anderer Anbieter.
+
+## Gestaltung
+![](inhalt/inhalt.png)
+
+## Skizze
+![](inhalt/inhalt-skizze.png)
 
 ## Beschreibung
-Inhalt ist eine journalistische Werteinheiten der dpa oder anderer Anbieter. Ein Inhalt wird zur Publikation oder zu Informationszwecken angeboten. 
+Inhalt ist eine journalistische Werteinheiten der dpa oder anderer Anbieter. Ein Inhalt wird zur Publikation oder zu Informationszwecken angeboten.
 
 Inhalte gibt es in unterschiedlichen *Medienformaten*. Inhalte werden in unterschiedlicher Weise geklammert z.B.  als *Wire*, als Paket, als Serie, als Rubrik. Die Ausgestaltung von einem Inhalt unterscheidet sich nach Medienformat und Genre.  Einen Inhalt gibt es in unterschiedlichen Darreichungsformen je nach Medienformat.
 
@@ -25,13 +34,11 @@ Ein Inhalt ist eine handelbare Werteinheit auf dem Marktplatz. Inhalt ist in fas
 ## Iterationsrichtung
 * Inhalt als Versprechen (geplant) und Inhalt manifest (gesendet) visuell strukturelle unterscheiden
 * Überprüfen in welcher UI-Form Abgrenzung von Paket und Inhalt gerechtfertigt ist
-* 
 
 ## Ausprägung
 *  im Zustand des Versprechens (Planung), gesendet (manifestiert.)
 * als Teil einer Serie, Rubrik, Paket
 * als passend zu einem Filter
-
 
 ## Kontext
 * in Agenda am *Termin* / *Thema*
