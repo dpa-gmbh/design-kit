@@ -21,41 +21,43 @@ Der Nutzer möchte sich anmelden, um die Tool überhaupt zu nutzen oder innerhal
 ![](./anmelden/ixd-anmelden-flow.png)
 
 ### <Step number="1" /> Schritt 1
-**Was passiert**
+#### Was passiert
 Nutzer gibt URL von der App ein
 
-**Was sieht er**
+#### Was sieht er
 Login mit dpa Button
 
-**Hinweise**
+#### Hinweise
 Der Button sollte immer gleichberechtigt
 
 ### <Step number="2" /> Schritt 2
-**Was passiert**
+
+#### Was passiert
 Das System leitet den Nutzer zum Login Screen für die dpa·ID weiter.
 
-**Was sieht er**
+#### Was sieht er
 
-a) Der Nutzer ist am System angemeldet
+##### <Step number="2a" /> Der Nutzer ist am System angemeldet
 Direkte Weiterleitung zurück zu App
 
-b) Der Nutzer dem dpa ID System bekannt
+##### <Step number="2b" /> Der Nutzer dem dpa ID System bekannt
 Der Screen wird vollflächig angezeigt. Auf dem Screen wird das Tool für den sich der Nutzer anmeldet angezeigt. Außerdem ist der Nutzer selbst angegeben. Der Nutzer muss lediglich das Passwort-Feld angeben.
 
-c) <Step number="2b" /> Der Nutzer ist nicht bekannt
+##### <Step number="2c" /> Der Nutzer ist nicht bekannt
 Der Nutzer kann Nutzername oder Passwort angeben.
 
-**Hinweise**:
+#### Hinweise
 Hinweise zur Gestaltung des Tool Identifikationsbildes
 
 ### <Step number="3" /> Schritt 3
 
-**Was passiert**: Der Nutzer hat anmelden geklickt
+#### Was passiert
+Der Nutzer hat anmelden geklickt
 
-**Was sieht er**:
+#### Was sieht er
 Das Tool mit Inhalten und Funktionen. Eine Bestätigung, dass die Anmeldung mit der dpa·ID funktioniert hat. Sein eigenes Profilbild oder Kürzel.
 
-**Hinweise**:
+#### Hinweise
 Das Profilbild soll oben rechts positioniert werden. Die Bestätigung, dass die Anmeldung erfolgreich war erfolgt als Animation am Profilbild.
 
 [Code-Skizze für Animation in Code-Pen](https://codepen.io/anon/pen/deqGVP)

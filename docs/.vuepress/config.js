@@ -15,13 +15,16 @@ module.exports = {
         ],
     ],
     themeConfig: {
-        nav: false,
+        nav: [
+          { text: 'Home', link: '/' },
+        ],
         sidebar: [
             {
                 title: "Über das Design Kit",
                 children: [
                     "./connect-design-kit/",
-                    "./connect-design-kit/was-wie-wieso"
+                    "./connect-design-kit/was-wie-wieso",
+                    "./connect-design-kit/glossar"
                 ]
             },
             {
@@ -42,7 +45,6 @@ module.exports = {
             {
                 title: "Werteinheiten und Akteure",
                 children: [
-                    "./werteinheiten-und-akteure/",
                     "./werteinheiten-und-akteure/nutzer",
                     "./werteinheiten-und-akteure/mitarbeiter",
                     "./werteinheiten-und-akteure/team",
