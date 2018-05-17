@@ -21,7 +21,7 @@ Der Nutzer ist eine Person, die  dpa- und Fremdtools nutzt. Der Nutzer ist Markt
 
 ## Beschreibung
 
-Der Nutzer ist ein Medien- oder Kommunikationsprofi mit einer dpa-ID, der ein oder mehrere dpa-Tools oder andere über die dpa-ID erreichbare Tools nutzt.
+Der Nutzer ist ein Medien- oder Kommunikationsprofi mit einer [dpa-ID](../connect-design-kit/glossar.html#dpa·id), der ein oder mehrere dpa-Tools oder andere über die dpa-ID erreichbare Tools nutzt.
 
 Der Nutzer verfügt über eine __dpa-ID__, d.h. eine Email und ein Passwort mit der er sich einloggen kann.  Der Nutzer
 ist eventuell Teil eines Teams. Der Nutzer hat ein Bild oder eine Repräsentanz mit Kürzel. Der Nutzer hat einen Namen.
