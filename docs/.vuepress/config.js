@@ -1,5 +1,19 @@
 module.exports = {
     base: "/design-kit/",
+    head: [
+        [
+            'script',
+            {
+                src: 'https://unpkg.com/vue'
+            }
+        ],
+        [
+            'script',
+            {
+                src: 'https://unpkg.com/@dpa-connect/user@0.4.0/dist/cdk-user.min.js'
+            }
+        ],
+    ],
     themeConfig: {
         nav: false,
         sidebar: [
