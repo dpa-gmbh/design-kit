@@ -5,6 +5,12 @@ module.exports = {
         [
             'script',
             {
+                src: '/preview.js'
+            }
+        ],
+        [
+            'script',
+            {
                 src: 'https://unpkg.com/vue'
             }
         ],
