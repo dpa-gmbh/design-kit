@@ -35,6 +35,14 @@ Hat ein erkennbares Erscheinungsbild und einen Namen. Medienformat ist anschluss
 * Unterscheidbar
 * Größe im Kontext
 
+<div class="cdk-Preview">
+
+![](./medienformat/medienformat-farbe.png)
+farbliche Abgrenzung
+
+</div>
+
+
 ## Ausprägung
 * in Listenansichten
 * in Filtern
