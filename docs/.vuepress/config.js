@@ -22,11 +22,6 @@ module.exports = {
         ],
     ],
     themeConfig: {
-        nav: [
-          {
-            text: 'Home', link: '/'
-          },
-        ],
         sidebar: [
             {
                 title: "Grundlagen",
@@ -38,8 +33,8 @@ module.exports = {
             {
                 title: "Komponenten",
                 children: [
-                    "./komponenten/form",
-                    "./komponenten/buttons",
+                    "./komponenten/formular",
+                    "./komponenten/button",
                     "./komponenten/beispiel"
                 ]
             },
