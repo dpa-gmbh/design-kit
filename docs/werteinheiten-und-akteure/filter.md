@@ -20,3 +20,18 @@ Ein Filter dient dem Nutzer dazu für ihn relevante Datenströme zu bekommen.
 
 ## Skizze
 ![An image](./filter/filter-skizze.png)
+
+## Kontext
+
+<div class="cdk-Preview">
+
+![](./filter/filter-kontext-a.png)
+A
+
+![](./filter/filter-kontext-b.png)
+B
+
+![](./filter/filter-kontext-c.png)
+C
+
+</div>

@@ -56,6 +56,8 @@ export default {
 
 .cdk-Preview img {
   cursor: pointer;
+  width: 100%;
+  display: block;
 }
 
 </style>
