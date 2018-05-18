@@ -56,15 +56,15 @@ farbliche Abgrenzung
 * als Notification im Memberoverlay
 
 ## OOUX-Draft
-*Material*
-Titel
-Materialtyp
-Datum
-Uhrzeit
-Genre
-Format Details, Länge
-Quelle
-Wire
-Text / Bild / Vorschau
-Notizblock
+* *Material*
+* Titel
+* Materialtyp
+* Datum
+* Uhrzeit
+* Genre
+* Format Details, Länge
+* Quelle
+* Wire
+* Text / Bild / Vorschau
+* Notizblock
 
