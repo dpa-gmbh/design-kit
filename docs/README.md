@@ -1,26 +1,42 @@
 # dpa-Connect Design Kit
 
-Das dpa-Connect Design Kit ist eine Sammlung von Hinweisen zur Gestaltung  von Akteuren und Werteinheiten der Medien- und Kommunikationsprofis auf dem dpa-Marktplatz.
+![](./titel.png)
 
-Unter Hinweisen zur Gestaltung verstehen wir Design Grundlagen, Prinzipien, Bausteine und Interaktionsmuster.
+Das dpa-Connect Design Kit ist eine Sammlung von Hinweisen zur Gestaltung von Anwendungen für der Medien- und Kommunikationsprofis auf dem dpa-Marktplatz.
 
-Je mehr Anwendungen auf die hier enthaltenden Hinweise zur Gestaltung aufbauen, desto größer ist das Marktplatzerlebnis.
+Unter Hinweisen zur Gestaltung verstehen wir Design Grundlagen, Komponenten, Module für die Darstellung von Werteinheiten und Akteure und Interaktionsmuster.
 
-Und je mehr Anwendung auf Hinweise zu Gestaltung in diesem Kit aufbauen, desto einfacher wird es für Nutzer und Anbieter in unterschiedlichen Anwendungen auf dem Marktplatz ihre Arbeit reibungsfreier zu erledigen und wirksame Entscheidungen zu treffen.
+- Grundlagen: Farben, Typographie, …
+- Komponenten: generische Interface-Elemente, wie Eingabefelder, Buttons und Formular
+- Module: visuelle Gestalung für anwendungsübergreifende Wertheiten und Akteuere, wie Nutzer, Mitarbeiter, Inhalt und Tool 
+- Interaktionsmuster: Anmelden mit dpa·ID, filtern von relevanten Inhalten, …
 
-Dabei unternimmt das Kit den Versuch die Werteinheiten der dpa für Medien- und Kommunikationsprofis unterscheidbar zum Ausdruck zu bringen, um neue Beziehungen und Angebote zu ermöglichen.
+## Zielgruppe
 
-Es ist uns bewusst ist, dass dies eine Vereinfachung ist und jede konkrete Anwendung für ihren eigenen  Kontext Lösungen braucht.
+Je mehr Anwendungen auf die hier enthaltenden Hinweise zur Gestaltung aufbauen, desto größer ist das Marktplatzerlebnis für die Nuitzer. Für sie wir es einfacher in unterschiedlichen Anwendungen auf dem Marktplatz ihre Arbeit reibungsfreier zu erledigen und wirksame Entscheidungen zu treffen.
+
+Das Kit richtet sich an Team, die digitale Produkt entwickeln. Es bietet für
+
+- Product Manager: Orientierung durch Beschreibung der Module, Anwendungsbeispiele und Vorlagen für Skizzen (zum Beispiel für Nutzer), die ganz konkret helfen Interface-Ideen verständlich zum Ausdruck zu bringen.
+- Engineers: API-Dokumentation, Code-Beispiele und Komponenten zur direkten Einbindung
+- Designer: Visuelle Gestaltung, Zugriff auf .sketch-Dateien und Iterationsrichtungen
+
+## Herangehensweise
+
+Das Kit unternimmt den Versuch die Werteinheiten der dpa für Medien- und Kommunikationsprofis unterscheidbar zum Ausdruck zu bringen, um neue Beziehungen und Angebote zu ermöglichen. Wichtig dabei ist, die Werteinheiten aus Nutzerperspektive zu betrachten. Und hierbei eine Öffnung zu erlauben für die Perspektive von anderen Medien- und Kommunikationsprofis, die nicht ausschließlich journalistisch arbeiten. 
+
+Das mag für dpa-Mitarbeiter  erst  einmal ungewohnt sein,  da dies über das journalistische Kerngeschäft der dpa  und auch die Angebote der Töchter hinausweist.
+
+Klar ist, dass dies eine Vereinfachung ist und jede konkrete Anwendung für ihren eigenen  Kontext Lösungen braucht.
 
 Es gilt immer abzuwägen zwischen Zielen und Bedürfnissen im Kontext der einzelnen Anwendung und Integrität des Gesamtsystem der dpa.
 
-Wichtig dabei ist, die Werteinheiten aus Nutzerperspektive zu betrachten. Und hierbei eine Öffnung zu erlauben für die Perspektive von anderen Medien- (nicht ausschließlich Journalisten) und Kommunikationsprofis. 
-Das mag für dpa-Mitarbeiter  erst  einmal ungewohnt sein,  da dies über das journalistische Kerngeschäft der dpa  und auch die Angebote der Töchter hinausweist.
-
-Gewünscht ist, dass weitere Wissen einfließt und gesammelt wird. 
+## Kollaboration
 
 Das dpa-Connect-Design-Kit ist kein Projekt, sondern ein transparenter Prozess, es ist eine Ergänzung zu Ui-Kits und OS-Design. Es ist ein Angebot, keine Vorgabe.
 
-Das dpa-Connect Design Kit wurde in der vorliegenden Version von einem gemischten Team in einem Connect Design Sprint in einer Woche erarbeitet. In diesem ersten Schritt sollte aufgezeigt werden, wie das Kit funktioniert, gepflegt und genutzt werden kann; es ist aber bei weitem noch nicht vollständig.
+Das dpa-Connect Design Kit wurde in der vorliegenden Version von einem gemischten Team in einem Connect Design Sprint in einer Woche erarbeitet. In diesem ersten Schritt sollte aufgezeigt werden, wie das Kit funktioniert, gepflegt und genutzt werden kann; es ist bei weitem noch nicht vollständig.
+
+Gewünscht ist, dass weitere Wissen einfließt und gesammelt wird.
 
 
