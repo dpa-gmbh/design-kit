@@ -1,6 +1,6 @@
 module.exports = {
     base: "/design-kit/",
-    title: "dpa-Connect: Design Kit",
+    title: "dpa-Connect Design Kit",
     head: [
         [
             'script',
