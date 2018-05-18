@@ -6,10 +6,18 @@ Das dpa-Connect Design Kit ist eine Sammlung von Hinweisen zur Gestaltung von An
 
 Unter Hinweisen zur Gestaltung verstehen wir Design Grundlagen, Komponenten, Module für die Darstellung von Werteinheiten und Akteure und Interaktionsmuster.
 
-- Grundlagen: [Farben](grundlagen/farben.md), [Typographie](grundlagen/typography.md), …
-- Komponenten: generische Interface-Elemente, wie [Eingabefelder](komponenten/form.md), [Buttons](komponenten/buttons.md) und [Formular](komponenten/beispiel.md)
-- Module: visuelle Gestalung für anwendungsübergreifende Wertheiten und Akteuere, wie [Nutzer](werteinheiten-und-akteure/nutzer.md), [Mitarbeiter](werteinheiten-und-akteure/mitarbeiter.md), [Inhalt](werteinheiten-und-akteure/inhalt.md) und [Tool](werteinheiten-und-akteure/tool.md)
-- Interaktionsmuster: [Anmelden mit dpa·ID](interaktionen/anmelden-mit-dpa-id.md), [filtern von relevanten Inhalten](interaktionen/wiederholt-relevantes-finden.md), …
+### Grundlagen
+
+[Farben](grundlagen/farben.md), [Typographie](grundlagen/typography.md), …
+
+### Komponenten
+generische Interface-Elemente, wie [Eingabefelder](komponenten/form.md), [Buttons](komponenten/buttons.md) und [Formular](komponenten/beispiel.md)
+
+### Module
+visuelle Gestalung für anwendungsübergreifende Wertheiten und Akteuere, wie [Nutzer](werteinheiten-und-akteure/nutzer.md), [Mitarbeiter](werteinheiten-und-akteure/mitarbeiter.md), [Inhalt](werteinheiten-und-akteure/inhalt.md) und [Tool](werteinheiten-und-akteure/tool.md)
+
+### Interaktionsmuster
+[Anmelden mit dpa·ID](interaktionen/anmelden-mit-dpa-id.md), [filtern von relevanten Inhalten](interaktionen/wiederholt-relevantes-finden.md), …
 
 ## Zielgruppe
 
@@ -17,9 +25,14 @@ Je mehr Anwendungen auf die hier enthaltenden Hinweise zur Gestaltung aufbauen, 
 
 Das Kit richtet sich an Team, die digitale Produkt entwickeln. Es bietet für
 
-- Product Manager: Orientierung durch Beschreibung der Module, Anwendungsbeispiele und Vorlagen für Skizzen (zum Beispiel für Nutzer), die ganz konkret helfen Interface-Ideen verständlich zum Ausdruck zu bringen.
-- Engineers: API-Dokumentation, Code-Beispiele und Komponenten zur direkten Einbindung
-- Designer: Visuelle Gestaltung, Zugriff auf .sketch-Dateien und Iterationsrichtungen
+### Product Manager
+Orientierung durch Beschreibung der Module, Anwendungsbeispiele und Vorlagen für Skizzen ([zum Beispiel für Nutzer](werteinheiten-und-akteure/nutzer.html#skizze)), die ganz konkret helfen Interface-Ideen verständlich zum Ausdruck zu bringen.
+
+### Engineers
+API-Dokumentation, Code-Beispiele und Komponenten zur direkten Einbindung
+
+### Designer
+Visuelle Gestaltung, Zugriff auf .sketch-Dateien und Iterationsrichtungen
 
 ## Herangehensweise
 
