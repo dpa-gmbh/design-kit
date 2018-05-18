@@ -23,10 +23,10 @@ Ein Team ist unterscheidbar von anderen Teams. Es ist erkennbar, welche *Nutzer*
 
 Teams sind Anbieter/Quelle von *Material* oder *Aufträgen* auf dem Marktplatz. Zugehörigkeit von Nutzern zu Teams gibt anderen Orientierung mit wem, in welcher Rolle sie auf dem Marktplatz in Beziehung treten.
 
-## Iterationsrichtung
+::: tip Iterationsrichtung
 * Unterscheidbarkeit von Teams auch visuelle Merkmale (Logo, Icons, Namen?)
 * Nutzer im Zusammenspiel mit Team
-*
+:::
 
 ## Ausprägung
 * Team als Name

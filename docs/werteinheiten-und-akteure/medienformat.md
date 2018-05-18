@@ -31,10 +31,14 @@ Medienformate erleichtern Orientierung in der Menge an Inhalten. Medienformate f
 ## Begründung für Gestaltung
 Hat ein erkennbares Erscheinungsbild und einen Namen. Medienformat ist anschlussfähig für unterschiedliche Tools mit unterschiedlicher Content-Dichte (Agenda, Schalttafel)
 
-## Iterationsrichtung
-* Unterscheidbar
-* Größe im Kontext
+::: tip Iterationsrichtung
+* Unterscheidbar / Lesbarkeit bei kleiner Darstellung
+* Mit Mengenangabe
+* Unterschiedliche Genres insbesondere für Text 'nach vorne' hochladen
+* Farbzugehörigkeit (siehe Exploration) prüfen
+:::
 
+## Explorationen
 <div class="cdk-Preview">
 
 ![](./medienformat/medienformat-farbe.png)

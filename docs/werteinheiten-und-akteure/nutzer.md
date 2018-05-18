@@ -25,7 +25,7 @@ Der Nutzer ist eine Person, die  dpa- und Fremdtools nutzt. Der Nutzer ist Markt
 ::: tip Iterationssrichtung
 - Unterscheidung Nutzer nicht dpa / Nutzer dpa-Mitarbeiter
 - Nutzer im Zusammenspiel mit Team
-- wenn kein Bild da ist, wie wird Nutzer unterscheidbar dargestellt werden
+- Wenn kein Bild da ist, wie wird Nutzer unterscheidbar dargestellt werden (Hintergrundfarbe, generierte Patterns, ...)
 :::
 
 ## Beschreibung

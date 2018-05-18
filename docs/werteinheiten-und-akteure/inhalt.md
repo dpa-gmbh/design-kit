@@ -30,9 +30,12 @@ Inhalte gibt es in unterschiedlichen *Medienformaten*. Inhalte werden in untersc
 
 Ein Inhalt ist eine handelbare Werteinheit auf dem Marktplatz. Inhalt ist in fast allen Tools der dpa präsent. Inhalt ist die Werteinheit, die  an Kunden ausgeliefert wird und für die Kunden heute bezahlt.
 
-## Iterationsrichtung
-* Inhalt als Versprechen (geplant) und Inhalt manifest (gesendet) visuell strukturelle unterscheiden
+::: tip Iterationsrichtung
+* Inhalt als Versprechen (geplant) und Inhalt manifest (gesendet) visuell strukturelle unterscheiden; Idee: Hintergrund strafiert?
 * Überprüfen in welcher UI-Form Abgrenzung von Paket und Inhalt gerechtfertigt ist
+* Unterschiedliche Stati (kill, cancel) zum Ausdruck bringen
+* Umgang mit unterschiedlichen Medienformaten: Bilder darstellen, ... @todo: Exploration hochladen
+:::
 
 <div class="cdk-Preview">
 
