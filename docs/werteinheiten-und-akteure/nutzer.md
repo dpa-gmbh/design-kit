@@ -19,6 +19,15 @@ images:
 
 Der Nutzer ist eine Person, die  dpa- und Fremdtools nutzt. Der Nutzer ist Marktplatz-Teilnehmer.
 
+## Gestaltung
+![An image](./nutzer/nutzer.png)
+
+::: tip Iterationssrichtung
+- Unterscheidung Nutzer nicht dpa / Nutzer dpa-Mitarbeiter
+- Nutzer im Zusammenspiel mit Team
+- wenn kein Bild da ist, wie wird Nutzer unterscheidbar dargestellt werden
+:::
+
 ## Beschreibung
 
 Der Nutzer ist ein Medien- oder Kommunikationsprofi mit einer [dpa-ID](../connect-design-kit/glossar.html#dpa·id), der ein oder mehrere dpa-Tools oder andere über die dpa-ID erreichbare Tools nutzt.
@@ -27,9 +36,6 @@ Der Nutzer verfügt über eine __dpa-ID__, d.h. eine Email und ein Passwort mit 
 ist eventuell Teil eines Teams. Der Nutzer hat ein Bild oder eine Repräsentanz mit Kürzel. Der Nutzer hat einen Namen.
 
 Der Nutzer ist in unterschiedlichen Rollen auf dem Marktplatz. Er ist als Person identifizierbar, damit er mit anderen identifizierbaren Personen, also Nutzern in Beziehung treten kann (Kommunizieren, Teilen, Kollaborieren) oder er kann mit Werteinheiten in Beziehung treten (kaufen, zum Kauf anbieten, Planen)
-
-## Gestaltung
-![An image](./nutzer/nutzer.png)
 
 ## Skizze
 ![An image](./nutzer/nutzer-skizze.png)
@@ -71,12 +77,6 @@ in Kommunikation
 
 </div>
 
-::: tip Iterationssrichtung
-- Unterscheidung Nutzer nicht dpa / Nutzer dpa-Mitarbeiter
-- Nutzer im Zusammenspiel mit Team
-- wenn kein Bild da ist, wie wird Nutzer unterscheidbar dargestellt werden
-:::
-
 ## Ressourcen
 
 - [Sketch-Datei in Abstract](https://share.goabstract.com/dcd88ea2-85bf-4365-b9ff-b44239a9e70b)
@@ -94,8 +94,8 @@ in Kommunikation
 
 ## Code
 
-::: tip
-**Proof of Concept**: Der Nutzer kann einfach als Web Komponente über CDN in
+::: tip Proof of Concept
+Der Nutzer kann einfach als Web Komponente über CDN in
 bestehende Andwendungen eingebunden werden. Langfristig können Werteinheiten
 und Akteure von dpa-Connect als Module auf [npm](https://www.npmjs.com/~dpa-connect)
 in Code bereit gestellt werden und von verschiedenen Applikationen konsumiert
