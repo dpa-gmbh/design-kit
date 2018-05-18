@@ -94,29 +94,64 @@ in Kommunikation
 
 ## Code
 
-Der Nutzer kann einfach als Web Komponente in bestehende Andwendungen eingebunden werden.
-
+::: tip
+**Proof of Concept**: Der Nutzer kann einfach als Web Komponente über CDN in
+bestehende Andwendungen eingebunden werden. Langfristig können Werteinheiten
+und Akteure von dpa-Connect als Module auf [npm](https://www.npmjs.com/~dpa-connect)
+in Code bereit gestellt werden und von verschiedenen Applikationen konsumiert
+werden.
+:::
 
 ### Einbindung als Web-Component
+
+Als zukunftsgerichtete und standardisierte Technologie ist der Nutzer
+exemplarisch als [Web Component](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+umgesetzt.
 
 - [Demo](https://dpa-connect.github.io/web-components-example/)
 - [Code](https://github.com/dpa-connect/web-components-example/blob/master/index.html)
 
 ---
 
+Einbindung von des Codes über CDN.
+
     <script src="https://unpkg.com/vue"></script>
     <script src="https://unpkg.com/@dpa-connect/user@0.5.0/dist/cdk-user.min.js"></script>
 
+#### Eigenschaften
+
+| Name | Typ | Standardwert | Beschreibung |
+| ---- | ---- | ------- | -- |
+| src | String | '' | Pfad zu Nutzerbild |
+| abbr | String | '' | Kürzel |
+| size | Number | 48 | Größe in Pixel |
+| isDpa | Boolean | false | Ist dpa Mitarbeiter |
+| notifications | Number | | Anzahl der Benachrichtigungen |
+
+#### Ausprägungen in Code
+
+Standard
+
 <cdk-user></cdk-user>
     <cdk-user></cdk-user>
+
+Nutzer ist dpa Mitarbeiter
+
 <cdk-user is-dpa="true"></cdk-user>
     <cdk-user is-dpa="true"></cdk-user>
-<cdk-user :notifications="5"></cdk-user>
-    <cdk-user :notifications="5"></cdk-user>
+
+Mit Benachrichtigungen
+
+<cdk-user notifications="5"></cdk-user>
+    <cdk-user notifications="5"></cdk-user>
+
+Mit Kürzel
+
 <cdk-user abbr="weg"></cdk-user>
     <cdk-user abbr="weg"></cdk-user>
+
+Mit Bild
+
 <cdk-user src="https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50"></cdk-user>
     <cdk-user src="https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50"></cdk-user>
-
-
 
