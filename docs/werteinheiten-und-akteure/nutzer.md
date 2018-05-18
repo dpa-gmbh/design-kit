@@ -66,13 +66,13 @@ Nutzer mit Bild
 
 <div class="cdk-Preview">
 
-![](./nutzer/nutzer-mit-bild.png)
+![](./nutzer/nutzer-mit-bild-login.png)
 bei login
 
-![](./nutzer/logged-in-with-notification.png)
+![](./nutzer/nutzer-mit-bild-loggedin.png)
 ich selbst eingeloggt
 
-![](./nutzer/slack.png)
+![](./nutzer/nutzer-und-mitarbeiter-in-kommunikation.png)
 in Kommunikation
 
 </div>
