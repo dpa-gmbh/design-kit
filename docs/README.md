@@ -6,10 +6,10 @@ Das dpa-Connect Design Kit ist eine Sammlung von Hinweisen zur Gestaltung von An
 
 Unter Hinweisen zur Gestaltung verstehen wir Design Grundlagen, Komponenten, Module für die Darstellung von Werteinheiten und Akteure und Interaktionsmuster.
 
-- Grundlagen: Farben, Typographie, …
-- Komponenten: generische Interface-Elemente, wie Eingabefelder, Buttons und Formular
-- Module: visuelle Gestalung für anwendungsübergreifende Wertheiten und Akteuere, wie Nutzer, Mitarbeiter, Inhalt und Tool 
-- Interaktionsmuster: Anmelden mit dpa·ID, filtern von relevanten Inhalten, …
+- Grundlagen: [Farben](grundlagen/farben.md), [Typographie](grundlagen/typography.md), …
+- Komponenten: generische Interface-Elemente, wie [Eingabefelder](komponenten/form.md), [Buttons](komponenten/buttons.md) und [Formular](komponenten/beispiel.md)
+- Module: visuelle Gestalung für anwendungsübergreifende Wertheiten und Akteuere, wie [Nutzer](werteinheiten-und-akteure/nutzer.md), [Mitarbeiter](werteinheiten-und-akteure/mitarbeiter.md), [Inhalt](werteinheiten-und-akteure/inhalt.md) und [Tool](werteinheiten-und-akteure/tool.md)
+- Interaktionsmuster: [Anmelden mit dpa·ID](interaktionen/anmelden-mit-dpa-id.md), [filtern von relevanten Inhalten](interaktionen/wiederholt-relevantes-finden.md), …
 
 ## Zielgruppe
 
@@ -23,7 +23,7 @@ Das Kit richtet sich an Team, die digitale Produkt entwickeln. Es bietet für
 
 ## Herangehensweise
 
-Das Kit unternimmt den Versuch die Werteinheiten der dpa für Medien- und Kommunikationsprofis unterscheidbar zum Ausdruck zu bringen, um neue Beziehungen und Angebote zu ermöglichen. Wichtig dabei ist, die Werteinheiten aus Nutzerperspektive zu betrachten. Und hierbei eine Öffnung zu erlauben für die Perspektive von anderen Medien- und Kommunikationsprofis, die nicht ausschließlich journalistisch arbeiten. 
+Das Kit unternimmt den Versuch die Werteinheiten der dpa für Medien- und Kommunikationsprofis unterscheidbar zum Ausdruck zu bringen, um neue Beziehungen und Angebote zu ermöglichen. Wichtig dabei ist, die Werteinheiten aus Nutzerperspektive zu betrachten. Und hierbei eine Öffnung zu erlauben für die Perspektive von anderen Medien- und Kommunikationsprofis, die nicht ausschließlich journalistisch arbeiten.
 
 Das mag für dpa-Mitarbeiter  erst  einmal ungewohnt sein,  da dies über das journalistische Kerngeschäft der dpa  und auch die Angebote der Töchter hinausweist.
 
