@@ -48,10 +48,13 @@ export default {
   overflow: hidden;
 }
 
-.cdk-Preview img {
-  margin-right: 16px;
+.cdk-Preview p {
   display: inline-block;
   width: 25%;
+  padding-right: 16px;
+}
+
+.cdk-Preview img {
   cursor: pointer;
 }
 
