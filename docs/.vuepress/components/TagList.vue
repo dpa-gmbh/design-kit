@@ -52,6 +52,7 @@ export default {
   margin-right: 16px;
   display: inline-block;
   width: 25%;
+  cursor: pointer;
 }
 
 </style>
