@@ -79,7 +79,7 @@ in Kommunikation
 
 ## Ressourcen
 
-- [Sktech-Datei in Abstract](https://share.goabstract.com/dcd88ea2-85bf-4365-b9ff-b44239a9e70b)
+- [Sketch-Datei in Abstract](https://share.goabstract.com/dcd88ea2-85bf-4365-b9ff-b44239a9e70b)
 
 ## OOUX-Draft
 
