@@ -1,12 +1,12 @@
 # Farben
 
-## primary
+## Primär
 
-<Pantone name="dpa evo" color="#a3f2a5"></Pantone>
+<Pantone name="dpa evolution" color="#a3f2a5"></Pantone>
 
 <Pantone name="active blue" color="#2294fe"></Pantone>
 
-## secondary
+## Sekundär
 
 <Pantone name="alert red" color="#ff4f5b"></Pantone>
 
