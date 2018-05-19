@@ -2,9 +2,9 @@
 
 ![](./keyvisual.jpg)
 
-Das dpa-Connect Design Kit ist eine Sammlung von Hinweisen zur Gestaltung von Anwendungen für der Medien- und Kommunikationsprofis auf dem dpa-Marktplatz.
+Das dpa-Connect Design Kit ist eine Sammlung von Hinweisen zur Gestaltung von Anwendungen für Medien- und Kommunikationsprofis auf dem dpa-Marktplatz.
 
-Unter Hinweisen zur Gestaltung verstehen wir Design Grundlagen, Komponenten, Module für die Darstellung von Werteinheiten und Akteure und Interaktionsmuster.
+Unter Hinweisen zur Gestaltung verstehen wir Design Grundlagen, Komponenten, Module für die Darstellung von Werteinheiten und Akteuren und Interaktionsmuster.
 
 ### Grundlagen
 
@@ -21,9 +21,9 @@ visuelle Gestalung für anwendungsübergreifende Wertheiten und Akteuere, wie [N
 
 ## Zielgruppe
 
-Je mehr Anwendungen auf die hier enthaltenden Hinweise zur Gestaltung aufbauen, desto größer ist das Marktplatzerlebnis für die Nuitzer. Für sie wir es einfacher in unterschiedlichen Anwendungen auf dem Marktplatz ihre Arbeit reibungsfreier zu erledigen und wirksame Entscheidungen zu treffen.
+Je mehr Anwendungen auf die hier enthaltenden Hinweise zur Gestaltung aufbauen, desto größer ist das Marktplatzerlebnis für die Nutzer. Für sie wird es einfacher in unterschiedlichen Anwendungen auf dem Marktplatz ihre Arbeit reibungsfreier zu erledigen und wirksame Entscheidungen zu treffen.
 
-Das Kit richtet sich an Team, die digitale Produkt entwickeln. Es bietet für
+Das Kit richtet sich an Teams, die digitale Produkt entwickeln. Es bietet für
 
 ### Product Manager
 Orientierung durch Beschreibung der Module, Anwendungsbeispiele und Vorlagen für Skizzen ([zum Beispiel für Nutzer](werteinheiten-und-akteure/nutzer.html#skizze)), die ganz konkret helfen Interface-Ideen verständlich zum Ausdruck zu bringen.
@@ -38,9 +38,9 @@ Visuelle Gestaltung, Zugriff auf .sketch-Dateien und Iterationsrichtungen
 
 Das Kit unternimmt den Versuch die Werteinheiten der dpa für Medien- und Kommunikationsprofis unterscheidbar zum Ausdruck zu bringen, um neue Beziehungen und Angebote zu ermöglichen. Wichtig dabei ist, die Werteinheiten aus Nutzerperspektive zu betrachten. Und hierbei eine Öffnung zu erlauben für die Perspektive von anderen Medien- und Kommunikationsprofis, die nicht ausschließlich journalistisch arbeiten.
 
-Das mag für dpa-Mitarbeiter  erst  einmal ungewohnt sein,  da dies über das journalistische Kerngeschäft der dpa  und auch die Angebote der Töchter hinausweist.
+Das mag für dpa-Mitarbeiter  erst  einmal ungewohnt sein,  da dies über das journalistische Kerngeschäft der dpa und auch die Angebote der Töchter hinausweist.
 
-Klar ist, dass dies eine Vereinfachung ist und jede konkrete Anwendung für ihren eigenen  Kontext Lösungen braucht.
+Klar ist, dass dies eine Vereinfachung ist und jede konkrete Anwendung für ihren eigenen Kontext Lösungen braucht.
 
 Es gilt immer abzuwägen zwischen Zielen und Bedürfnissen im Kontext der einzelnen Anwendung und Integrität des Gesamtsystem der dpa.
 
