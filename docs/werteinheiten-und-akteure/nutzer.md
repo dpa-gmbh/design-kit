@@ -115,6 +115,7 @@ umgesetzt.
 
 Einbindung von des Codes über CDN.
 
+    <script src="https://unpkg.com/@webcomponents/webcomponentsjs@2.0.0/webcomponents-loader.js"></script>
     <script src="https://unpkg.com/vue"></script>
     <script src="https://unpkg.com/@dpa-connect/user@0.5.0/dist/cdk-user.min.js"></script>
 
