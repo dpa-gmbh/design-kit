@@ -11,7 +11,7 @@ Unter Hinweisen zur Gestaltung verstehen wir Design Grundlagen, Komponenten, Mod
 [Farben](grundlagen/farben.md), [Typographie](grundlagen/typography.md), …
 
 ### Komponenten
-generische Interface-Elemente, wie [Eingabefelder](komponenten/form.md), [Buttons](komponenten/buttons.md) und [Formular](komponenten/beispiel.md)
+generische Interface-Elemente, wie [Eingabefelder](komponenten/formular.md), [Buttons](komponenten/button.md) und [Formular](komponenten/beispiel.md)
 
 ### Module
 visuelle Gestalung für anwendungsübergreifende Wertheiten und Akteuere, wie [Nutzer](werteinheiten-und-akteure/nutzer.md), [Mitarbeiter](werteinheiten-und-akteure/mitarbeiter.md), [Inhalt](werteinheiten-und-akteure/inhalt.md) und [Tool](werteinheiten-und-akteure/tool.md)
