@@ -61,3 +61,9 @@ Das Tool mit Inhalten und Funktionen. Eine Bestätigung, dass die Anmeldung mit 
 Das Profilbild soll oben rechts positioniert werden. Die Bestätigung, dass die Anmeldung erfolgreich war, erfolgt als Animation am Profilbild.
 
 [Code-Skizze für Animation in Code-Pen](https://codepen.io/anon/pen/deqGVP)
+
+::: tip Iterationssrichtung
+- Erstmaliges Anmelden bei einem Produkt mit bestehende dpa·ID
+- Spezifikation für Assets und Informationen für Login Formular
+- Einsatzhinweise zum Login-Flow: Redirect, kein Popup
+:::
