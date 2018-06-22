@@ -28,6 +28,11 @@ module.exports = {
     ],
   ],
   themeConfig: {
+    repo: 'dpa-connect/design-kit',
+    lastUpdated: 'Letzte Änderung',
+    docsDir: 'docs',
+    editLinks: true,
+    editLinkText: 'Diese Seite bearbeiten',
     sidebar: [{
         title: "Grundlagen",
         children: [
