@@ -8,7 +8,7 @@ Unter Hinweisen zur Gestaltung verstehen wir Design Grundlagen, Komponenten, Mod
 
 ### Grundlagen
 
-[Farben](grundlagen/farben.md), [Typographie](grundlagen/typography.md), …
+[Farben](grundlagen/farben.md), [Typographie](grundlagen/schriftart.md), …
 
 ### Komponenten
 generische Interface-Elemente, wie [Eingabefelder](komponenten/formular.md), [Buttons](komponenten/button.md) und [Formular](komponenten/beispiel.md)
