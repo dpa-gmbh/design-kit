@@ -1,12 +1,16 @@
 <template>
   <div class="cdk-TagList">
     <ul>
-      <li class="cdk-TagList-item" v-for="item in items">{{ item }}</li>
+      <cdk-tag v-for="item, index in items" :title="item" :key="index" />
     </ul>
   </div>
 </template>
 <script>
+import CdkTag from './CdkTag';
 export default {
+  components: {
+    CdkTag,
+  },
   props: {
     items: {
       type: Array,
@@ -24,40 +28,6 @@ export default {
 
 .cdk-TagList ul {
   padding-left: 0;
-}
-
-.cdk-TagList-item {
-  color: #2294fe;
-  font-size: .8em;
-  display: inline-block;
-  margin: 0;
-}
-
-.cdk-TagList-item::after {
-  content: "•";
-  padding: 0 4px;
-}
-
-.cdk-TagList-item:last-child::after {
-  content: none;
-}
-
-/** @define cdk-Preview */
-
-.cdk-Preview {
-  overflow: hidden;
-}
-
-.cdk-Preview p {
-  display: inline-block;
-  width: 25%;
-  padding-right: 16px;
-}
-
-.cdk-Preview img {
-  cursor: pointer;
-  width: 100%;
-  display: block;
 }
 
 </style>
