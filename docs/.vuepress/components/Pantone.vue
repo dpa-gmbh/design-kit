@@ -1,19 +1,13 @@
 <template>
  <div class="cdk-Pantone" >
-
-  <p >
-        {{ name }}
-  </p>
-  <p >
+    <p>
+      {{ name }}
+    </p>
+    <p>
       {{ color }}
     </p>
-  <div class="cdk-Pantone-color" :style="{ background: color}">
-
+    <div class="cdk-Pantone-color" :style="{ background: color}"></div>
   </div>
-
-
-  </div>
-
 </template>
 
 <script>
@@ -24,9 +18,9 @@ export default {
       default: '#dbdbdb',
     },
     name: {
-          type: String,
-          default: 'farbe',
-        }
+      type: String,
+      default: 'farbe',
+    },
   },
 };
 </script>
