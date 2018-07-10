@@ -20,7 +20,7 @@ export default {
 /** @define cdk-List */
 
 .cdk-SynonymList {
-  margin-top: -1.6rem;
+  margin-top: -1.2rem;
   color: #bababa;
 }
 
