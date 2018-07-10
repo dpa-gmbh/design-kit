@@ -37,12 +37,11 @@ Ein Inhalt ist eine handelbare Werteinheit auf dem Marktplatz. Inhalt ist in fas
 * Umgang mit unterschiedlichen Medienformaten: Bilder darstellen, ... @todo: Exploration hochladen
 :::
 
-<div class="cdk-Preview">
+<cdk-preview title="farbliche Abgrenzung">
 
 ![](./inhalt/inhalt-farbe.png)
-farbliche Abgrenzung
 
-</div>
+</cdk-preview>
 
 ## Ausprägung
 *  im Zustand des Versprechens (Planung), gesendet (manifestiert.)

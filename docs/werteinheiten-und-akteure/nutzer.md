@@ -52,30 +52,36 @@ Stichworte: Markenbildung, Branding für dpa·ID, Bezug zur dpa durch die Farbe 
 
 ## Ausprägung
 
-<div class="cdk-Preview">
+
+<cdk-preview title="Nutzer ohne Bild">
 
 ![](./nutzer/nutzer-mit-kuerzel-auspraegung.png)
-Nutzer ohne Bild
+
+</cdk-preview>
+<cdk-preview title="Nutzer mit Bild">
 
 ![](./nutzer/nutzer-mit-bild-auspraegung.png)
-Nutzer mit Bild
 
-</div>
+</cdk-preview>
 
 ## Kontext
 
-<div class="cdk-Preview">
+<cdk-preview title="bei Login">
 
 ![](./nutzer/nutzer-mit-bild-login.png)
-bei login
+
+</cdk-preview>
+<cdk-preview title="ich selbst eingeloggt">
 
 ![](./nutzer/nutzer-mit-bild-loggedin.png)
-ich selbst eingeloggt
+
+</cdk-preview>
+
+<cdk-preview title="in Kommunikation">
 
 ![](./nutzer/nutzer-und-mitarbeiter-in-kommunikation.png)
-in Kommunikation
 
-</div>
+</cdk-preview>
 
 ## Ressourcen
 

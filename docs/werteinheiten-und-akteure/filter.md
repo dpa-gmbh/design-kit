@@ -29,15 +29,18 @@ Ein Filter dient dem Nutzer dazu für ihn relevante Datenströme zu bekommen.
 
 ## Kontext
 
-<div class="cdk-Preview">
+<cdk-preview title="A">
 
 ![](./filter/filter-kontext-a.png)
-A
+
+</cdk-preview>
+<cdk-preview title="B">
 
 ![](./filter/filter-kontext-b.png)
-B
+
+</cdk-preview>
+<cdk-preview title="C">
 
 ![](./filter/filter-kontext-c.png)
-C
 
-</div>
+</cdk-preview>

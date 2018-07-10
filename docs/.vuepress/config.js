@@ -5,12 +5,6 @@ module.exports = {
     [
       'script',
       {
-        src: '/preview.js'
-      }
-    ],
-    [
-      'script',
-      {
         src: 'https://unpkg.com/@webcomponents/webcomponentsjs@2.0.0/webcomponents-loader.js'
       }
     ],

@@ -39,12 +39,12 @@ Hat ein erkennbares Erscheinungsbild und einen Namen. Medienformat ist anschluss
 :::
 
 ## Explorationen
-<div class="cdk-Preview">
+
+<cdk-preview title="farbliche Abgrenzung">
 
 ![](./medienformat/medienformat-farbe.png)
-farbliche Abgrenzung
 
-</div>
+</cdk-preview>
 
 
 ## Ausprägung
