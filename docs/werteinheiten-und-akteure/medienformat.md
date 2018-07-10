@@ -33,7 +33,6 @@ Hat ein erkennbares Erscheinungsbild und einen Namen. Medienformat ist anschluss
 
 ::: tip Iterationsrichtung
 * Unterscheidbar / Lesbarkeit bei kleiner Darstellung
-* Mit Mengenangabe
 * Unterschiedliche Genres insbesondere für Text 'nach vorne' hochladen
 * Farbzugehörigkeit (siehe Exploration) prüfen
 :::
