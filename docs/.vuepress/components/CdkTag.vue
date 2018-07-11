@@ -1,7 +1,9 @@
 <template>
   <li class="cdk-Tag" :class="classObj">
-    <span class="cdk-Tag-key" v-if="humanKey">{{humanKey}}</span>
-    {{ humanTitle }}
+    <a :href="`/design-kit/browse-by-tag.html?${title}`">
+      <span class="cdk-Tag-key" v-if="humanKey">{{humanKey}}</span>
+      {{ humanTitle }}
+    </a>
   </li>
 </template>
 <script>
@@ -10,6 +12,10 @@ export default {
     title: {
       type: String,
       default: () => '',
+    },
+    isSelected: {
+      type: Boolean,
+      default: () => false,
     }
   },
   computed: {
@@ -25,13 +31,14 @@ export default {
       return parts.pop();
     },
     classObj () {
+      let classObj = {};
+      classObj[`cdk-Tag--selected`] = this.isSelected;
       let parts = this.title.split(':');
       if (parts.length <= 1) {
-        return {}
+        return classObj
       }
-      return [
-        `cdk-Tag--${parts[0]}`
-      ]
+      classObj[`cdk-Tag--${parts[0]}`] = true;
+      return classObj;
     }
   }
 }
@@ -50,11 +57,22 @@ export default {
   text-transform: uppercase;
 }
 
+.cdk-Tag a {
+  color: #444444;
+}
+
+.cdk-Tag a:hover {
+  color: #2294fe;
+}
+
 .cdk-Tag .cdk-Tag-key {
   opacity: 0.6;
 }
 
 .cdk-Tag--status {
   background-color: #ff4f5b;
+}
+.cdk-Tag--selected {
+  border: 1px solid #2294fe;
 }
 </style>
