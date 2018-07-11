@@ -7,7 +7,7 @@
     <div class="cdk-BrowseByTagPage-content">
       <h1>Seiten für Schlagwort "{{selectedTag}}"</h1>
       <ul v-for="page in pagesWithTag">
-        <li><a :href="page.path">{{page.title}}</a></li>
+        <li><a :href="`/design-kit${page.path}`">{{page.title}}</a></li>
       </ul>
     </div>
   </div>
