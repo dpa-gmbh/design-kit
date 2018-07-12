@@ -19,14 +19,15 @@ Berichterstattung ist die Summe aller gesendeten und geplanten [Inhalte](./inhal
 
 ![](./berichterstattung/berichterstattung-anwendung.png)
 
-> 13 Texte gesendet, 2 weitere Texte geplant; 2 Bilder und 1 Audio-Inhalt gesendet; 2 Videos geplant
+> 13 Texte gesendet, 2 weitere Texte geplant; Bild(er) und Audio-Inhalt(e) gesendet; Video(s) geplant
 
 ## Beschreibung
 
 ### Reihenfolge
 
-Die Anzahl der gesendeten Inhalte wird vor der Anzahl der geplanten Inhalte gezeigt.
-Die Reihenfolge richtet sich nach dem [Medienformat](./medienformat.md).
+Die Anzahl der Inhalte wird nur für Medienformat Text gezeigt. Für alle anderen Medienformate wird über
+ein Icon indiziert, ob Inhalte gesendet und / oder geplant sind.
+Die Reihenfolge der Darstellung richtet sich nach dem [Medienformat](./medienformat.md), wie folgt:
 
 - Text
 - Bild
