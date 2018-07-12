@@ -1,6 +1,6 @@
-# Anmelden mit dpa·ID
+# Wiederholtes Anmelden mit dpa·ID
 
-Wiederholtes Anmelden an einem Tool
+Wiederholtes Anmelden an einem Tool, im Unterschied zu [erstmaliger Nutzung mit dpa·ID](./erstmalige-nutzung-mit-dpa-id).
 
 ## Beschreibung
 
@@ -52,18 +52,22 @@ Hinweise zur Gestaltung des Tool Identifikationsbildes
 ### <Step number="3" /> Schritt 3
 
 #### Was passiert
-Der Nutzer hat anmelden geklickt
+Der Nutzer hat anmelden geklickt.
 
 #### Was sieht er
+
+##### <Step number="3a" />
 Das Tool mit Inhalten und Funktionen. Eine Bestätigung, dass die Anmeldung mit der dpa·ID funktioniert hat. Sein eigenes Profilbild oder Kürzel.
 
-#### Hinweise
+**Hinweise**
 Das Profilbild soll oben rechts positioniert werden. Die Bestätigung, dass die Anmeldung erfolgreich war, erfolgt als Animation am Profilbild.
 
 [Code-Skizze für Animation in Code-Pen](https://codepen.io/anon/pen/deqGVP)
 
+##### <Step number="3b" />
+Eine Fehlermeldung, dass der Nutzer nicht berechtigt ist das Tool zu benutzen.
+
 ::: tip Iterationssrichtung
-- Erstmaliges Anmelden bei einem Produkt mit bestehende dpa·ID
 - Spezifikation für Assets und Informationen für Login Formular
 - Einsatzhinweise zum Login-Flow: Redirect, kein Popup
 :::

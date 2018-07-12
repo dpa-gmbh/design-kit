@@ -37,8 +37,9 @@ module.exports = {
       {
         title: "Komponenten",
         children: [
-          "./komponenten/formular",
           "./komponenten/button",
+          "./komponenten/dialog",
+          "./komponenten/formular",
           "./komponenten/beispiel"
         ]
       },
@@ -58,6 +59,7 @@ module.exports = {
       {
         title: "Interaktionen",
         children: [
+          "./interaktionen/erstmalige-nutzung-mit-dpa-id",
           "./interaktionen/anmelden-mit-dpa-id",
           "./interaktionen/wiederholt-relevantes-finden",
         ]
