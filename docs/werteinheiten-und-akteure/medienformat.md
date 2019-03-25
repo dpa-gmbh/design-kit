@@ -11,7 +11,7 @@ synonyms:
 
 # Medienformat
 
-Medienformat klassifiziert [Inhalte](./inhalt.md).
+Medienformat klassifiziert [Inhalte](./inhalt).
 
 ## Beschreibung
 Medienformat klassifiziert einen Inhalte als *Text*, *Bild*, *Grafik*, *Video*, *Audio* oder *Embed*

@@ -8,7 +8,7 @@ synonyms:
 <TagList :items="$page.frontmatter.tags" title="Tags" />
 # Erstmalige Nutzung mit dpa·ID
 
-Erstmalige Nutzung eines [Tools](../werteinheiten-und-akteure/tool.md) mit dpa·ID
+Erstmalige Nutzung eines [Tools](../werteinheiten-und-akteure/tool) mit dpa·ID
 
 ## Beschreibung
 
@@ -90,7 +90,7 @@ Der Nutzer ist authentifiziert und erstmalig in dem Tool.
 #### Was sieht er
 
 ##### <Step number="7a" />
-Der Dialog für AGB und Datenschutz wird angezeigt. Die Gestaltung kann auf Basis von [Dialog](../komponenten/dialog.md) erfolgen.
+Der Dialog für AGB und Datenschutz wird angezeigt. Die Gestaltung kann auf Basis von [Dialog](../komponenten/dialog) erfolgen.
 
 ##### <Step number="7b" />
 Der Nutzer ist authentifiziert, aber nicht authorisiert das Tool zu nutzen

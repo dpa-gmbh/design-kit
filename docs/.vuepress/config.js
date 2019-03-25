@@ -1,6 +1,6 @@
 module.exports = {
-  base: "/design-kit/",
-  title: "dpa-Connect Design Kit",
+  base: '/design-kit/',
+  title: 'dpa-Connect Design Kit',
   head: [
     [
       'script',
@@ -28,47 +28,48 @@ module.exports = {
     editLinks: true,
     editLinkText: 'Diese Seite bearbeiten',
     sidebar: [{
-        title: "Grundlagen",
+        title: 'Grundlagen',
         children: [
-          "./grundlagen/farben",
-          "./grundlagen/schriftart"
+          '/',
+          '/grundlagen/farben',
+          '/grundlagen/schriftart'
         ]
       },
       {
-        title: "Komponenten",
+        title: 'Komponenten',
         children: [
-          "./komponenten/button",
-          "./komponenten/dialog",
-          "./komponenten/formular",
-          "./komponenten/beispiel"
+          '/komponenten/button',
+          '/komponenten/dialog',
+          '/komponenten/formular',
+          '/komponenten/beispiel'
         ]
       },
       {
-        title: "Werteinheiten und Akteure",
+        title: 'Werteinheiten und Akteure',
         children: [
-          "./werteinheiten-und-akteure/berichterstattung",
-          "./werteinheiten-und-akteure/filter",
-          "./werteinheiten-und-akteure/inhalt",
-          "./werteinheiten-und-akteure/nutzer",
-          "./werteinheiten-und-akteure/medienformat",
-          "./werteinheiten-und-akteure/mitarbeiter",
-          "./werteinheiten-und-akteure/team",
-          "./werteinheiten-und-akteure/tool"
+          '/werteinheiten-und-akteure/berichterstattung',
+          '/werteinheiten-und-akteure/filter',
+          '/werteinheiten-und-akteure/inhalt',
+          '/werteinheiten-und-akteure/nutzer',
+          '/werteinheiten-und-akteure/medienformat',
+          '/werteinheiten-und-akteure/mitarbeiter',
+          '/werteinheiten-und-akteure/team',
+          '/werteinheiten-und-akteure/tool'
         ]
       },
       {
-        title: "Interaktionen",
+        title: 'Interaktionen',
         children: [
-          "./interaktionen/erstmalige-nutzung-mit-dpa-id",
-          "./interaktionen/anmelden-mit-dpa-id",
-          "./interaktionen/wiederholt-relevantes-finden",
+          '/interaktionen/erstmalige-nutzung-mit-dpa-id',
+          '/interaktionen/anmelden-mit-dpa-id',
+          '/interaktionen/wiederholt-relevantes-finden',
         ]
       },
       {
-        title: "Appendix",
+        title: 'Appendix',
         children: [
-          "./connect-design-kit/glossar",
-          "./connect-design-kit/prozess"
+          '/connect-design-kit/glossar',
+          '/connect-design-kit/prozess'
         ]
       },
     ]

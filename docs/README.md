@@ -8,16 +8,16 @@ Unter Hinweisen zur Gestaltung verstehen wir Design Grundlagen, Komponenten, Mod
 
 ### Grundlagen
 
-[Farben](grundlagen/farben.md), [Typographie](grundlagen/schriftart.md), …
+[Farben](./grundlagen/farben), [Typographie](grundlagen/schriftart), …
 
 ### Komponenten
-generische Interface-Elemente, wie [Eingabefelder](komponenten/formular.md), [Buttons](komponenten/button.md) und [Formular](komponenten/beispiel.md)
+generische Interface-Elemente, wie [Eingabefelder](komponenten/formular), [Buttons](komponenten/button) und [Formular](komponenten/beispiel)
 
 ### Module
-visuelle Gestalung für anwendungsübergreifende Wertheiten und Akteuere, wie [Nutzer](werteinheiten-und-akteure/nutzer.md), [Mitarbeiter](werteinheiten-und-akteure/mitarbeiter.md), [Inhalt](werteinheiten-und-akteure/inhalt.md) und [Tool](werteinheiten-und-akteure/tool.md)
+visuelle Gestalung für anwendungsübergreifende Wertheiten und Akteuere, wie [Nutzer](werteinheiten-und-akteure/nutzer), [Mitarbeiter](werteinheiten-und-akteure/mitarbeiter), [Inhalt](werteinheiten-und-akteure/inhalt) und [Tool](werteinheiten-und-akteure/tool)
 
 ### Interaktionsmuster
-[Anmelden mit dpa·ID](interaktionen/anmelden-mit-dpa-id.md), [filtern von relevanten Inhalten](interaktionen/wiederholt-relevantes-finden.md), …
+[Anmelden mit dpa·ID](interaktionen/anmelden-mit-dpa-id), [filtern von relevanten Inhalten](interaktionen/wiederholt-relevantes-finden), …
 
 ## Zielgruppe
 

@@ -10,7 +10,7 @@ synonyms:
 # {{$page.frontmatter.title}}
 <SynonymList :items="$page.frontmatter.synonyms" title="Synonyme"></SynonymList>
 
-Berichterstattung ist die Summe aller gesendeten und geplanten [Inhalte](./inhalt.md) der dpa oder anderer Anbieter zu einem bestimmten Thema oder Termin.
+Berichterstattung ist die Summe aller gesendeten und geplanten [Inhalte](./inhalt) der dpa oder anderer Anbieter zu einem bestimmten Thema oder Termin.
 
 ## Gestaltung
 ![](./berichterstattung/berichterstattung.png)
@@ -27,7 +27,7 @@ Berichterstattung ist die Summe aller gesendeten und geplanten [Inhalte](./inhal
 
 Die Anzahl der Inhalte wird nur für Medienformat Text gezeigt. Für alle anderen Medienformate wird über
 ein Icon indiziert, ob Inhalte gesendet und / oder geplant sind.
-Die Reihenfolge der Darstellung richtet sich nach dem [Medienformat](./medienformat.md), wie folgt:
+Die Reihenfolge der Darstellung richtet sich nach dem [Medienformat](./medienformat), wie folgt:
 
 - Text
 - Bild
