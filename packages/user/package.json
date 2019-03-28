@@ -1,0 +1,39 @@
+{
+  "name": "@dpa-connect/user",
+  "version": "0.6.0",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": "https://github.com/dpa-connect/design-kit/tree/master/packages/user",
+  "main": "dist/cdk-user.min.js",
+  "styles": "dist/user.css",
+  "scripts": {
+    "serve": "vue-cli-service serve --open",
+    "build:lib": "vue-cli-service build --target lib --name user",
+    "build:wc": "vue-cli-service build --target wc --name cdk-user"
+  },
+  "dependencies": {
+    "vue": "^2.5.16"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.0-beta.10",
+    "@vue/cli-service": "^3.0.0-beta.10",
+    "vue-template-compiler": "^2.5.13"
+  },
+  "babel": {
+    "presets": [
+      "@vue/app"
+    ]
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
