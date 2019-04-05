@@ -1,7 +1,5 @@
 # dpa-Connect Design Kit
 
-![](./keyvisual.jpg)
-
 Das dpa-Connect Design Kit ist eine Sammlung von Hinweisen zur Gestaltung von Anwendungen für Medien- und Kommunikationsprofis auf dem dpa-Marktplatz.
 
 Unter Hinweisen zur Gestaltung verstehen wir Design Grundlagen, Komponenten, Module für die Darstellung von Werteinheiten und Akteuren und Interaktionsmuster.

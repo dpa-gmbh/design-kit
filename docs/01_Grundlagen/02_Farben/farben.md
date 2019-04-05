@@ -1,5 +1,7 @@
 # Farben
 
+![](farben.png)
+
 ## Primär
 
 <Pantone name="dpa evolution" color="#a3f2a5"></Pantone>

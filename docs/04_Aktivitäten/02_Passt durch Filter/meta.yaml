@@ -1,0 +1,14 @@
+title: Passt durch Filter
+term: pass Filter
+description: >
+  Vorläufig - Passt durch Filter ist eine Aktivität, deren Akteur der Filter-Service ist, der ermittelt (Aktion), ob eine Werteinheit (Objekt) durch einen Filter (Target) passt.
+tags:
+  - Werteinheit
+  - Filter
+  - Akteur 
+  - Publizieren
+
+synonyms:
+  - Treffer
+  
+  
