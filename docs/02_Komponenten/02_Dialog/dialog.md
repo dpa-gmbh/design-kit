@@ -1,7 +1,9 @@
 # Dialog
 
-![](./Cover.png)
+![](./Dialog.png)
 
-### Iterationsrichtung
+## Beschreibung
+Dialoge dienen als Hinweis für Funktionen und andere Informationen. Sie können Teaserflächen, Bilder und Text sowie interaktive Elemente wie Checkboxen und Buttons enthalten.
 
-* Visuelle Gestaltung
+## Skizze
+![](Scribble.png)
