@@ -1,21 +1,12 @@
 # Farben
 
-![](farben.png)
+![Colours](Colours Cover.png)
 
-## Primär
+## Beschreibung
+Unsere Farben leuchten, denn die Produkte sollen Spaß machen.
 
-<Pantone name="dpa evolution" color="#a3f2a5"></Pantone>
+Die Primärfarbe ist blau, daneben werden hauptsächlich Grautöne eingesetzt. Für vielfältige Gestaltungsmöglichkeiten können Farben aus unserem Regenbogen genutzt werden. Erfolgs- und Fehlerhinweise haben eigene Farben.
 
-<Pantone name="active blue" color="#2294fe"></Pantone>
+In der folgenden Übersicht sind die Farben definiert.
 
-## Sekundär
-
-<Pantone name="alert red" color="#ff4f5b"></Pantone>
-
-<Pantone name="dpa writer" color="#444444"></Pantone>
-
-<Pantone name="medium grey" color="#bababa"></Pantone>
-
-<Pantone name="off white" color="#f1f1f1"></Pantone>
-
-
+![Farbübersicht](./Colours.png)
