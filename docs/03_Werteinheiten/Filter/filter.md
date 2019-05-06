@@ -10,11 +10,11 @@ Ein Filter dient dem Nutzer dazu für ihn relevante Datenströme zu bekommen.
 ## Skizze
 ![](./filter-skizze.png)
 
-::: tip Iterationsrichtungen
+## Weiterentwicklung
+
 1. Gefüllte 'Fahne' für eigene Filter
 2. WKW Filter für Farbblind und Sehbeeinsträchtigte unterscheidbar gestalten?
 3. Idee: Andere Formen als Raute als Unterscheidungsmerkmal zulassen?
-:::
 
 
 ## Kontext

@@ -1,10 +1,11 @@
 ![](./nutzer.png)
 
-::: tip Iterationssrichtung
+## Weiterentwicklung
+
 - Unterscheidung Nutzer nicht dpa / Nutzer dpa-Mitarbeiter
 - Nutzer im Zusammenspiel mit Team
 - Wenn kein Bild da ist, wie wird Nutzer unterscheidbar dargestellt werden (Hintergrundfarbe, generierte Patterns, ...)
-:::
+
 
 ## Beschreibung
 
@@ -78,13 +79,14 @@ Stichworte: Markenbildung, Branding für dpa·ID, Bezug zur dpa durch die Farbe 
 
 ## Code
 
-::: tip Proof of Concept
+
+### Proof of Concept
+
 Der Nutzer kann einfach als Web Komponente über CDN in
 bestehende Andwendungen eingebunden werden. Langfristig können Werteinheiten
 und Akteure von dpa-Connect als Module auf [npm](https://www.npmjs.com/~dpa-connect)
 in Code bereit gestellt werden und von verschiedenen Applikationen konsumiert
 werden.
-:::
 
 ### Einbindung als Web-Component
 

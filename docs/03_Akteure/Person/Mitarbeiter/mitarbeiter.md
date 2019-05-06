@@ -8,10 +8,11 @@ Der Mitarbeiter verfügt über eine dpa-ID, d.h. eine Email und ein Passwort mit
 
 Der Mitarbeiter soll als Person ansprechbar sein und in Kommunikation treten können. Der Mitarbeiter samt Team-Zugehörigkeit repräsentiert die dpa mit ihren Werten: vertrauenswürdig, verifiziert. Der Mitarbeiter gibt Orientierung über die Herkunft z.B. von Material,
 
-::: tip Iterationrichtung
+## Weiterentwicklung
+
 - Mitarbeiter auf Marketingseite im Kontext verproben
 - grüner Connect-Dot? Missverständnis als Mitarbeiter ist 'online' überprüfen.
-:::
+
 
 ## Skizze
 ![](./mitarbeiter/mitarbeiter-skizze.png)

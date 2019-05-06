@@ -1,14 +1,6 @@
----
-title: Erstmalige Nutzung mit dpa·ID
-tags:
-  - status:entwurf
-synonyms:
-  - Registrierung
----
-<TagList :items="$page.frontmatter.tags" title="Tags" />
 # Erstmalige Nutzung mit dpa·ID
 
-Erstmalige Nutzung eines [Tools](../werteinheiten-und-akteure/tool) mit dpa·ID
+Erstmalige Nutzung einer [App](../../Werteinheiten/App) mit dpa·ID
 
 ## Beschreibung
 
@@ -25,11 +17,11 @@ Der Nutzer möchte ein Tool, dass er bisher nicht kennt testen.
 
 ## Flow
 
-::: tip Iterationssrichtung
+### Iterationsrichtung
+
 - Gegenlesen
 - Interaktion als Grafik darstellen
 - Gestaltung für Berechtigung Datenzugriff, Dialog Datenschutz, Nicht Authorisiert
-:::
 
 <!-- ![](./anmelden/ixd-anmelden-flow.png)-->
 

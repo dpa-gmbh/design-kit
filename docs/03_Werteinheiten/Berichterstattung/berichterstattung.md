@@ -23,8 +23,8 @@ Die Reihenfolge der Darstellung richtet sich nach dem [Medienformat](../medienfo
 
 </audio>
 
-::: tip Iterationsrichtung
+## Weiterentwicklung
+
 * Darstellung bei geringer Breite
 * Form Variante (kein Kreis) testen
 * Visuelle Verfeinerung, Rahmenstärke zu Icon Elementen
-:::

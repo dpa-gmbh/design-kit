@@ -67,7 +67,7 @@ Das Profilbild soll oben rechts positioniert werden. Die Bestätigung, dass die 
 ##### <Step number="3b" />
 Eine Fehlermeldung, dass der Nutzer nicht berechtigt ist das Tool zu benutzen.
 
-::: tip Iterationssrichtung
+## Weiterentwicklung
+
 - Spezifikation für Assets und Informationen für Login Formular
 - Einsatzhinweise zum Login-Flow: Redirect, kein Popup
-:::

@@ -14,11 +14,12 @@ Medienformate erleichtern Orientierung in der Menge an Inhalten. Medienformate f
 ## Begründung für Gestaltung
 Hat ein erkennbares Erscheinungsbild und einen Namen. Medienformat ist anschlussfähig für unterschiedliche Tools mit unterschiedlicher Content-Dichte (Agenda, Schalttafel)
 
-::: tip Iterationsrichtung
+## Ausbaastufen
+
 * Unterscheidbar / Lesbarkeit bei kleiner Darstellung
 * Unterschiedliche Genres insbesondere für Text 'nach vorne' hochladen
 * Farbzugehörigkeit (siehe Exploration) prüfen
-:::
+
 
 ## Explorationen
 
