@@ -1,4 +1,10 @@
-![](./berichterstattung.png)
+![](./Berichterstattung.png)
+
+![](./Spezifikation.png)
+**1** 10 gesendete Textinhalte  
+**2** 8 geplante Textinhalte  
+**3** 13 gesendete und 2 geplante Textinhalte  
+**4** mit Beschreibung und Fotoinhalt  
 
 ## Beispiel
 
