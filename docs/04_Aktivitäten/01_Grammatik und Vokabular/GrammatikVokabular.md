@@ -1,4 +1,8 @@
+![](GrammatikVokabular.png)
+
 ![](Spezifikation.png)
+**1** [Akteur](../../Akteure/)  
+**2** [Werteinheit](../../Werteinheiten/)  
 
 ## Beschreibung Vokabular
 
