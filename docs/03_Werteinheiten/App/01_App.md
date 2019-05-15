@@ -1,4 +1,4 @@
-![](./app-cover.png)
+![](App.png)
 
 ## Beschreibung
 Tools sind digitale Anwendungen wie Agenda, Schalttafel, Buzzrank, Zimpel, Shop (fka Kaufhalle), … die Aufgaben erledigen helfen wie Planung für eine Zeitung, Auswahl und Überführung von Material in ein CMS, Embed von Material, Verbreitung von Pressemitteilungen, …. Die Tools  sind mit einer *dpa-ID* erreichbar.
