@@ -2,7 +2,7 @@
 
 ![Abstände](./Spacing.png)
 ## Beschreibung
-Abstände sind ein wichtiger Bestand der visuellen Gestaltung, der häufig übersehen wird. Abstände können sowohl für Padding- als auch Margin-Eingenschaften eingesetzt werden.
+Abstände sind ein wichtiger Bestand der visuellen Gestaltung, der häufig übersehen wird. Abstände können sowohl für Padding- als auch Margin-Eigenschaften eingesetzt werden.
 
 Pixel | rem
 ---|---
