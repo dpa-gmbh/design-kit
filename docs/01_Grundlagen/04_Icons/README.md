@@ -1,5 +1,6 @@
 # Icons
 
+![Icons](./Icons.png)
 <Banner>
 Wir unterscheiden in der Gestaltung folgende Icons nach ihrem Einsatzzweck:
 </Banner>
