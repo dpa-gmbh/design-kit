@@ -6,16 +6,13 @@
   "author": "Milan Matull <milan@factorial.io>",
   "license": "MIT",
   "devDependencies": {
-    "gh-pages": "^1.1.0",
-    "lerna": "^2.2.0",
-    "vuepress": "^1.0.0-alpha.44"
+    "gh-pages": "^2.0.1",
+    "lerna": "^2.2.0"
   },
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
-    "deploy": "gh-pages -d docs/.vuepress/dist"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "lodash.uniq": "^4.5.0"
+    "lodash.uniq": "^4.5.0",
   }
 }

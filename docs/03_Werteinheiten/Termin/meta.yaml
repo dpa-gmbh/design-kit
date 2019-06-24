@@ -1,0 +1,11 @@
+title: Termin
+term: Event
+description: >
+  Der Termin ist eine Ereignis in der Welt mit einem Datum, einer Uhrzeit und einem Ort, das von einer Person, einem Team oder einer Organisation in einem Hinweis verarbeitet wird.
+tags:
+  - Werteinheit
+  - dpa
+  - Hinweis 
+synonyms:
+  - Termin  
+  - Event
