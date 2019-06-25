@@ -1,0 +1,30 @@
+[
+  {
+    "name": "${task_name}",
+    "image": "${registry_design_kit_image}",
+    "cpu": 512,
+    "memory": 768,
+    "entryPoint": [],
+    "environment": [
+    ],
+    "command": [],
+    "portMappings": [
+      {
+        "containerPort": 8080,
+        "protocol": "http"
+      }
+    ],
+    "volumesFrom": [],
+    "links": [],
+    "mountPoints": [],
+    "essential": true,
+    "logConfiguration": {
+      "logDriver": "awslogs",
+      "options": {
+        "awslogs-group":"${design_kit_lg}",
+        "awslogs-region":"eu-central-1",
+        "awslogs-stream-prefix":"design-kit"
+      }
+    }
+  }
+]
