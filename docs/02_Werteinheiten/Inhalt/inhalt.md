@@ -1,4 +1,4 @@
-![](./Inhalt.png)
+![](./inhalt.png)
 
 ## Skizze
 ![](./Scribble.png)

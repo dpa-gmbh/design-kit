@@ -1,5 +1,5 @@
 
-![](./Mitarbeiter.png)
+![](./mitarbeiter.png)
 
 ## Weiterentwicklung
 
