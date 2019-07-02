@@ -1,3 +1,5 @@
+![](./Team.png)
+
 ## Beschreibung
 Ein Team ist eine  Gruppe von Nutzern, die Marktplatzteilnehmer sind.
 
