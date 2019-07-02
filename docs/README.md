@@ -78,3 +78,9 @@ Die erste Version wurde von einem gemischten Team im Jahr 2018 in einer Woche er
 Seit Mai 2019 wird das Design Verständnis, was während der Entwicklung von dpa-ID, Select und Agenda konkretisiert wurde im Design Kit dokumentiert.
 
 Gewünscht ist, dass weiteres Wissen, auch aus anderen Entwicklungsprozessn einfließt und hier dokumentiert wird.
+
+Änderungen am Design Kit können auf Github im [Design Kit Repository](https://github.com/dpa-gmbh/design-kit/commits/master) verfolgt werden.
+
+---
+
+*Diese Webseite basiert auf einer [minimal angepassten Version](https://github.com/dpa-gmbh/dsk) von [DSK](https://github.com/atelierdisko/dsk).* 
