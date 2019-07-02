@@ -1,4 +1,4 @@
-![](./medienformat.png)
+![](./Medienformat.png)
 
 ## Beschreibung
 Medienformat klassifiziert einen Inhalte als *Text*, *Bild*, *Grafik*, *Video*, *Audio* oder *Embed*
@@ -19,15 +19,6 @@ Hat ein erkennbares Erscheinungsbild und einen Namen. Medienformat ist anschluss
 * Unterscheidbar / Lesbarkeit bei kleiner Darstellung
 * Unterschiedliche Genres insbesondere für Text 'nach vorne' hochladen
 * Farbzugehörigkeit (siehe Exploration) prüfen
-
-
-## Explorationen
-
-<cdk-preview title="farbliche Abgrenzung">
-
-![](./medienformat/medienformat-farbe.png)
-
-</cdk-preview>
 
 
 ## Ausprägung
