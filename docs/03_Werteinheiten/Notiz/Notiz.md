@@ -1,3 +1,0 @@
-![](Cover.png)
-
-![](Scribble.png)
