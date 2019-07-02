@@ -1,10 +1,10 @@
-![](./inhalt.png)
+![](./Inhalt.png)
 
 ## Skizze
-![](./inhalt-skizze.png)
+![](./Scribble.png)
 
 ## Beschreibung
-Inhalt ist eine journalistische Werteinheiten der dpa oder anderer Anbieter. Ein Inhalt wird zur Publikation oder zu Informationszwecken angeboten.
+Inhalt ist eine journalistische Werteinheit der dpa oder anderer Anbieter. Ein Inhalt wird zur Publikation oder zu Informationszwecken angeboten.
 
 Inhalte gibt es in unterschiedlichen *Medienformaten*. Inhalte werden in unterschiedlicher Weise geklammert z.B.  als *Wire*, als Paket, als Serie, als Rubrik. Die Ausgestaltung von einem Inhalt unterscheidet sich nach Medienformat und Genre.  Einen Inhalt gibt es in unterschiedlichen Darreichungsformen je nach Medienformat.
 
@@ -16,12 +16,6 @@ Ein Inhalt ist eine handelbare Werteinheit auf dem Marktplatz. Inhalt ist in fas
 * Überprüfen in welcher UI-Form Abgrenzung von Paket und Inhalt gerechtfertigt ist
 * Unterschiedliche Stati (kill, cancel) zum Ausdruck bringen
 * Umgang mit unterschiedlichen Medienformaten: Bilder darstellen, ... @todo: Exploration hochladen
-
-<cdk-preview title="farbliche Abgrenzung">
-
-![](./inhalt-farbe.png)
-
-</cdk-preview>
 
 ## Ausprägung
 *  im Zustand des Versprechens (Planung), gesendet (manifestiert.)
@@ -49,4 +43,3 @@ Ein Inhalt ist eine handelbare Werteinheit auf dem Marktplatz. Inhalt ist in fas
 * Wire
 * Text / Bild / Vorschau
 * Notizblock
-
