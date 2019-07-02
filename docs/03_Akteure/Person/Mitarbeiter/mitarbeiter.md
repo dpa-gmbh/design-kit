@@ -1,5 +1,9 @@
 
-![](./mitarbeiter.png)
+![](./Mitarbeiter.png)
+
+## Weiterentwicklung
+
+- @Todo: keine Großbuchstaben
 
 ## Beschreibung
 Der Mitarbeiter ist eine Person, die für die dpa arbeitet und als solche identifizierbar ist. Der Mitarbeiter hat verschiedene Rollen, er ist Nutzer der dpa-*Tools* und anderer Tools, hat als solcher eine dpa-ID und ist marktplatzteilnehmer. Er ist aber auch Absender von Newslettern oder Kontaktperson für vertriebliche Angelegenheiten. Er ist Adressat und Absender von Nachrichten für *Nutzer*.
@@ -8,14 +12,8 @@ Der Mitarbeiter verfügt über eine dpa-ID, d.h. eine Email und ein Passwort mit
 
 Der Mitarbeiter soll als Person ansprechbar sein und in Kommunikation treten können. Der Mitarbeiter samt Team-Zugehörigkeit repräsentiert die dpa mit ihren Werten: vertrauenswürdig, verifiziert. Der Mitarbeiter gibt Orientierung über die Herkunft z.B. von Material,
 
-## Weiterentwicklung
-
-- Mitarbeiter auf Marketingseite im Kontext verproben
-- grüner Connect-Dot? Missverständnis als Mitarbeiter ist 'online' überprüfen.
-
-
 ## Skizze
-![](./mitarbeiter/mitarbeiter-skizze.png)
+![](Scribble.png)
 
 ## Ausprägung
 * Mitarbeiter ohne Bild
