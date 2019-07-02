@@ -10,16 +10,27 @@ Handelnde [Personen](akteure/personen), [Team](akteure/team) und [Organisationen
 ## Werteinheiten
 Beschreibung und Gestaltung für anwendungsübergreifende [Wertheiten](werteinheiten), insbesondere [(Termin und Themen) Hinweis](werteinheiten/hinweis) und [Nachrichtenstück](werteinheiten/nachrichtenstück) als auch [Inhalt](werteinheiten/inhalt) in unterschiedlichen [Medienformaten](werteinheiten/medienformat)
 
-## Grundlagen
+## Aktivitäten
+*Dieser Bereich ist zur Zeit in Entwicklung - Teile der Dokumentation werden sich ändern*
 
-Visuelle Grundlagen für die Gestaltung von Marktplatz Apps: [Farben](./grundlagen/farben), [Typographie](grundlagen/schriftart), [Abstände](grundlagen/abstände), [Icons](grundlagen/icons), [Schatten](grundlagen/schatten), …
-
-## Komponenten
-Generische Interface-Elemente, wie [Eingabeelemente](komponenten/formular), [Buttons](komponenten/button) und [Dialoge](komponenten/dialog) und für die dpa ID spezifische Komponenten für die Einbindung in Apps: [Anmelden mit dpa ID](komponenten/dpa ID Anmelden), [App Overlay](komponenten/dpa ID App Overlay), [User Overlay](komponenten/dpa ID User Overlay) sowie [E-Mail Templates](komponenten/E-Mail)
+## Marketing
+Mit Assets zu [dpa ID Identität](marketing/dpa ID Identität) und *in Arbeit befindlicher* Dokumentation zu den Gestaltungsprinzipien der [App Icons](marketing/App Icons) für Apps der dpa Gruppe.
 
 ## Interaktionen
 
-Interaktionsmuster, die in unterschiedlichen Anwendungen genutz werden, wie das [Anmelden mit dpa·ID](interaktionen/anmelden-mit-dpa-id) und [filtern von relevanten Inhalten](interaktionen/wiederholt-relevantes-finden)
+Interaktionsmuster, die in unterschiedlichen Anwendungen genutzt werden, wie das [Anmelden mit dpa·ID](interaktionen/anmelden-mit-dpa-id) und [filtern von relevanten Inhalten](interaktionen/wiederholt-relevantes-finden).
+
+*Dieser Bereich wird mit der Entwicklung von weiteren Connect Services, wie Bookmarking, Teilen, usw. weiter ausgebaut*
+
+## Komponenten
+
+Generische Interface-Elemente, wie [Eingabeelemente](komponenten/formular), [Buttons](komponenten/button) und [Dialoge](komponenten/dialog) und für die dpa ID spezifische Komponenten für die Einbindung in Apps: [Anmelden mit dpa ID](komponenten/dpa ID Anmelden), [App Overlay](komponenten/dpa ID App Overlay), [User Overlay](komponenten/dpa ID User Overlay) sowie [E-Mail Templates](komponenten/E-Mail)
+
+*Die Komponenten liegen in als Web-Components Implementierung vor und sind intern via npm verfügbar. Es folgen Informationen zur Einbindung.*
+
+## Grundlagen
+
+Visuelle Grundlagen für die Gestaltung von Marktplatz Apps: [Farben](./grundlagen/farben), [Typographie](grundlagen/schriftart), [Abstände](grundlagen/abstände), [Icons](grundlagen/icons), [Schatten](grundlagen/schatten), …
 
 ---
 
