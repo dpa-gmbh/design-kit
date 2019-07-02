@@ -1,4 +1,14 @@
-Die Ausbaustufen in den Bereichen Dokumentation, Gestaltung und technische Implementierung fassen wir als Implementierungstiefe zusammen. Als Namensgeber dienen Meeresgräben.
+Die Implementierungstiefe wird als Tag an einzelnen Inhalten angegeben.
+
+- [impl:outdated](/?q=impl:outdated)
+- [impl:draft](/?q=impl:draft)
+- [impl:wip](/?q=impl:wip)
+- [impl:phoenix](/?q=impl:phoenix)
+- [impl:japan](/?q=impl:japan)
+- [impl:marian](/?q=impl:marian)
+
+
+Die [Ausbaustufen](../Ausbaustufen) in den Bereichen Dokumentation, visueller Gestaltung und technische Implementierung fassen wir als Implementierungstiefe zusammen. Als Namensgeber dienen Meeresgräben.
 
 Merke: Marian ist tiefer als Japan ist tiefer als Phoenix.
 

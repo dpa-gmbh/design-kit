@@ -1,6 +1,6 @@
-Das Design Kit führt Dokumentation, Gestaltung und technische Implementierung zusammen. Der Ausbau und die Pflege des Design Kits ist ein kontinuierlicher Prozess der im Zusammenspiel mit der Entwicklung der Produkte zusammen stattfindet. Naturgemäß sind nicht alle Inhalte vollständig dokumentiert, gestaltet und technisch implementiert.
+Das Design Kit führt Dokumentation, visuelle Gestaltung und technische Implementierung zusammen. Der Ausbau und die Pflege des Design Kits ist ein kontinuierlicher Prozess der im Zusammenspiel mit der Entwicklung einzelner Apps stattfindet. Naturgemäß sind nicht alle Inhalte vollständig dokumentiert, gestaltet und technisch implementiert.
 
-Im Folgenden sind unterschiedliche Ausbaustufen der einzelnen Bereich definiert:
+Im Folgenden sind unterschiedliche Ausbaustufen der einzelnen Arbeitsbereiche definiert:
 
 
 # Dokumentation
@@ -13,7 +13,7 @@ Stufe|Titel|Beschreibung
 4 | API-Skizze                | Die Eigenschaften (Properties) der Komponente und mögliche Werte sind in tabellarischer Form erfasst
 5 | Begründung der Gestaltung | Die Gestaltungsentscheidungen sind in Textform begründet
 
-# Gestaltung
+# Visuelle Gestaltung
 
 Stufe|Titel|Beschreibung
 ---|---|---
