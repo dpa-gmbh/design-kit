@@ -6,9 +6,6 @@ Der gemeinsame Arbeitsraum für Kollaboration ist die *Mappe*. Es gibt Mappen, d
 Das Konzept der Mappe funktioniert technisch und vom Nutzerverständnis her ohne die Detailansichten der einzelnen Werteinheiten zu zeigen. Die Mappen sind sowohl aus der Anwendung als auch aus dem Hub zu erreichen.
 
 
-![](Scribble.png)
-
-
 ## Ausprägung
 * ☑️Fullscreen
 * ☑️ Sidebar
@@ -25,7 +22,3 @@ Das Konzept der Mappe funktioniert technisch und vom Nutzerverständnis her ohne
 **Mappe**
 - Titel
 - Farbe
-
-
-
-
