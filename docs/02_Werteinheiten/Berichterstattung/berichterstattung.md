@@ -1,4 +1,4 @@
-![](./Berichterstattung.png)
+![](./berichterstattung.png)
 
 ![](./Spezifikation.png)
 **1** 10 gesendete Textinhalte  

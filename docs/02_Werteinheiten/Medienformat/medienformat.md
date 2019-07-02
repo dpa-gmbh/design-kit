@@ -1,4 +1,4 @@
-![](./Medienformat.png)
+![](./medienformat.png)
 
 ## Beschreibung
 Medienformat klassifiziert einen Inhalte als *Text*, *Bild*, *Grafik*, *Video*, *Audio* oder *Embed*

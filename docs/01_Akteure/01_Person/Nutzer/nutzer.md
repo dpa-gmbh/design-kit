@@ -1,4 +1,4 @@
-![](./Nutzer.png)
+![](./nutzer.png)
 
 ## Weiterentwicklung
 
