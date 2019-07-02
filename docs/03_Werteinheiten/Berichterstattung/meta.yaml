@@ -3,6 +3,6 @@ description: >
   Berichterstattung ist die Summe aller gesendeten und geplanten Inhalte der dpa oder anderer Anbieter zu einem bestimmten Thema oder Termin.
 term: Coverage
 tags:
-  - status/entwurf
+  - impl:japan
 synonyms:
   - Planung
