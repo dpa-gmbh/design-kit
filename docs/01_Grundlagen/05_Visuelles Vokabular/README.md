@@ -1,6 +1,6 @@
 # Visuelles Vokabular
 
-Das visuelle Vokabular beschreibt die möglichst eindeutige Zuordnung von visuellen Stil zur Zuständen und Werteinheiten im Gesamtsystem.
+Das visuelle Vokabular beschreibt die möglichst eindeutige Zuordnung von visuellen Stilen, die der Unterscheidung von Zuständen und Werteinheiten im Gesamtsystem dienen.
 
 ## Farbe
 
