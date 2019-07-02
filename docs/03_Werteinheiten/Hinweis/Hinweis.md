@@ -12,9 +12,10 @@ Autor, kann eine Person, eine Team oder eine Organisation sein - wer gibt den Hi
 - Berichterstattung (intended/fulfilled) - wird dpa berichten und in welchem Ausmaß?
 
 ![](./Spezifikation.png)
-**1** [Klassifizierung](../../Werteinheiten/Klassifizierung)  
-**2** [Termin](../../Werteinheiten/Termin)  
-**3** [Berichterstattung](../../Werteinheiten/Berichterstattung)  
+
+- **1** [Klassifizierung](../../Werteinheiten/Klassifizierung)  
+- **2** [Termin](../../Werteinheiten/Termin) oder [Thema](../../Werteinheiten/Thema)
+- **3** [Berichterstattung](../../Werteinheiten/Berichterstattung)  
 
 ## Zukünftige Weiterentwicklung
 * Hinweise mit Werteinheiten von fremden Dritten
