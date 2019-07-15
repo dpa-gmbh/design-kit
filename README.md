@@ -1,4 +1,10 @@
-# connect-design-kit
+# dpa Connect Design Kit
+
+http://design-kit.dpa-connect.de
+
+## Beitragen
+
+https://design-kit.dpa-connect.de/tree/Connect-Design-Kit/Prozess/Beitragen
 
 ## Documentation
 
@@ -13,6 +19,7 @@ Read more, here:
 
 - https://atelierdisko.de/journal/post-167-announcing-dsk-1-0
 - https://github.com/atelierdisko/dsk
+- https://rundsk.com
 
 ### Development
 
