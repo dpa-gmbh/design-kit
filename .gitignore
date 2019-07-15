@@ -1,6 +1,5 @@
-docs/.vuepress/dist
-
-dist
+# DSK
+dsk-darwin-amd64
 
 .DS_Store
 
