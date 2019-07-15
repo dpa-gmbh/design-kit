@@ -1,6 +1,6 @@
 # Prozess
 
-Die vorliegende Version wurde in zwei Phasen erabrbeitet.
+Die vorliegende Version wurde in zwei Phasen erarbeitet.
 
 Die erste Version ist im connect Design Kit Sprint im April 2018 innerhalb von 5 Tagen entstanden. Im ersten Schritt wurde aufgezeigt, wie das Kit funktioniert, gepflegt und genutzt werden kann; es war bei weitem noch nicht vollständig.
 
