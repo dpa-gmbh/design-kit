@@ -4,17 +4,19 @@
 **1** [Akteur](../../Akteure/)  
 **2** [Werteinheit](../../Werteinheiten/)  
 
-## Beschreibung Vokabular
+## Übersichtz der verwendeten Begriffe
 
-Bezeichnung | Term | Beispiel
+Bezeichnung | Term | Beispiele für Typen
 ---|---|---
-Akteur    | Actor    | Akteure: Person, Team, Organisation
+Akteur    | Actor    | [Akteure](../../Akteure): Person, Team, Organisation
 Aktion    | Action   | Publizieren, Teilen, Einladen
 Objekt    | Object   | Werteinheiten: Text, Bild, Grafik, Filter, Thema, Termin, ...
 Kontext   | Context  | Filter, App
 Ursprung  | Origin   | Liste
 Ziel      | Target   | Liste
 Adressat  | Consumer | Akteure: Person, Team, Organisation
+
+## Beschreibung und Beispiele
 
 ### Akteur (Actor)
 
@@ -60,7 +62,7 @@ Beispiel: Ein Filter (erster Kontext) innerhalb von Agenda (zweiter Kontext)
 
 dpa (Actor) veröffentlicht (Action) Text (Object). Der Text passt in Filter 'Politik Hamburg' (Context 1) in Select (Context 2).
 
-- Für einen Nutzer würde diese Aktivität sichtbar, wenn er den Filter 'Politik Hamburg' (Context 1) beobachtet
+<span>▶️</span> Für einen Nutzer würde diese Aktivität sichtbar, wenn er den Filter 'Politik Hamburg' (Context 1) beobachtet
 
 Akteur | Aktion | Objekt | Kontext
 ---|---|---|---
@@ -70,7 +72,7 @@ dpa    | publiziert | Text | Filter, dpa-select
 
 dpa Terminredaktion (Actor) veröffentlicht (Action) Termin (Object). Die Termin passt in Filter 'Politik Hamburg' (Context 1) in Agenda (Context 2).
 
-- Für einen Nutzer würde diese Aktivität sichtbar, wenn er den Filter 'Politik Hamburg' (Context) beobachtet
+<span>▶️</span> Für einen Nutzer würde diese Aktivität sichtbar, wenn er den Filter 'Politik Hamburg' (Context) beobachtet
 
 Akteur | Aktion | Objekt | Kontext
 ---|---|---|---
@@ -80,7 +82,7 @@ dpa | publiziert | Termin | Filter, Agenda
 
 Eine Person (Actor) teilt (Action) einen interessanten Termin (Object) mit einem Kollegen (Consumer).
 
-- Für den Kollegen wird diese Aktivität sichtbar (es sei denn, die Person, die den Termin teilt steht auf seiner Blackliste)
+<span>▶️</span> Für den Kollegen wird diese Aktivität sichtbar (es sei denn, die Person, die den Termin teilt steht auf seiner Blackliste)
 
 Akteur | Aktion | Objekt | Consumer
 ---|---|---|---
@@ -89,7 +91,7 @@ Person | teilt | Bild | Kollegen
 ### Beispiel: Mappe
 Nutzer (Actor) schiebt (Action) Meldung (Object) von Liste 'Ideen' (Origin) in Liste 'Nächste Ausgabe' (Target) in Mappe 'Planung' (Context 1) im dpa·Hub (Context 2)
 
-- Für einen Nutzer würde diese Aktivität sichtbar, wenn die Mappe 'Planung' beobachtet
+<span>▶️</span> Für einen Nutzer würde diese Aktivität sichtbar, wenn er die Mappe 'Planung' beobachtet
 
 Akteur | Aktion | Objekt | Ursprung | Ziel | Kontext
 ---|---|---|---|---|---
