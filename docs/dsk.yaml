@@ -1,0 +1,16 @@
+lang: de
+org: dpa Connect
+project: Design Kit
+tags:
+  - name: "impl:outdated"
+    color: "#F53000"
+  - name: "impl:marian"
+    color: "#3A67E5"
+  - name: "impl:phoenix"
+    color: "#3A67E5"
+  - name: "impl:japan"
+    color: "#3A67E5"
+  - name: "impl:wip"
+    color: "#005B4f"
+  - name: "impl:outdated"
+    color: "#F53000" 
