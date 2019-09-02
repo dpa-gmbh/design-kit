@@ -1,14 +1,16 @@
-title: Nachrichtenstück
-term: NewsItem
-description: >
-  Ein Nachrichtenstück ist eine Sammlung von Werteinheiten und auch selbst eine journalistische Werteinheit. 
+custom:
+  synonyms:
+    - Content
+    - news item
+    - media object
+    - Medienobjekt
+  term: NewsItem
+description:
+  "Ein Nachrichtenstück ist eine Sammlung von Werteinheiten und auch selbst
+  eine journalistische Werteinheit. \n"
 tags:
   - dpa
   - Inhalt
   - Klassifizierung
   - Werteinheit
-synonyms:
-  - Content 
-  - news item 
-  - media object 
-  - Medienobjekt
+title: Nachrichtenstück

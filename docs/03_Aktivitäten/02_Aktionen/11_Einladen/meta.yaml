@@ -1,10 +1,12 @@
-title: Einladen
-term: Invite
-description: >
-  Nutzer laden Andere zur Kollaboration an einer oder mehrerer Werteinheiten ein. 
-
+custom:
+  synonyms: null
+  term: Invite
+description:
+  "Nutzer laden Andere zur Kollaboration an einer oder mehrerer Werteinheiten
+  ein. \n"
 tags:
   - impl:draft
   - Aktivität
   - Akteur
   - Kollaboration
+title: Einladen

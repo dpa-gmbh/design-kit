@@ -1,6 +1,8 @@
-title: Grammatik und Vokabular
-term: vocabulary and grammar
-description: >
+custom:
+  synonyms:
+    - Regeln
+  term: vocabulary and grammar
+description: |
   Aktivitäten lassen sich mit Hilfe eines speziellen Vokabulars und einer Grammatik schematisch beschreiben.
 tags:
   - dpa
@@ -9,7 +11,4 @@ tags:
   - Publizieren
   - Teilen
   - Einladen
-  
-synonyms:
-  - Regeln 
-  
+title: Grammatik und Vokabular

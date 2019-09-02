@@ -1,11 +1,12 @@
-title: Organisation
-description: >
+custom:
+  synonyms:
+    - Unternehmen
+    - Firma
+  term: organisation
+description: |
   Für eine Organisation arbeiten Teams und Personen.
-term: organisation
 tags:
   - impl:draft
   - Akteur
   - dpa
-synonyms:
-  - Unternehmen
-  - Firma
+title: Organisation

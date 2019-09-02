@@ -1,12 +1,13 @@
-title: Grafik
-description: >
+custom:
+  synonyms:
+    - Infografik
+    - dpa-Grafik
+  term: infographic
+description: |
   Grafik ist eine journalistische Werteinheit der dpa oder anderer Anbieter. Grafik ist ein Inhalt, der über das Medienformat Grafik typisiert ist.
-term: infographic
 tags:
   - Werteinheit
   - dpa
   - Medienformat
   - Inhalt
-synonyms:
-  - Infografik  
-  - dpa-Grafik
+title: Grafik

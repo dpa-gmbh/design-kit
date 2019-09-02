@@ -1,15 +1,13 @@
-title: Passiert Filter
-term: passesfilter
-description: >
+custom:
+  synonyms:
+    - Treffer
+  term: passesfilter
+description: |
   Vorläufig: Passiert Filter ist eine Aktivität, die ausgelöst wird wenn eine Werteinheit durch einen Filter passt.
 tags:
   - Werteinheit
   - Filter
-  - Akteur 
+  - Akteur
   - Publizieren
   - Aktion
-
-synonyms:
-  - Treffer
-  
-  
+title: Passiert Filter

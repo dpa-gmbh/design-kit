@@ -1,13 +1,14 @@
-title: Inhalt
-description: >
+custom:
+  synonyms:
+    - Medienobjekt
+    - Material
+    - Content
+    - media object
+  term: Content
+description: |
   Inhalt ist eine journalistische Werteinheit der dpa oder anderer Anbieter.
-term: Content
 tags:
   - Werteinheit
   - dpa
   - Marktplatz
-synonyms:
-  - Medienobjekt
-  - Material
-  - Content
-  - media object
+title: Inhalt

@@ -1,14 +1,13 @@
-title: Publizieren
-term: Publish
-description: >
+custom:
+  synonyms:
+    - Einstellen
+    - Veröffentlichen
+    - Senden
+  term: Publish
+description: |
   Publizieren beschreibt die Aktion der erstmaligen Veröffentlichung einer Werteinheit.
 tags:
   - impl:wip
   - Aktivität
   - Aktion
-
-synonyms:
-  - Einstellen
-  - Veröffentlichen 
-  - Senden 
-  
+title: Publizieren

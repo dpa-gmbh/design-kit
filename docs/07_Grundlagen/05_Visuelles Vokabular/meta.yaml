@@ -1,6 +1,7 @@
-title: Visuelles Vokabular
-description: >
-  Ein klar definiertes visuelles Vokabular erleichtert die Unterscheidbarkeit von
-  Werteinheiten und Zuständen.
+custom:
+  synonyms: null
+description: |
+  Ein klar definiertes visuelles Vokabular erleichtert die Unterscheidbarkeit von Werteinheiten und Zuständen.
 tags:
   - impl:draft
+title: Visuelles Vokabular

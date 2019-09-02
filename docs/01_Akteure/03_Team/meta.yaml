@@ -1,12 +1,13 @@
-title: Team
-description: >
+custom:
+  synonyms:
+    - Team in einem Unternehmen
+    - dpa-Ressort
+    - Quelle
+    - Akteur
+  term: team
+description: |
   Ein Team beschreibt eine Gruppe von Akteuren.
-term: team
 tags:
   - Akteur
   - dpa
-synonyms:
-  - Team in einem Unternehmen
-  - dpa-Ressort
-  - Quelle
-  - Akteur
+title: Team

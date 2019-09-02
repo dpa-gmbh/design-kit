@@ -1,9 +1,10 @@
-title: Aktualisieren
-term: Update
-description: >
+custom:
+  synonyms: null
+  term: Update
+description: |
   Aktualisieren beschreibt eine unkritische Änderungen oder Ergänzung zu einer Werteinheit
 tags:
   - impl:wip
   - Aktivität
   - Aktion
-  
+title: Aktualisieren

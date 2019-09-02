@@ -1,8 +1,9 @@
-title: Filter
-description: >
+custom:
+  synonyms:
+    - Gespeicherte Suche
+  term: filter
+description: |
   Ein Filter ist eine gespeicherte Menge an Filterregeln, um relevante Datenströme zu erzeugen
-term: filter
 tags:
   - Werteinheit
-synonyms:
-  - Gespeicherte Suche
+title: Filter

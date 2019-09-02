@@ -1,7 +1,9 @@
-title: Einführung in das Konzept der Aktivitäten
-term: Activity
-description: >
-  Die Einführung bietet einen Einstieg in das Konzept der Aktivitäten. 
+custom:
+  synonyms: null
+  term: Activity
+description:
+  "Die Einführung bietet einen Einstieg in das Konzept der Aktivitäten.
+  \n"
 tags:
   - dpa
   - Grammatik und Vokabular
@@ -10,8 +12,4 @@ tags:
   - Publizieren
   - Teilen
   - Einalden
-  
-synonyms:
-
-   
-  
+title: Einführung in das Konzept der Aktivitäten

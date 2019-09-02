@@ -1,5 +1,6 @@
-title: Button
-description: >
-
+custom:
+  synonyms: null
+description: ""
 tags:
   - impl:wip
+title: Button

@@ -1,11 +1,12 @@
-title: Video
-description: >
+custom:
+  synonyms:
+    - Bewegtbild
+  term: Video
+description: |
   Video ist eine journalistische Werteinheit der dpa oder anderer Anbieter. Video ist ein Inhalt, der über das Medienformat Video typisiert ist.
-term: Video
 tags:
   - Werteinheit
   - dpa
   - Medienformat
   - Inhalt
-synonyms:
-  - Bewegtbild
+title: Video

@@ -1,5 +1,7 @@
-title: Overlay
-description: >
-   Das dpa ID User Overlay ermöglicht Nutzern Zugriff auf Funktionen der dpa ID.
+custom:
+  synonyms: null
+description: |
+  Das dpa ID User Overlay ermöglicht Nutzern Zugriff auf Funktionen der dpa ID.
 tags:
   - impl:marian
+title: Overlay

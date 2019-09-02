@@ -1,12 +1,13 @@
-title: Assistent
-description: >
+custom:
+  synonyms:
+    - Bot
+    - Helferlein
+    - Script
+  term: assistent
+description: |
   Ein Assistent ist eine Software Programm mit dem Personen zusammenarbeiten.
-term: assistent
 tags:
   - impl:wip
   - Akteur
   - dpa
-synonyms:
-  - Bot
-  - Helferlein
-  - Script
+title: Assistent

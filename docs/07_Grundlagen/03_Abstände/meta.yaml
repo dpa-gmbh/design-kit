@@ -1,5 +1,7 @@
-title: Abstände
-description: >
+custom:
+  synonyms: null
+description: |
   Vertikale Abstände für die Gestaltung von Komponenten und Werteinheiten
 tags:
   - impl:japan
+title: Abstände

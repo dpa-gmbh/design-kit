@@ -1,11 +1,12 @@
-title: Nutzer
-term: User
-description: >
+custom:
+  synonyms:
+    - Kundin
+    - User
+    - Akteur
+  term: User
+description: |
   Der Nutzer ist eine Person, die  dpa- und Fremdtools nutzt. Der Nutzer ist Marktplatz-Teilnehmer.
 tags:
   - Akteur
   - dpa
-synonyms:
-  - Kundin
-  - User
-  - Akteur
+title: Nutzer

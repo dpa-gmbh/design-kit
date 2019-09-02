@@ -1,12 +1,13 @@
-title: Mappe
-term: Folder
-description: >
-  Die Mappe ist ein individualisierter, gemeinsamer Arbeitsraum für Kollaboration. 
+custom:
+  synonyms:
+    - Ordner
+  term: Folder
+description:
+  "Die Mappe ist ein individualisierter, gemeinsamer Arbeitsraum für Kollaboration.
+  \n"
 tags:
   - Werteinheit
   - dpa
   - Liste
-  - Kollaboration 
-synonyms:
-  - Ordner  
-  
+  - Kollaboration
+title: Mappe

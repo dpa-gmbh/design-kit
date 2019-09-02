@@ -1,5 +1,7 @@
-title: Schatten
-description: >
+custom:
+  synonyms: null
+description: |
   Schatten für die Gestaltung von Komponenten und Werteinheiten
 tags:
   - impl:wip
+title: Schatten

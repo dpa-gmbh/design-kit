@@ -1,17 +1,17 @@
-title: App
-description: >
+custom:
+  synonyms:
+    - Tool
+    - Anwendung
+    - Applikation
+    - Service
+    - digitale Ausspielfläche
+    - Marktplatz
+    - digitales Produkt
+  term: App
+description: |
   Apps sind digitale Anwendungen von dpa oder anderen Anbietern, die dabei unterstützen die Aufgaben von Medien- und Kommunikationsprofis zu erledigen. Die Gesamtheit der Apps ergibt den Marktplatz.
-term: App
 tags:
   - Marktplatz
   - dpa
   - Anbieter
-  
-synonyms:
-  - Tool
-  - Anwendung
-  - Applikation
-  - Service
-  - digitale Ausspielfläche
-  - Marktplatz
-  - digitales Produkt
+title: App

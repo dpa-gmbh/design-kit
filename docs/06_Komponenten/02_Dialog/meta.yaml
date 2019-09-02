@@ -1,5 +1,6 @@
-title: Dialog
+custom:
+  synonyms:
+    - Alert, Hinweis, Infobox
 tags:
   - impl:wip
-synonyms:
-  - Alert, Hinweis, Infobox
+title: Dialog

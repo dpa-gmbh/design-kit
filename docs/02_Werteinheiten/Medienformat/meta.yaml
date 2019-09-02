@@ -1,12 +1,13 @@
----
-title: Medienformat
-term: materialtype
-description: >
+custom:
+  synonyms:
+    - Materialtyp
+    - Medientyp
+  term: materialtype
+description: |
   Medienformat typisiert Inhalte
 tags:
   - Typisierung
   - dpa
-synonyms:
-  - Materialtyp
-  - Medientyp
+title: Medienformat
 ---
+null

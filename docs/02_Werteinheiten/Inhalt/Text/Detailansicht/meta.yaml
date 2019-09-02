@@ -1,5 +1,6 @@
-title: Text Detailansicht
-description: >
-   
+custom:
+  synonyms: null
+description: ""
 tags:
   - impl:marian
+title: Text Detailansicht

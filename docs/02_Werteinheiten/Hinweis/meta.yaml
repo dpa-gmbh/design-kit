@@ -1,14 +1,15 @@
-title: Hinweis
-description: >
+custom:
+  synonyms:
+    - Termin
+    - Thema
+    - Agenda-Eintrag
+  term: notice
+description: |
   Ein Hinweis ist eine Sammlung von Werteinheiten: Autor, Klassifizierung, Termin / Thema, Berichterstattung und auch selbst eine Werteinheit.
-term: notice
 tags:
   - dpa
   - Termin
   - Thema
   - Klassifizierung
   - Werteinheit
-synonyms:
-  - Termin 
-  - Thema 
-  - Agenda-Eintrag
+title: Hinweis

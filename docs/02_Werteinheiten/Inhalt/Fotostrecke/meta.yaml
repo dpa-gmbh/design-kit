@@ -1,14 +1,15 @@
-title: Fotostrecke
-description: >
+custom:
+  synonyms:
+    - Bildersammlung
+    - Leuchttisch
+    - Foto aktuell
+    - Foto Archiv
+  term: picturecollection
+description: |
   Die Fotostrecke ist eine Sammlung von Inhalten typisiert als Medienformat Foto. Sie finden Verwendung in dpa-agenda und dpa-news
-term: picturecollection
 tags:
   - Werteinheit
   - dpa
   - Medienformat
   - Inhalt
-synonyms:
-  - Bildersammlung
-  - Leuchttisch
-  - Foto aktuell
-  - Foto Archiv
+title: Fotostrecke
