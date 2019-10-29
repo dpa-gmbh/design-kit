@@ -1,0 +1,61 @@
+{
+  "styles": [
+    {
+      "name": "heading-medium",
+      "fontFamily": "Inter",
+      "fontWeight": "Medium",
+      "fontSize": 16,
+      "lineHeight": 22,
+      "letterSpacing": 0
+    },
+    {
+      "name": "heading-large",
+      "fontFamily": "Inter",
+      "fontWeight": "Medium",
+      "fontSize": 24,
+      "lineHeight": 30,
+      "letterSpacing": 0
+    },
+    {
+      "name": "caption",
+      "fontFamily": "Inter",
+      "fontWeight": "Bold",
+      "fontSize": 12,
+      "lineHeight": 16,
+      "letterSpacing": 2,
+      "textTransform": "uppercase"
+    },
+    {
+      "name": "text-tiny",
+      "fontFamily": "Inter",
+      "fontWeight": "Regular",
+      "fontSize": 12,
+      "lineHeight": 16,
+      "letterSpacing": 0
+    },
+    {
+      "name": "text-small",
+      "fontFamily": "Inter",
+      "fontWeight": "Regular",
+      "fontSize": 14,
+      "lineHeight": 20,
+      "letterSpacing": 0
+    },
+    {
+      "name": "text-medium",
+      "fontFamily": "Inter",
+      "fontWeight": "Regular",
+      "fontSize": 16,
+      "lineHeight": 22,
+      "letterSpacing": 0
+    },
+    {
+      "name": "text-large",
+      "fontFamily": "Inter",
+      "fontWeight": "Regular",
+      "fontSize": 20,
+      "lineHeight": 28,
+      "letterSpacing": 0
+    }
+  ]
+}

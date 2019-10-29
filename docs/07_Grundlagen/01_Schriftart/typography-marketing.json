@@ -1,0 +1,28 @@
+{
+  "styles": [
+    {
+      "name": "marketing-heading-medium",
+      "fontFamily": "Futura",
+      "fontWeight": "Medium",
+      "fontSize": 20,
+      "lineHeight": 28,
+      "letterSpacing": 0.3
+    },
+    {
+      "name": "marketing-heading-large",
+      "fontFamily": "Futura",
+      "fontWeight": "Medium",
+      "fontSize": 24,
+      "lineHeight": 30,
+      "letterSpacing": 0.4
+    },
+    {
+      "name": "marketing-heading-huge",
+      "fontFamily": "Futura",
+      "fontWeight": "Medium",
+      "fontSize": 40,
+      "lineHeight": 48,
+      "letterSpacing": 0.4
+    }
+  ]
+}
