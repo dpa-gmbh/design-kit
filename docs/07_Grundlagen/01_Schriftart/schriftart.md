@@ -1,5 +1,3 @@
-![An image](./Font.png)
-
 # Beschreibung
 Die [Inter Schriftfamilie](https://rsms.me/inter/ "Inter Font Website") wurde speziell für die Darstellung von kleinen bis mittelgroßen Texten auf Bildschirmen entwickelt. Sie ist multilingual einsetzbar und dank "SIL Open Font License" frei verfügbar.
 

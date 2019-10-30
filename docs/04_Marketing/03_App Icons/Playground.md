@@ -1,0 +1,1 @@
+![](app-icons@2x.png)

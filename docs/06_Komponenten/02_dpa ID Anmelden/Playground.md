@@ -1,0 +1,1 @@
+<img src="dpaIDAnmelden@2x.png">

@@ -4,3 +4,4 @@ description: ""
 tags:
   - impl:wip
 title: Button
+description: Ein Button löst eine Aktion aus.
