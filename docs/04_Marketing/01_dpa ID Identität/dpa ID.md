@@ -6,7 +6,9 @@
 
 ## Wort
 
-Im Fließtext und Überschriften wird 'dpa ID' grundsätzlich ohne Punkt und Bindestrich geschrieben.
+Im Fließtext und Überschriften wird 'dpa ID' grundsätzlich ohne Punkt und Bindestrich geschrieben. Angebot im Zusammen mit der dpa ID, wie zum Beispiel das Partnerprogramm werden ohne Bindstrich als Eigenname geschrieben. Zum Beispiel: *dpa ID Partnerprogramm*, *dpa ID Design Kit* oder *dpa ID Plattform*.
+
+Der Begriff 'connect' bezeichnet die Strategie und wird nur intern benutzt.
 
 ## Asset Paket
 Die Bildmarke und das Logo für Print (CMYK) und Web (RGB) können in verschiedenen Formaten im [Asset Paket](dpa ID Asset Paket.zip) heruntergeladen werden.
