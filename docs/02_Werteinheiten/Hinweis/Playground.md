@@ -1,0 +1,1 @@
+<img src="Hinweis@2x.png">

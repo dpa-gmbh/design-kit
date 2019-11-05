@@ -1,0 +1,1 @@
+![](Grafik@2x.png)

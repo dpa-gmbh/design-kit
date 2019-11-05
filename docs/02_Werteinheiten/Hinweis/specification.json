@@ -1,0 +1,20 @@
+{
+  "annotations": [
+    {
+      "x": "0%",
+      "y": "9%",
+      "description": "Klassifizierung"
+    },
+    {
+      "x": "0%",
+      "y": "35%",
+      "description": "Termin oder Thema"
+    },
+    {
+      "x": "0%",
+      "y": "86%",
+      "description": "Berichterstattung"
+    }
+  ],
+  "annotationColor": "var(--highlight-color)"
+}

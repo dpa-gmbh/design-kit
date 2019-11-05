@@ -1,6 +1,4 @@
-![](./Nachrichtenstück.png)
-
-## Beschreibung
+# Beschreibung
 Ein Nachrichtenstück läßt sich in verschiede Werteinheiten zerlegen, die eine visuelle Gestaltung und eine definierte Anordnung haben. In unterschiedlichen Kontexten können unterschiedliche viele Werteinheiten  eines Nachrichtenstücks angezeigt werden.
 
 - Autor: Person / Team / Organisation
@@ -11,6 +9,13 @@ Ein Nachrichtenstück läßt sich in verschiede Werteinheiten zerlegen, die eine
 
 Der dpa-Kunde arbeitet mit einem Nachrichtenstück, um den **Inhalt** (der Teil des Nachrichtenstücks ist) bestmöglich an seine Kunden auszuspielen.
 
+# Spezifikation
+
+
+<Playground src="specification.json">
+  <img src="Nachrichtenstück@2x.png">
+</Playground>
+
 ![](./Spezifikation.png)
 _Spezifikation für ein Nachrichtenstück in der Listenansicht für Select_  
 
@@ -19,26 +24,30 @@ _Spezifikation für ein Nachrichtenstück in der Listenansicht für Select_
 - **3** [Inhalt](../../Werteinheiten/Inhalt), also zur Zeit [Text](../../Werteinheiten/Inhalt/Text) oder [Foto](../../Werteinheiten/Inhalt/Foto)
 
 
-## Zukünftige Weiterentwicklung
+# Zukünftige Weiterentwicklung
 
 * Nachrichtenstück im Nachrichten-Paket
 * Notizblock als eigene Werteinheit
 * Autor als eigene Werteinheit
 
-## Ausprägung
+# Ausprägung
+
+<Playground>
+  <img src="Nachrichtenstück-small@2x.png">
+</Playground>
 
 * Karte
 * Detailansicht
 
 
-## Kontext
+# Kontext
 
 * in agenda
 * in select
 * in dpa-news
 
 
-## OOUX Draft
+# OOUX Draft
 
 - Akteur
 - Klassifizierung

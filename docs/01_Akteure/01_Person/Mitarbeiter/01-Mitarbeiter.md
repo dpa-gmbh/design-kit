@@ -12,9 +12,6 @@ Der Mitarbeiter verfügt über eine dpa-ID, d.h. eine Email und ein Passwort mit
 
 Der Mitarbeiter soll als Person ansprechbar sein und in Kommunikation treten können. Der Mitarbeiter samt Team-Zugehörigkeit repräsentiert die dpa mit ihren Werten: vertrauenswürdig, verifiziert. Der Mitarbeiter gibt Orientierung über die Herkunft z.B. von Material,
 
-## Skizze
-![](Scribble.png)
-
 ## Ausprägung
 * Mitarbeiter ohne Bild
 * Mitarbeiter mit Bild

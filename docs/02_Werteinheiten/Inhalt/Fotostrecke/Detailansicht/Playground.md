@@ -1,0 +1,1 @@
+![](Fotostrecke-Detailansicht@2x.png)

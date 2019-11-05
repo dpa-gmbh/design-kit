@@ -1,0 +1,25 @@
+{
+  "annotations": [
+    {
+      "x": "-7%",
+      "y": "5%",
+      "description": "10 gesendete Textinhalte"
+    },
+    {
+      "x": "-7%",
+      "y": "34%",
+      "description": "8 geplante Textinhalte"
+    },
+    {
+      "x": "-7%",
+      "y": "62%",
+      "description": "13 gesendete und 2 geplante Textinhalte"
+    },
+    {
+      "x": "-7%",
+      "y": "91%",
+      "description": "mit Beschreibung und Fotoinhalt"
+    }
+  ],
+  "annotationColor": "var(--highlight-color)"
+}

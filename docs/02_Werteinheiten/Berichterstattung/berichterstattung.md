@@ -1,23 +1,20 @@
-![](./berichterstattung.png)
+# Spezifikation
 
-![](./Spezifikation.png)
-**1** 10 gesendete Textinhalte  
-**2** 8 geplante Textinhalte  
-**3** 13 gesendete und 2 geplante Textinhalte  
-**4** mit Beschreibung und Fotoinhalt  
+<Playground src="specification.json">
+  <img src="Berichterstattung@2x.png">
+</Playground>
 
-## Beispiel
+# Beispiel
 
-![](./berichterstattung-anwendung.png)
+<Image src="./berichterstattung-anwendung.png" caption="13 Texte gesendet, 2 weitere Texte geplant; Bild(er) und Audio-Inhalt(e) gesendet; Video(s) geplant"></Image>
 
-> 13 Texte gesendet, 2 weitere Texte geplant; Bild(er) und Audio-Inhalt(e) gesendet; Video(s) geplant
+# Beschreibung
 
-## Beschreibung
-
-### Reihenfolge
+## Reihenfolge
 
 Die Anzahl der Inhalte wird nur für Medienformat Text gezeigt. Für alle anderen Medienformate wird über
 ein Icon indiziert, ob Inhalte gesendet und / oder geplant sind.
+
 Die Reihenfolge der Darstellung richtet sich nach dem [Medienformat](../medienformat), wie folgt:
 
 - Text
@@ -27,9 +24,7 @@ Die Reihenfolge der Darstellung richtet sich nach dem [Medienformat](../medienfo
 - Grafik
 - Sonstige
 
-</audio>
-
-## Weiterentwicklung
+# Weiterentwicklung
 
 * Darstellung bei geringer Breite
 * Form Variante (kein Kreis) testen

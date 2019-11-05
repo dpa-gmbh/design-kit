@@ -1,0 +1,1 @@
+![](Foto-Detailansicht@2x.png)
