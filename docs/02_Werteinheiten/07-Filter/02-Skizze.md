@@ -1,23 +1,14 @@
-![](./filter-anwendung.png)
-
-## Beschreibung
-Ein Filter ist eine Menge an Filterregeln für Datenströme
-
-Ein Filter hat einen Namen.
-
-Ein Filter dient dem Nutzer dazu für ihn relevante Datenströme zu bekommen.
-
-## Skizze
+# Skizze
 ![](./filter-skizze.png)
 
-## Weiterentwicklung
+# Weiterentwicklung
 
 1. Gefüllte 'Fahne' für eigene Filter
 2. WKW Filter für Farbblind und Sehbeeinsträchtigte unterscheidbar gestalten?
 3. Idee: Andere Formen als Raute als Unterscheidungsmerkmal zulassen?
 
 
-## Kontext
+# Kontext
 
 <cdk-preview title="A">
 
