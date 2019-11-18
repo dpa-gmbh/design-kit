@@ -1,5 +1,5 @@
 lang: de
-org: dpa · ID
+org: dpa
 project: Design Kit
 tags:
   - name: "impl:outdated"
@@ -14,3 +14,5 @@ tags:
     color: "#005B4f"
   - name: "impl:outdated"
     color: "#F53000" 
+custom:
+  theme: design-kit

@@ -1,7 +1,0 @@
-custom:
-  synonyms: null
-description: ""
-tags:
-  - impl:marian
-title: dpa ID Anmelden
-description: Anmelde-Buttons zeigen die Möglichkeit zur Anmeldung oder Registration mit dpa ID an. 

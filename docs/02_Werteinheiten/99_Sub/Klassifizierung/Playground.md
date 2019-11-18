@@ -1,1 +1,0 @@
-![](Klassifizierung@2x.png)

@@ -1,1 +1,0 @@
-![](Mitarbeiter@2x.png)

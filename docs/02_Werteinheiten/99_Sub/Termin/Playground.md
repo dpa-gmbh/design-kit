@@ -1,1 +1,0 @@
-![](Termin@2x.png)

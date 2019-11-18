@@ -1,1 +1,0 @@
-![](Filter@2x.png)

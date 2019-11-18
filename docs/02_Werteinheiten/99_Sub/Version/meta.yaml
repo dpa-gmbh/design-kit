@@ -1,8 +1,0 @@
-custom:
-  synonyms:
-    - Versionierung
-description: |
-  In der Version werden Informationen zu Änderungen an einem Inhalt dargestellt
-tags:
-  - impl:wip
-title: Version

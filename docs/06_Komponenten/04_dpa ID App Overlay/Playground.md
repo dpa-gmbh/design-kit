@@ -1,1 +1,0 @@
-<img src="AppOverlay@2x.png">

@@ -1,8 +1,0 @@
-custom:
-  synonyms: null
-description: |
-  Mit dpa ID App Overlay kann eine Nutzerin in andere Apps auf dem Marktplatz wechseln.
-tags:
-  - impl:marian
-title: Overlay
-description: Das dpa ID App Overlay bietet eine produktübergreifende Darstellung und Funktionalität zum Öffnen von Anwendungen.

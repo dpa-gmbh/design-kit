@@ -1,1 +1,0 @@
-<img src="UserOverlay@2x.png">

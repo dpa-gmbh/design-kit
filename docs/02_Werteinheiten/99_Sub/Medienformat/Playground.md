@@ -1,1 +1,0 @@
-![](Medienformat@2x.png)

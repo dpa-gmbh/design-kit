@@ -1,1 +1,0 @@
-![](Nachrichtenstück@2x.png)

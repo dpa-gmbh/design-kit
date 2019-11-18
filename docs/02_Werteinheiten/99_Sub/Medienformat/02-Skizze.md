@@ -1,1 +1,0 @@
-![](./medienformat-skizze.png)

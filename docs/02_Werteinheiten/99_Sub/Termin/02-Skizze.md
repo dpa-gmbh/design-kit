@@ -1,2 +1,0 @@
-
-![](Scribble.png)

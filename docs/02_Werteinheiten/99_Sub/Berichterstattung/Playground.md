@@ -1,1 +1,0 @@
-![](Berichterstattung@2x.png)
