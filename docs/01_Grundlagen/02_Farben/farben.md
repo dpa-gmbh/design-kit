@@ -1,21 +1,16 @@
-# Farben
-
-![Colours](Colours Cover.png)
-
-## Beschreibung
 Unsere Farben leuchten, denn die Produkte sollen Spaß machen.
 
 Die Primärfarbe ist blau, daneben werden hauptsächlich Grautöne eingesetzt. Für vielfältige Gestaltungsmöglichkeiten können Farben aus unserem Regenbogen genutzt werden. Erfolgs- und Fehlerhinweise haben eigene Farben.
 
 In der folgenden Übersicht sind die Farben definiert.
 
-## Primary Colour
+# Primary Colour
 
 <ColorGroup>
   <Color color="#3A67E5" colorDark="#0119A5">blue</Color>
 </ColorGroup>
 
-## Greyscale
+# Greyscale
 
 <ColorGroup>
   <Color color="#FFFFFF">white</Color>
@@ -27,7 +22,7 @@ In der folgenden Übersicht sind die Farben definiert.
   <Color color="#000000">black</Color>
 </ColorGroup>
 
-## Rainbow
+# Rainbow
 
 <ColorGroup>
   <Color color="#E53935" colorDark="#AB000C">red</Color>
@@ -40,7 +35,7 @@ In der folgenden Übersicht sind die Farben definiert.
   <Color color="#FFB300" colorDark="#C68400">orange</Color>
 </ColorGroup>
 
-## UI Feedback
+# UI Feedback
 
 <ColorGroup>
   <Color color="#F52F00" colorDark="#BA2400">alert-red</Color>

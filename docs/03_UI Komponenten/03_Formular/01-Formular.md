@@ -1,22 +1,22 @@
-## Input
+# Input
 
 <Playground>
   <img src="Formular-Input@2x.png">
 </Playground>
 
-## Checkbox
+# Checkbox
 
 <Playground>
   <img src="Formular-Checkbox@2x.png">
 </Playground>
 
-## Radiobutton
+# Radiobutton
 
 <Playground>
   <img src="Formular-Radiobutton@2x.png">
 </Playground>
 
-## Dropdown
+# Dropdown
 
 <Playground>
   <img src="Formular-Dropdown@2x.png">
