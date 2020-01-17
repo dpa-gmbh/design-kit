@@ -13,4 +13,4 @@ FROM dpa/dsk:1.0.0
 RUN mkdir docs
 
 EXPOSE 8080
-CMD /dsk -lang $DDT_LANG -host 0.0.0.0 -port 8080 -allow-origin "https://developerdocs.dpa-id.de, https://designdocs.dpa-id.de" docs
+CMD /dsk -host 0.0.0.0 -port 8080 -allow-origin "https://developerdocs.dpa-id.de, https://designdocs.dpa-id.de" docs
