@@ -1,13 +1,16 @@
-# Copyright 2019 Atelier Disko. All rights reserved.
+# Copyright 2020 Atelier Disko. All rights reserved.
 #
-# Base this container of the latest dsk container
-#
-#
-FROM 202797282286.dkr.ecr.eu-central-1.amazonaws.com/dpa-dsk:latest 
+# Use of this source code is governed by a BSD-style
+# license that can be found in the LICENSE file.
+
+# Build stage to retrieve and build the frontend. Will pull in the frontend from
+# the project root `frontend` folder. This stage hardcodes the build process for
+# the built-in frontend. If you have a custom frontend with a different build
+# process (although this one may work for you, as it's pretty standard), you'll
+# need to create a new Dockerfile basing it off this one.
+FROM dpa/dsk:1.0.0
+
+RUN mkdir docs
 
 EXPOSE 8080
-
-COPY docs /ddt
-
-CMD /dsk -lang $DDT_LANG -host 0.0.0.0 -port 8080 /ddt
-
+CMD /dsk -host 0.0.0.0 -port 8080 -allow-origin "https://developerdocs.dpa-id.de, https://designdocs.dpa-id.de" docs
