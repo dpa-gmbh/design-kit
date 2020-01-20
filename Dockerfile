@@ -3,7 +3,7 @@
 # Base this container of the latest dsk container
 #
 #
-FROM 960057802448.dkr.ecr.eu-central-1.amazonaws.com/dsk:latest 
+FROM 202797282286.dkr.ecr.eu-central-1.amazonaws.com/dpa-dsk:latest 
 
 EXPOSE 8080
 

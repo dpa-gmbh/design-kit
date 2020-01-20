@@ -8,7 +8,7 @@ phases:
     commands:
       - echo Logging in to Amazon ECR...
       - $(aws ecr get-login --no-include-email --region eu-central-1)
-      - REPOSITORY_URI=960057802448.dkr.ecr.eu-central-1.amazonaws.com/design-kit
+      - REPOSITORY_URI=202797282286.dkr.ecr.eu-central-1.amazonaws.com/design-kit
       - IMAGE_TAG=$(echo $CODEBUILD_RESOLVED_SOURCE_VERSION | cut -c 1-7)
   build:
     commands:
@@ -29,7 +29,7 @@ phases:
       - echo Zipping and uploading to Amazon S3
       - printf '[{"name":"design-kit","imageUri":"%s"}]' $REPOSITORY_URI:$IMAGE_TAG > imagedef.json
       - zip imagedef.zip imagedef.json
-      - aws s3 cp imagedef.zip s3://design-kit-deployment/prod/design-kit/
+      - aws s3 cp imagedef.zip s3://dpa-id-docs-deployment/prod/design-kit/
 cache:
   paths:
 
