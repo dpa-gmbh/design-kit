@@ -8,9 +8,9 @@
 # the built-in frontend. If you have a custom frontend with a different build
 # process (although this one may work for you, as it's pretty standard), you'll
 # need to create a new Dockerfile basing it off this one.
-FROM dpa/dsk:1.0.0
+FROM 202797282286.dkr.ecr.eu-central-1.amazonaws.com/dpa-dsk:latest 
 
-RUN mkdir docs
+COPY docs /ddt
 
 EXPOSE 8080
-CMD /dsk -host 0.0.0.0 -port 8080 -allow-origin "https://developerdocs.dpa-id.de, https://designdocs.dpa-id.de" docs
+CMD /dsk -host 0.0.0.0 -port 8080 -allow-origin "https://developerdocs.dpa-id.de, https://designdocs.dpa-id.de" ddt
