@@ -17,6 +17,6 @@ tags:
 custom:
   theme: design-kit
   urls:
-    dev-docs: http://dpa-id-dev-docs.disko.xyz/
-    design-docs: http://dpa-id-design-docs.disko.xyz/
-    design-kit: http://dpa-id-design-kit.disko.xyz/
+    dev-docs: https://developerdocs.dpa-id.de/
+    design-docs: https://designdocs.dpa-id.de/
+    design-kit: https://designkit.dpa-id.de/
