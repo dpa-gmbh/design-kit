@@ -32,3 +32,10 @@ For Deployment verify your changes locally, *only then* merge them into the Mast
 will trigger an automated deployment of a new version of the design-kit to
 https://design-kit.dpa-connect.de. 
 
+### Test environment 
+
+The test environment is deployed using the devel branch. For deployment 
+to the test environment, verify your changes locally. *Only then* merge it into the devel branch 
+and push. This will trigger an automated deployment of a new version of the *devel branch* design-kit to
+https://devel-design-kit.dpa-connect.de. 
+
