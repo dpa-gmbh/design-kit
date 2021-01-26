@@ -1,0 +1,35 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      docker: 18  
+  pre_build:
+    commands:
+      - echo Logging in to Amazon ECR...
+      - $(aws ecr get-login --no-include-email --region eu-central-1)
+      - REPOSITORY_URI=202797282286.dkr.ecr.eu-central-1.amazonaws.com/design-kit
+      - IMAGE_TAG=devel-$(echo $CODEBUILD_RESOLVED_SOURCE_VERSION | cut -c 1-7)
+  build:
+    commands:
+      - echo Check that the docker daemon is running...
+      - timeout 15 sh -c "until docker info; do echo .; sleep 5; done"
+      - env
+      - chmod -R ugoa+rwX /codebuild/output
+      - export AWS_REGION=eu-central-1
+  post_build:
+    commands:
+      - echo Building the Docker image...
+      - docker build -t design-kit .
+      - docker tag design-kit:latest $REPOSITORY_URI:devel-latest
+      - docker tag design-kit:latest $REPOSITORY_URI:$IMAGE_TAG
+      - docker push $REPOSITORY_URI:devel-latest
+      - docker push $REPOSITORY_URI:$IMAGE_TAG
+      - echo Writing image definitions file..
+      - echo Zipping and uploading to Amazon S3
+      - printf '[{"name":"design-kit","imageUri":"%s"}]' $REPOSITORY_URI:$IMAGE_TAG > imagedef.json
+      - zip imagedef.zip imagedef.json
+      - aws s3 cp imagedef.zip s3://dpa-id-docs-deployment/devel/design-kit/
+cache:
+  paths:
+
