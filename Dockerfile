@@ -13,4 +13,4 @@ FROM 202797282286.dkr.ecr.eu-central-1.amazonaws.com/dpa-dsk:latest
 COPY docs /ddt
 
 EXPOSE 8080
-CMD /dsk -host 0.0.0.0 -port 8080 -allow-origin "https://developerdocs.dpa-id.de, https://designdocs.dpa-id.de" ddt
+CMD /dsk -host 0.0.0.0 -port 8080 -allow-origin "https://developerdocs.dpa-id.de,https://designdocs.dpa-id.de" ddt
