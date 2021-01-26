@@ -27,7 +27,7 @@ phases:
       - docker push $REPOSITORY_URI:$IMAGE_TAG
       - echo Writing image definitions file..
       - echo Zipping and uploading to Amazon S3
-      - printf '[{"name":"design-kit","imageUri":"%s"}]' $REPOSITORY_URI:$IMAGE_TAG > imagedef.json
+      - printf '[{"name":"devel-design-kit","imageUri":"%s"}]' $REPOSITORY_URI:$IMAGE_TAG > imagedef.json
       - zip imagedef.zip imagedef.json
       - aws s3 cp imagedef.zip s3://dpa-id-docs-deployment/devel/design-kit/
 cache:
