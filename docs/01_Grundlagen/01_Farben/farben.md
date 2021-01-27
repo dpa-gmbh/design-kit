@@ -41,3 +41,7 @@ In der folgenden Übersicht sind die Farben definiert.
   <Color color="#F52F00" colorDark="#BA2400">alert-red</Color>
   <Color color="#00D200" colorDark="#05AA02">alert-green</Color>
 </ColorGroup>
+
+# Figma Test
+
+<FigmaEmbed document="2CHpk8QibOrWmx5YNmNIAh" frame="Marketing"></FigmaEmbed>

@@ -1,1 +1,0 @@
-![](Spacing@2x.png)

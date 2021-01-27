@@ -1,1 +1,0 @@
-<img src="Buttons@2x.png">

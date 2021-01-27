@@ -1,8 +1,0 @@
-custom:
-  synonyms: null
-description: |
-  Schatten für die Gestaltung von Komponenten und Werteinheiten
-tags:
-  - impl:wip
-title: Schatten
-description: Schatten werden zur visuellen Abgrenzung von Elementen genutzt.
