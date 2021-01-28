@@ -15,6 +15,7 @@ Diese sind in der Regel in dpa Leuchtgrün, können für dpa ID Apps aber auch i
 Zur visuellen Unterstützung von Bildern oder Störern wird ein harter Effektschatten mit folgenden Werten eingesetzt.
 
 __Design:__ X: 8 Y: 20 Blur: 2 Spread: 0 Farbe: schwarz 3%
+
 __CSS:__ box-shadow: 8px 20px 2px rgba(0, 0, 0, 0.03);
 
 
