@@ -38,8 +38,7 @@ Mockups vom Presentation Kit sind für Adobe Photoshop, Figma und Sketch verfüg
 
 ### Anpassungen
 - “Clay”-Variante nutzen. 
-- Geräte (Device) Farbe auf einen Farbton der dpa Farben ändern, besonders geeignet sind hierbei <Color color="#212121">Grau 900</Color> oder <Color color="#EEEEEE">Grau 200</Color>.
-
+- Geräte (Device) Farbe auf einen Farbton der dpa Farben ändern, besonders geeignet sind hierbei __Grau 900__ oder __Grau 200__.
 ![Mockup Beispiel](MockupExample2.png)
 Bei Apps, welche im Play Store oder App Store verfügbar sind, kann man auch echte Geräte ohne den “Clay-Effekt” nutzen, falls dies besser zum Gesamtbild passt.
 
