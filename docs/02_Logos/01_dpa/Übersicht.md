@@ -36,7 +36,9 @@ Nur wenn der Untergrund geeignet ist und das Logo gut lesbar ist, darf das Logo 
 
 ## Beispiele falsche Nutzung
 Das Logo soll gut erkennbar sein und in der Farbe nicht verändert werden.
-![Falsche Nutzung Beispiel 1](FN1.jpg)
+  <Dont caption="Don’t do this either, it is definitely not good!" strikethrough="true">![Falsche Nutzung Beispiel 1](FN1.jpg)
+</Dont>
+
 ![Falsche Nutzung Beispiel 2](FN2.jpg)
 ![Falsche Nutzung Beispiel 3](FN3.jpg)
 
