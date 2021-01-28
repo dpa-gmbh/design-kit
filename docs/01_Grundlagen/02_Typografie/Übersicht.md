@@ -28,6 +28,7 @@ Ist der Einsatz von Futura PT oder Inter nicht möglich, so ist die Schrift Aria
 # Beispiele falsche Nutzung
 
 Es sollen keine anderen Schriften oder Schriftschnitte oder gemischte Schriftschnitte eingesetzt werden. Außerdem soll der Text gut lesbar sein und nicht zu viele unterschiedliche Farben haben.
+
 ![Falsche Schriftart](Roboto.png)
 ![Falsche Schriftart](FuturaCondensed.png)
 ![Falsche Schriftart](FuturaSchriftschnittExtrabold.png)

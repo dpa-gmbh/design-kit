@@ -49,7 +49,7 @@ __Printfarben:__ Pantone 7484, CMYK  71 17 68 37
 </ColorGroup>
 
 __Anwendungsbeispiele Grau 100-200:__ Akzente, Muster, Flächen
-__Anwendungsbeispiele Grau 300-700:__ Text, Icons, Buttons, Akzente, Muster, Flächen
+__Anwendungsbeispiele Grau 300-700:__ Text, Icons, Buttons, Akzente, Flächen
 __Anwendungsbeispiele Grau 800-900:__ Text, Icons, Buttons, Footer-Hintergrundfarbe
 
 Fließtext und Überschriften sollten in der Regel den Grauton 900 haben.
