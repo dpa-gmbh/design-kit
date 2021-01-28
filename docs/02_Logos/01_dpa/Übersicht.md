@@ -45,6 +45,6 @@ Das Logo soll gut erkennbar sein und in der Farbe nicht verändert werden.
 
 ## Social Media
 ![Social Media](SocialMedia.png)
-[Vorlage herunterladen](/dpa_Logo_SocialMedia.zip)
+[Vorlage herunterladen](dpa_Logo_SocialMedia.zip)
 
 
