@@ -1,1 +1,1 @@
-<img src="FontCover@2x.png">
+<img src="FuturaInter.png">
