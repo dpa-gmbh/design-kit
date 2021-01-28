@@ -1,1 +1,1 @@
-![](AppIcons@2x.png)
+![](AppIcons.png)
