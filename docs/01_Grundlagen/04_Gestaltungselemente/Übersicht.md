@@ -1,16 +1,15 @@
 # Punktraster
 Der Punkteraster kann als ergänzendes Element unter Flächen, Fotos und Störern eingesetzt werden. Die erstellte Fläche ist frei in Höhe und Breite und sollte sich harmonisch einfügen.
 
-<Punkteraster.zip>
+[Vorlage herunterladen](Punkteraster.zip)
 
 # Marker
 Headlines oder Textauszeichnungen können mit der Marker-Linie hervorgehoben werden. 
 Diese sind in der Regel in dpa Leuchtgrün, können für dpa ID Apps aber auch in dpa ID Blau eingefärbt genutzt werden.
 
-<Marker.zip>
+[Vorlage herunterladen](Marker.zip)
 
 # Schatten
-
 ## Harter Effektschatten
 
 Zur visuellen Unterstützung von Bildern oder Störern wird ein harter Effektschatten mit folgenden Werten eingesetzt.
