@@ -4,11 +4,11 @@ Andere Anpassungen jeglicher Art (anderer Farbton, Schriftart, etc.) sind nicht 
 
 
 # Logokoffer
-[picture alliance](picturealliance.zip)
-[dpa infocom](dpa_infocom.zip)
-[dpa infografik](dpa_infografik.zip)
-[dpa international](dpa_international.zip)
-[dpa digital services](dpa_digitalservices.zip)
-[dpa it](dpa_it.zip)
-[dpa audio & video service](dpa_audiovideoservice.zip)
-[dpa zentralbild](dpa_zentralbild.zip)
+- [picture alliance](picturealliance.zip)
+- [dpa infocom](dpa_infocom.zip)
+- [dpa infografik](dpa_infografik.zip)
+- [dpa international](dpa_international.zip)
+- [dpa digital services](dpa_digitalservices.zip)
+- [dpa it](dpa_it.zip)
+- [dpa audio & video service](dpa_audiovideoservice.zip)
+- [dpa zentralbild](dpa_zentralbild.zip)

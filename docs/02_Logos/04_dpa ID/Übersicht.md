@@ -2,5 +2,5 @@ Anpassungen jeglicher Art (anderer Farbton, Schriftart, etc.) sind nicht gestatt
 
 
 # Logokoffer
-[dpa ID](dpa_ID.zip)
-[dpa ID Partnerprogramm](dpa_ID_Partnerprogramm.zip)
+- [dpa ID](dpa_ID.zip)
+- [dpa ID Partnerprogramm](dpa_ID_Partnerprogramm.zip)
