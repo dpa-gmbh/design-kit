@@ -20,3 +20,5 @@ custom:
     dev-docs: https://developerdocs.dpa-id.de/
     design-docs: https://designdocs.dpa-id.de/
     design-kit: https://designkit.dpa-id.de/
+  favicon: dots
+  logo: null
