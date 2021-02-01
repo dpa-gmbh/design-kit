@@ -74,3 +74,16 @@ Der Einsatz dieser Farben ist mit dpa Marketing abzustimmen.
   <Color color="#00ACC1" colorDark="#017C91">Cyan</Color>
   <Color color="#00897B" colorDark="#005B4F">Türkis</Color>
 </ColorGroup>
+
+
+# dpa ID Farben
+
+Das Blau sollte nur für dpa ID oder dpa Apps eingesetzt werden.
+
+__Anwendungsbeispiele:__ In Apps als Link- und Highlightfarbe, für dpa ID Marketing
+
+<ColorGroup>
+  <Color color="#0045F4">dpa ID Leuchtblau</Color>
+  <Color color="#003EDB">dpa ID Mittelblau</Color>
+  <Color color="#0030AA">dpa ID Nachtblau</Color>
+</ColorGroup>
