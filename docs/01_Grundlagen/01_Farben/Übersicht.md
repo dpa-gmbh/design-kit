@@ -78,7 +78,7 @@ Der Einsatz dieser Farben ist mit dpa Marketing abzustimmen.
 
 # dpa ID Farben
 
-Das Blau sollte nur für dpa ID oder dpa Apps eingesetzt werden.
+Das Blau darf nur für dpa ID oder dpa Apps eingesetzt werden.
 
 __Anwendungsbeispiele:__ In Apps als Link- und Highlightfarbe, für dpa ID Marketing
 
