@@ -1,12 +1,28 @@
 lang: de
 org: dpa
 project: Design Kit (Devel)
+tags:
+  - name: "impl:outdated"
+    color: "#F53000"
+  - name: "impl:marian"
+    color: "#3A67E5"
+  - name: "impl:phoenix"
+    color: "#3A67E5"
+  - name: "impl:japan"
+    color: "#3A67E5"
+  - name: "impl:wip"
+    color: "#005B4f"
+  - name: "impl:outdated"
+    color: "#F53000" 
+
 custom:
   theme: design-kit
   urls:
     dev-docs: https://developerdocs.dpa-id.de/
     design-docs: https://designdocs.dpa-id.de/
     design-kit: https://designkit.dpa-id.de/
-    
+  favicon: dots
+  logo: null
+
 figma:
   accessToken: "155530-52faab09-6cb5-4e7d-b1c4-9924b197d663"
