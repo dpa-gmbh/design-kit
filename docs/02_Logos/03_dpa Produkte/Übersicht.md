@@ -4,8 +4,8 @@ Andere Anpassungen jeglicher Art (anderer Farbton, Schriftart, etc.) sind nicht 
 
 
 # Logokoffer
-- [dpa agenda](dpa_agenda.zip)
-- [dpa audio hub](dpa_audiohub.zip)
-- [dpa factchecking](dpa_factchecking.zip)
-- [dpa news](dpa_news.zip)
-- [dpa video](dpa_video.zip)
+- [dpa agenda](https://devel-designkit.dpa-id.de/api/v1/tree/Logos/dpa-Produkte/dpa_agenda.zip)
+- [dpa audio hub](https://devel-designkit.dpa-id.de/api/v1/tree/Logos/dpa-Produkte/dpa_audiohub.zip)
+- [dpa factchecking](https://devel-designkit.dpa-id.de/api/v1/tree/Logos/dpa-Produkte/dpa_factchecking.zip)
+- [dpa news](https://devel-designkit.dpa-id.de/api/v1/tree/Logos/dpa-Produkte/dpa_news.zip)
+- [dpa video](https://devel-designkit.dpa-id.de/api/v1/tree/Logos/dpa-Produkte/dpa_video.zip)

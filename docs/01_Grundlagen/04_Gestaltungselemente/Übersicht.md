@@ -3,13 +3,13 @@ Der Einsatz von Gestaltungselementen ist mit dpa Marketing abzustimmen.
 # Punkteraster
 Der Punkteraster kann als ergänzendes Element unter Flächen, Fotos und Störern eingesetzt werden. Die erstellte Fläche ist frei in Höhe und Breite und sollte sich harmonisch einfügen.
 
-[Vorlage herunterladen](Punkteraster.zip)
+[Vorlage herunterladen](https://devel-designkit.dpa-id.de/api/v1/tree/Grundlagen/Gestaltungselemente/Punkteraster.zip)
 
 # Marker
 Headlines oder Textauszeichnungen können mit der Marker-Linie hervorgehoben werden. 
 Diese sind in der Regel in dpa Leuchtgrün, können für dpa ID Apps aber auch in dpa ID Blau eingefärbt genutzt werden.
 
-[Vorlage herunterladen](Marker.zip)
+[Vorlage herunterladen](https://devel-designkit.dpa-id.de/api/v1/tree/Grundlagen/Gestaltungselemente/Marker.zip)
 
 # Schatten
 ## Harter Effektschatten
