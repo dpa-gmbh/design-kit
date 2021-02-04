@@ -1,3 +1,4 @@
+# Allgemeine Richtlinien
 Als Nachrichtenagentur ist Transparenz wichtig, dies spiegelt sich in Layouts im großzügigen Einsatz von Weißraum wieder.
 
 Die Gestaltung ist nicht bunt, es sollte mit Grautönen und weiß gearbeitet werden.
@@ -9,7 +10,7 @@ Primärfarbe, welche im Logo eingesetzt wird. Aufgrund der Intensität der Farbe
 
 __Anwendungsbeispiele:__ Buttons, Farbe für Markierungen und einzelne Elemente, als Headline für dunkle Hintergründe
 
-__Printfarben:__ Pantone 7479, CMYK 61 0 71 0
+__Farbwerte:__ Pantone 7479, CMYK 61 0 71 0, RGB 0 226 129
 
 <Color color="#00E281">dpa Leuchtgrün</Color>
 
@@ -18,7 +19,7 @@ Sekundärfarbe, lässt sich auch vollflächig einsetzen.
 
 __Anwendungsbeispiele:__ Buttons, Flächen
 
-__Printfarben:__ Pantone 7481, CMYK 72 0 83 0
+__Farbwerte:__ Pantone 7481, CMYK 72 0 83 0, RGB 0 176 100
 
 <Color color="#00B064">dpa Mittelgrün</Color>
 
@@ -28,7 +29,7 @@ Sekundärfarbe, lässt sich auch vollflächig einsetzen.
 
 __Anwendungsbeispiele:__ Buttons, Flächen
 
-__Printfarben:__ Pantone 7484, CMYK  71 17 68 37
+__Farbwerte:__ Pantone 7484, CMYK  71 17 68 37, RGB 0 99 69
 
 <Color color="#006345">dpa Nachtgrün</Color>
 
@@ -61,9 +62,9 @@ Fließtext und Überschriften sollten in der Regel den Grauton 900 haben.
 
 Das Erscheinungsbild der dpa sollte in der Regel aus viel Weißraum, Grautönen und den Grüntönen bestehen. 
 
-In Ausnahmen können punktuell ergänzend folgende Farben eingesetzt werden, zum Beispiel für Störer oder Infografiken, aber nicht für Flächen.
+In Ausnahmen können punktuell ergänzend folgende Farben eingesetzt werden, zum Beispiel für Störer oder Infografiken, aber nicht für Flächen und für Schriften.
 
-Der Einsatz dieser Farben ist mit dpa Marketing abzustimmen.
+__Der Einsatz dieser Farben ist mit dpa Marketing abzustimmen.__
 
 <ColorGroup>
   <Color color="#F9F500" colorDark="#C1BE01">Gelb</Color>
@@ -79,6 +80,12 @@ Der Einsatz dieser Farben ist mit dpa Marketing abzustimmen.
 # dpa ID Farben
 
 Das Blau darf nur für dpa ID oder dpa Apps eingesetzt werden.
+
+__dpa ID Leuchtblau:__ Primärfarbe, welche im Logo eingesetzt wird. Aufgrund der Intensität der Farbe sollte sie in der Regel nicht vollflächig eingesetzt werden, sondern Akzente setzen. 
+
+__dpa ID Mittelblau:__ Sekundärfarbe, lässt sich auch vollflächig einsetzen.
+
+__dpa ID Nachtblau:__ Sekundärfarbe, lässt sich auch vollflächig einsetzen.
 
 __Anwendungsbeispiele:__ In Apps als Link- und Highlightfarbe, für dpa ID Marketing
 

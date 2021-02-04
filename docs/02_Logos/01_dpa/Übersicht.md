@@ -1,9 +1,10 @@
+# Allgemeine Richtlinien
 - Das Logo sollte immer mit Schutzraum eingesetzt werden, nur intern und in Ausnahmen ist eine Nutzung ohne Schutzraum gestattet
 - Es sollte immer das farbige Logo eingesetzt werden, nur in Ausnahmen die einfarbigen Varianten
 - Andere Farben oder Grüntöne sind nicht erlaubt
 
 # Logokoffer
-[Logokoffer herunterladen](dpa_Logokoffer.zip)
+[Logokoffer herunterladen](./api/v1/tree/Logos/dpa/dpa_Logokoffer.zip)
 
 # Logopositionen
 Das Logo kann ausgehend von der Layoutfläche oben links, oben mittig, oben rechts, zentriert / mittig, unten links, unten mittig und unten rechts platziert werden.
@@ -17,12 +18,12 @@ Andere Positionen sind nur in Ausnahmen gestattet.
 Der Schriftzug dpa soll immer erkennbar sein. Das Logo (mit Schutzraum) soll daher 
 
 - digital nicht kleiner als eine Höhe von 24px haben
-- im Druck nicht kleiner als eine Höhe von 20mm haben
+- im Druck nicht kleiner als eine Höhe von 12mm haben
 
 
 # Mindestabstände
 
-Das Logo soll immer mit ausreichend Abstand zu den Rändern platziert werden, wie in die Logodateien mit Schutzraum festgelegt. Größere Abstände sind selbstverständlich möglich.
+Das Logo soll immer mit ausreichend Abstand zu den Rändern platziert werden, wie in den Logodateien mit Schutzraum festgelegt. Größere Abstände sind selbstverständlich möglich.
 
 ![Mindestabstände](Mindestabstände.png)
 
@@ -45,7 +46,8 @@ Das Logo soll gut erkennbar sein und in der Farbe nicht verändert werden.
 
 
 ## Social Media
+Richtlinie wie seitens dpa Marketing festgelegt.
 ![Social Media](SocialMedia.png)
-[Vorlage herunterladen](dpa_Logo_SocialMedia.zip)
+[Vorlage herunterladen](./api/v1/tree/Logos/dpa/dpa_Logo_SocialMedia.zip)
 
 

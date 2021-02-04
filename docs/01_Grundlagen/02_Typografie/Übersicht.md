@@ -16,7 +16,7 @@ Inter wird für die meisten Texte eingesetzt. Sie kann hier bezogen werden: http
 __Schriftschnitte:__ Regular, Medium und Semibold (nicht italic)
 Weitere Schriftschnitte sollten in der Regel nicht eingesetzt werden.
 
-__Anwendungsbeispiele:__ Fließtext, Buttontext, Links, Überschriften bis zu 16px, PowerPoint-Präsentationen
+__Anwendungsbeispiele:__ Fließtext, Buttontext, Links, Überschriften bis zu 16px, PowerPoint-Präsentationen, Geschäftsunterlagen, die via Microsoft Office erstellt werden
 
 __Hinweis:__ Falls ein Dokument mit dieser Schrift verschickt wird, bitte vorab als PDF konvertieren.
 
