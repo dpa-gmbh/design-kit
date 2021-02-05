@@ -1,4 +1,4 @@
-Tochterunternehmen nach dem Punkt in Futura PT Book gesetzt.
+Produktlogos werden nach dem Punkt in Futura PT Book gesetzt.
 
 # Logokoffer
 - [dpa agenda](https://devel-designkit.dpa-id.de/api/v1/tree/Logos/dpa-Produkte/dpa_agenda.zip)

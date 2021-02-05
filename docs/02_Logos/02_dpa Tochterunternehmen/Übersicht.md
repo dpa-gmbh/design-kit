@@ -1,4 +1,4 @@
-Tochterunternehmen nach dem Punkt in Futura PT Demi gesetzt.
+Logos der Tochterunternehmen werden nach dem Punkt in Futura PT Demi gesetzt.
 
 Andere Anpassungen jeglicher Art (anderer Farbton, Schriftart, etc.) sind nicht gestattet bzw. in Ausnahmen mit dpa Marketing abzustimmen.
 
