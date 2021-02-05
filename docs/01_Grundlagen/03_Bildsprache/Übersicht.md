@@ -7,14 +7,14 @@ Menschen stehen im Vordergrund und sollen authentisch wirken. Überzogene Gesten
 
 # Beispiele
 
-### dpa Impressionen
+## dpa Impressionen
 ![Portrait](Portrait.jpg)
 ![Gruppe](Gruppe.jpg)
 
-### Nachrichtliche Bilder und Symbolbilder
+## Nachrichtliche Bilder und Symbolbilder
 ![Merkel](Merkel.jpg)
 
-### Archivbilder
+## Archivbilder
 ![Archivbild](Archivbild.jpg)
 
 # Einfärbung

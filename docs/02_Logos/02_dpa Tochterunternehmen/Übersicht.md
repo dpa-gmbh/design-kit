@@ -1,4 +1,4 @@
-Alle Logos nutzen den gleichen Grünton, je nachdem ob Tochterunternehmen oder Produkt werden unterschiedliche Schriftschnitte der Futura genutzt.
+Tochterunternehmen nach dem Punkt in Futura PT Demi gesetzt.
 
 Andere Anpassungen jeglicher Art (anderer Farbton, Schriftart, etc.) sind nicht gestattet bzw. in Ausnahmen mit dpa Marketing abzustimmen.
 
@@ -12,3 +12,11 @@ Andere Anpassungen jeglicher Art (anderer Farbton, Schriftart, etc.) sind nicht 
 - [dpa it](https://devel-designkit.dpa-id.de/api/v1/tree/Logos/dpa-Tochterunternehmen/dpa_it.zip)
 - [dpa audio & video service](https://devel-designkit.dpa-id.de/api/v1/tree/Logos/dpa-Tochterunternehmen/dpa_audiovideoservice.zip)
 - [dpa zentralbild](https://devel-designkit.dpa-id.de/api/v1/tree/Logos/dpa-Tochterunternehmen/dpa_zentralbild.zip)
+
+
+
+# Beispiele falsche Nutzung
+
+Es sollen keine anderen Schriften oder Schriftschnitte eingesetzt werden. Der Punkt hat dpa Leuchtgrün als Farbe, andere Elemente dürfen nicht eingefärbt werden.
+
+![Falsche Nutzung](FN.png)

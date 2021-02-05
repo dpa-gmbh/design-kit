@@ -1,7 +1,8 @@
+# Allgemeine Richtlinien
 Der Einsatz von Gestaltungselementen ist mit dpa Marketing abzustimmen.
 
 # Punkteraster
-Der Punkteraster kann als ergänzendes Element unter Flächen, Fotos und Störern eingesetzt werden. Die erstellte Fläche ist frei in Höhe und Breite und sollte sich harmonisch einfügen.
+Punkteraster können als ergänzendes Element unter Flächen, Fotos und Störern eingesetzt werden. Die erstellte Fläche ist frei in Höhe und Breite und sollte sich harmonisch einfügen.
 
 [Vorlage herunterladen](https://devel-designkit.dpa-id.de/api/v1/tree/Grundlagen/Gestaltungselemente/Punkteraster.zip)
 
