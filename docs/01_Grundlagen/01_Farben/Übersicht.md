@@ -1,5 +1,5 @@
 # Allgemeine Richtlinien
-Als Nachrichtenagentur ist Transparenz wichtig, dies spiegelt sich in Layouts im großzügigen Einsatz von Weißraum wieder.
+Als Nachrichtenagentur ist Transparenz wichtig, dies spiegelt sich in Layouts im großzügigen Einsatz von Weißraum wider.
 
 Die Gestaltung ist nicht bunt, es sollte mit Grautönen und weiß gearbeitet werden.
 
