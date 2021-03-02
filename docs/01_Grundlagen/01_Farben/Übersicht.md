@@ -55,8 +55,7 @@ __Anwendungsbeispiele Grau 800-900:__ Text, Icons, Buttons, Footer-Hintergrundfa
 
 Fließtext und Überschriften sollten in der Regel den Grauton 900 haben.
 
-100%tiges Schwarz (#00000) kommt in der Regel nicht zum Einsatz.
-
+100%tiges Schwarz (#00000) kommt in der Regel nicht zum Einsatz, kann aber für Geschäftsbriefe, Excel-Tabellen und ähnliche Fälle genutzt werden.
 
 # Weitere Farben
 
