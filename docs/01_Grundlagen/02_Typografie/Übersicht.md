@@ -23,7 +23,7 @@ __Hinweis:__ Falls ein Dokument mit dieser Schrift verschickt wird, bitte vorab 
 
 # Fallback-Schrift: Arial
 
-Ist der Einsatz von Futura PT oder Inter nicht möglich, so ist die Schrift Arial als Fallback einzusetzen. Damit sind insbesondere Geschäftskorrespondenz, Excel-Tabellen und alle internen Schriftstücke gemeint. Grundsätzlich gilt ein unkomplizierter und pragmatischer Ansatz. Die beiden Hauptschriften Futura PT und Inter werden in erster Linie für Websites, Broschüren, Merchandising-Artikel und alles andere Offizielle eingesetzt.
+Ist der Einsatz von Futura PT oder Inter nicht möglich, so ist die Schrift Arial als Fallback einzusetzen. Damit sind insbesondere Geschäftskorrespondenz, Excel-Tabellen und alle internen Schriftstücke gemeint. Grundsätzlich gilt ein unkomplizierter und pragmatischer Ansatz. Die beiden Hauptschriften Futura PT und Inter werden in erster Linie für Websites, Broschüren, Kundenpräsentationen, Merchandising-Artikel und alles andere Offizielle eingesetzt.
 
 
 # Beispiele falsche Nutzung
