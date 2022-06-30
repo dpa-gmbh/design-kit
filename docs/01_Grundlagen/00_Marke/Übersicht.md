@@ -56,9 +56,9 @@ Unsere drei handlungsleitenden Prinzipien in der gesamten Gruppe sind:
 
 ## Welche Strategie wir verfolgen
 
-Unsere Strategie für die erste Hälfte der 20er-Jahre heißt „Magic Marketplace&quot;. Sie besteht aus Magic Services und Marktplätzen, auf denen die Magic Services stattfinden.
+Unsere Strategie für die erste Hälfte der 20er-Jahre heißt "Magic Marketplace". Sie besteht aus Magic Services und Marktplätzen, auf denen die Magic Services stattfinden.
 
-Das Prädikat „magic&quot; bedeutet für Services, dass sie einfach und intuitiv in der Anwendung für unsere Kunden außergewöhnlichen Nutzen generieren. Magic Services sind wie Schmerzmittel: sie lösen effektiv und schnell konkrete Probleme. Wer sie nutzt, dessen eigene Leistung wird spürbar besser. Magic Services sind ausschließlich darauf ausgerichtet, Kundennutzen zu steigern und dabei außergewöhnlich gute User Experience zu bieten.
+Das Prädikat "magic" bedeutet für Services, dass sie einfach und intuitiv in der Anwendung für unsere Kunden außergewöhnlichen Nutzen generieren. Magic Services sind wie Schmerzmittel: sie lösen effektiv und schnell konkrete Probleme. Wer sie nutzt, dessen eigene Leistung wird spürbar besser. Magic Services sind ausschließlich darauf ausgerichtet, Kundennutzen zu steigern und dabei außergewöhnlich gute User Experience zu bieten.
 
 Dafür entwickeln wir uns zu einem zentralen Marktplatz für die Medien- und Kommunikationsbranche. In der digitalen Welt von heute sind Kunden oft gleichzeitig Lieferanten, Partner oder Teil eines größeren Ökosystems. Deshalb verbinden wir als Marktplatz eigene und fremde, bestehende und neue Produkte miteinander. Ebenso Tools, Technologien und Know-how.
 
