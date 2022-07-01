@@ -22,7 +22,7 @@ Die dpa ist strikt überparteilich. Wir sind den Fakten verpflichtet, aber keine
 
 Richtigkeit geht immer vor Geschwindigkeit. Recherche und Überprüfen von Informationen sind das wesentliche Handwerkszeug der dpa.
 
-Was unseren Charakter auszeichnet
+## Was unseren Charakter auszeichnet
 
 **sorgfältig**
 
