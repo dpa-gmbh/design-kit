@@ -67,3 +67,5 @@ typings/
 
 # Terraform
 **/.terraform/**
+
+.idea
