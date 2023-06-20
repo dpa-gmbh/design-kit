@@ -4,6 +4,8 @@ http://design-kit.dpa-connect.de
 
 ## Beitragen
 
+Before working on this, read https://confluence.mecom.de/display/EC/Developing+for+the+documentation+sites
+
 https://design-kit.dpa-connect.de/tree/Connect-Design-Kit/Prozess/Beitragen
 
 ## Documentation
