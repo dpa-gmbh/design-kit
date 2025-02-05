@@ -18,6 +18,6 @@ Menschen stehen im Vordergrund und sollen authentisch wirken. Überzogene Gesten
 ![Archivbild](Archivbild.jpg)
 
 # Einfärbung
-Bilder können schwarz-weiß eingefärbt werden. Für Marketingzwecke können in Ausnahmen Bilder auch farbig in dpa Grüntönen oder für dpa ID im dpa ID Blau überlagert werden, um mehrere Bilder zusammengehörig erscheinen zu lassen. Es wird empfohlen mit Grafikern von dpa Marketing zu arbeiten.
+Bilder können schwarz-weiß eingefärbt werden. Für Marketingzwecke können in Ausnahmen Bilder auch farbig in dpa Grüntönen oder für dpa-ID im dpa-ID Blau überlagert werden, um mehrere Bilder zusammengehörig erscheinen zu lassen. Es wird empfohlen mit Grafikern von dpa Marketing zu arbeiten.
 
 ![Bespiel einer Einfärbung](Einfärbung.jpg)
