@@ -8,7 +8,7 @@ Punkteraster können als ergänzendes Element unter Flächen, Fotos und Störern
 
 # Marker
 Headlines oder Textauszeichnungen können mit der Marker-Linie hervorgehoben werden. 
-Diese sind in der Regel in dpa Leuchtgrün, können für dpa ID Apps aber auch in dpa ID Leuchtblau eingefärbt genutzt werden.
+Diese sind in der Regel in dpa Leuchtgrün, können für dpa-ID Apps aber auch in dpa-ID Leuchtblau eingefärbt genutzt werden.
 
 [Vorlage herunterladen](https://devel-designkit.dpa-id.de/api/v1/tree/Grundlagen/Gestaltungselemente/Marker.zip)
 

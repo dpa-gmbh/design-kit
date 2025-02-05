@@ -76,20 +76,20 @@ __Der Einsatz dieser Farben ist mit dpa Marketing abzustimmen.__
 </ColorGroup>
 
 
-# dpa ID Farben
+# dpa-ID Farben
 
-Das Blau darf nur für dpa ID oder dpa Apps eingesetzt werden.
+Das Blau darf nur für dpa-ID oder dpa Apps eingesetzt werden.
 
-__dpa ID Leuchtblau:__ Primärfarbe, welche im Logo eingesetzt wird. Aufgrund der Intensität der Farbe sollte sie in der Regel nicht vollflächig eingesetzt werden, sondern Akzente setzen. 
+__dpa-ID Leuchtblau:__ Primärfarbe, welche im Logo eingesetzt wird. Aufgrund der Intensität der Farbe sollte sie in der Regel nicht vollflächig eingesetzt werden, sondern Akzente setzen. 
 
-__dpa ID Mittelblau:__ Sekundärfarbe, lässt sich auch vollflächig einsetzen.
+__dpa-ID Mittelblau:__ Sekundärfarbe, lässt sich auch vollflächig einsetzen.
 
-__dpa ID Nachtblau:__ Sekundärfarbe, lässt sich auch vollflächig einsetzen.
+__dpa-ID Nachtblau:__ Sekundärfarbe, lässt sich auch vollflächig einsetzen.
 
-__Anwendungsbeispiele:__ In Apps als Link- und Highlightfarbe, für dpa ID Marketing
+__Anwendungsbeispiele:__ In Apps als Link- und Highlightfarbe, für dpa-ID Marketing
 
 <ColorGroup>
-  <Color color="#0045F4">dpa ID Leuchtblau</Color>
-  <Color color="#003EDB">dpa ID Mittelblau</Color>
-  <Color color="#0030AA">dpa ID Nachtblau</Color>
+  <Color color="#0045F4">dpa-ID Leuchtblau</Color>
+  <Color color="#003EDB">dpa-ID Mittelblau</Color>
+  <Color color="#0030AA">dpa-ID Nachtblau</Color>
 </ColorGroup>
