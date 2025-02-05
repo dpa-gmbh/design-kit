@@ -25,14 +25,13 @@ Read more, here:
 
 ### Development
 
-Make your relevant changes locally in the design-kit directory. You can run these changes
-locally by using the DSK at https://github.com/dpa-gmbh/dsk. 
+Make your relevant changes locally in the design-kit directory. You can test these changes on devel.
 
 ### Deployment
 
 For Deployment verify your changes locally, *only then* merge them into the Master Branch and push. This
 will trigger an automated deployment of a new version of the design-kit to
-https://design-kit.dpa-connect.de. 
+https://devel-designkit.dpa-id.de/.
 
 ### Test environment 
 
