@@ -4,6 +4,8 @@ http://design-kit.dpa-connect.de
 
 ## Beitragen
 
+Before working on this, read https://confluence.mecom.de/display/EC/Developing+for+the+documentation+sites
+
 https://design-kit.dpa-connect.de/tree/Connect-Design-Kit/Prozess/Beitragen
 
 ## Documentation
@@ -15,7 +17,7 @@ https://design-kit.dpa-connect.de/tree/Connect-Design-Kit/Prozess/Beitragen
 The documentation is rendered with the help of a custom DSK build.
 DSK stands for Design System Kit. The origin DSK ist build and maintained by Atelier Disko.
 
-Read more, here:
+Read more, here: 
 
 - https://atelierdisko.de/journal/post-167-announcing-dsk-1-0
 - https://github.com/atelierdisko/dsk
