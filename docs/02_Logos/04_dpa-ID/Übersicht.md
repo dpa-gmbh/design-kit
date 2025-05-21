@@ -2,4 +2,4 @@ Anpassungen jeglicher Art (anderer Farbton, Schriftart, etc.) sind nicht gestatt
 
 
 # Logokoffer
-- [dpa-ID](https://designkit.dpa-id.de/api/v1/tree/Logos/dpa-ID/dpa_ID.zip)
+- [dpa-ID](/api/v1/tree/Logos/dpa-ID/dpa_ID.zip)

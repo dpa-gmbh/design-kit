@@ -4,7 +4,7 @@
 - Andere Farben oder Grüntöne sind nicht erlaubt
 
 # Logokoffer
-[Logokoffer herunterladen](https://devel-designkit.dpa-id.de/api/v1/tree/Logos/dpa/dpa_Logokoffer.zip)
+[Logokoffer herunterladen](/api/v1/tree/Logos/dpa/dpa_Logokoffer.zip)
 
 # Logopositionen
 Das Logo kann ausgehend von der Layoutfläche oben links, oben mittig, oben rechts, zentriert / mittig, unten links, unten mittig und unten rechts platziert werden.
@@ -48,6 +48,6 @@ Das Logo soll gut erkennbar sein und in der Farbe nicht verändert werden.
 ## Social Media
 Richtlinie wie seitens dpa Marketing festgelegt.
 ![Social Media](SocialMedia.png)
-[Vorlage herunterladen](https://devel-designkit.dpa-id.de/api/v1/tree/Logos/dpa/dpa_Logo_SocialMedia.zip)
+[Vorlage herunterladen](/api/v1/tree/Logos/dpa/dpa_Logo_SocialMedia.zip)
 
 
